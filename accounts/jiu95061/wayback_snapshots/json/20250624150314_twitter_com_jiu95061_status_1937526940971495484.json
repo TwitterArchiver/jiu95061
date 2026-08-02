@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1936935312883925041",
+    "created_at": "2025-06-24T15:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T16:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937526940971495484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1779339846584020992",
+          "start": 0,
+          "username": "moli520280641"
+        },
+        {
+          "end": 25,
+          "id": "1490976522362302465",
+          "start": 15,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937526940971495484",
+    "in_reply_to_user_id": "1779339846584020992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937477716674248754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moli520280641 @whyuounot 我像鼬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1936935312883925041",
+        "created_at": "2025-06-24T15:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T16:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937526940971495484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1779339846584020992",
+              "start": 0,
+              "username": "moli520280641"
+            },
+            {
+              "end": 25,
+              "id": "1490976522362302465",
+              "start": 15,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937526940971495484",
+        "in_reply_to_user_id": "1779339846584020992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937477716674248754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moli520280641 @whyuounot 我像鼬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779339846584020992",
+        "conversation_id": "1936935312883925041",
+        "created_at": "2025-06-24T11:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937477716674248754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            },
+            {
+              "end": 20,
+              "id": "1490976522362302465",
+              "start": 10,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937477716674248754",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937146554609287666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 @whyuounot 我感觉你像佐助，我像L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 111,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1013
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T02:44:23.000Z",
+        "description": "09年  男  188  人形大耗子  乐意抽点小烟   很乐意交朋友",
+        "id": "1779339846584020992",
+        "name": "中南海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787095320255410177/uVgCc1Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 175
+        },
+        "username": "moli520280641",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "临场发挥第一名",
+        "id": "1490976522362302465",
+        "location": "888",
+        "name": "蛋炒饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927753690825510912/luz_DeSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6823,
+          "following_count": 1166,
+          "like_count": 7949,
+          "listed_count": 13,
+          "media_count": 1906,
+          "tweet_count": 13527
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

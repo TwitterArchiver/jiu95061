@@ -1,0 +1,124 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1850884884824522752"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1850884983407493583",
+    "created_at": "2024-10-28T12:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T13:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850884983407493583"
+    ],
+    "id": "1850884983407493583",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 3159,
+      "like_count": 9,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "#m https://t.co/VY5yTwt6BN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2856,
+        "height": 1920,
+        "media_key": "7_1850884884824522752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1850884884824522752/pu/img/sSxmYTMGy9KIHeDc.jpg",
+        "public_metrics": {
+          "view_count": 497
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1850884884824522752/pu/vid/avc1/320x568/xhMe01-4VFpfIiGw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1850884884824522752/pu/vid/avc1/480x852/I2eucVd_5sUC0bSK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1850884884824522752/pu/vid/avc1/720x1280/lJK78hZlhn1mPVgZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1850884884824522752/pu/pl/n9u7YPh-43GZmYze.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1850884884824522752"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1850884983407493583",
+        "created_at": "2024-10-28T12:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T13:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850884983407493583"
+        ],
+        "id": "1850884983407493583",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3159,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#m https://t.co/VY5yTwt6BN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 109,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 899
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

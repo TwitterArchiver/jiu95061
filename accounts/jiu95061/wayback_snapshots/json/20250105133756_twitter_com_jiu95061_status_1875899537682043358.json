@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1869452424014172390",
+    "created_at": "2025-01-05T13:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T14:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875899537682043358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1431843728742825986",
+          "start": 0,
+          "username": "LGeto0619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875899537682043358",
+    "in_reply_to_user_id": "1431843728742825986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869947874454520223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LGeto0619 不会疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1869452424014172390",
+        "created_at": "2025-01-05T13:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T14:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875899537682043358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1431843728742825986",
+              "start": 0,
+              "username": "LGeto0619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875899537682043358",
+        "in_reply_to_user_id": "1431843728742825986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869947874454520223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LGeto0619 不会疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431843728742825986",
+        "conversation_id": "1869452424014172390",
+        "created_at": "2024-12-20T03:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T04:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869947874454520223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869947874454520223",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869452424014172390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 我在想自残的时候把皮肉割开是会肉疼还是会心疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 106,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 911
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T04:59:25.000Z",
+        "description": "没错 最帅的是我",
+        "id": "1431843728742825986",
+        "name": "小瑞卷卷",
+        "pinned_tweet_id": "1814499949696127003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869921643520540672/J8CyFgj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 80
+        },
+        "username": "LGeto0619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2022514366084755924",
+    "created_at": "2026-02-14T16:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022706097409376647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022706097409376647",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022514366084755924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 点了 和朋友o很开心 陌生人啊好怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2022514366084755924",
+        "created_at": "2026-02-14T16:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022706097409376647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022706097409376647",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022514366084755924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 点了 和朋友o很开心 陌生人啊好怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2022514366084755924",
+        "created_at": "2026-02-14T03:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022514366084755924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sui_aini/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sui_aini/status/2022053841269887328",
+              "start": 24,
+              "url": "https://t.co/TdJlepuPux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022514366084755924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1148,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022053841269887328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是和朋友o有意思，不熟的人多的o趴简直是灾难 https://t.co/TdJlepuPux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 195,
+          "like_count": 1051,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1541
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 194,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1988
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

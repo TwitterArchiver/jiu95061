@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1935688437534966147",
+    "created_at": "2025-06-19T13:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T14:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935695493071532436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1495305183030497286",
+          "start": 0,
+          "username": "youdanmeiyouyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935695493071532436",
+    "in_reply_to_user_id": "1495305183030497286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935688437534966147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youdanmeiyouyou 我不行了笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935688427208364032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzyXmuW0AAMz7o.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1935688437534966147",
+        "created_at": "2025-06-19T13:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935695493071532436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1495305183030497286",
+              "start": 0,
+              "username": "youdanmeiyouyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935695493071532436",
+        "in_reply_to_user_id": "1495305183030497286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935688437534966147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youdanmeiyouyou 我不行了笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935688427208364032"
+          ]
+        },
+        "author_id": "1495305183030497286",
+        "conversation_id": "1935688437534966147",
+        "created_at": "2025-06-19T13:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935688437534966147"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "AIさん",
+              "probability": 0.549,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQEzDkXqWi",
+              "end": 31,
+              "expanded_url": "https://x.com/youdanmeiyouyou/status/1935688437534966147/photo/1",
+              "media_key": "3_1935688427208364032",
+              "start": 8,
+              "url": "https://t.co/dQEzDkXqWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935688437534966147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AIさんえぐい https://t.co/dQEzDkXqWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 109,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 974
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T07:52:04.000Z",
+        "description": "学校擬人化/東京師範と慶應と🍵激推し/女子枠、指定校入試批判/高等教育AO入試改革/オリキャラ、制服、教育、語学勉強のこと呟く/子供十六人いるシングルファザー/世界女子校聖地巡礼中/バブル経済時期大好き❤/慶應の誇りを取り戻す/国立大学授業料値上げ支持/縮小@yuukikagi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "yuukikagi2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9e10ma96mw3uj7…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9e10ma96mw3uj7o?t=QG4fNE&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FTIyv7tR5L"
+              }
+            ]
+          }
+        },
+        "id": "1495305183030497286",
+        "location": "慶應義塾大学（羽沢横浜国大キャンパス）🤡",
+        "name": "ゆうき　生まれたから慶應推しデス",
+        "pinned_tweet_id": "1933381868852031526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880275215458136065/-cRY-lNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 1404,
+          "like_count": 32015,
+          "listed_count": 7,
+          "media_count": 1109,
+          "tweet_count": 10979
+        },
+        "url": "https://t.co/FTIyv7tR5L",
+        "username": "youdanmeiyouyou",
+        "verified": false
+      }
+    ]
+  }
+}

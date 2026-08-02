@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1956222982092939617",
+    "created_at": "2025-08-15T09:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956283051258126832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956283051258126832",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956222982092939617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 细白将"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_1956222979567968257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXmb3aa4AE24gW.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1956222982092939617",
+        "created_at": "2025-08-15T09:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956283051258126832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956283051258126832",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956222982092939617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 细白将"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956222979567968257"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1956222982092939617",
+        "created_at": "2025-08-15T05:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T06:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956222982092939617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TC16hx4wG2",
+              "end": 94,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1956222982092939617/photo/1",
+              "media_key": "3_1956222979567968257",
+              "start": 71,
+              "url": "https://t.co/TC16hx4wG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956222982092939617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 590,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推油们有什么推荐的🚬吗，我平常抽炫赫门，但是成都很难买我也不知道为啥，准备换一种，要便利店能买到的别搞稀奇古怪的，不要爆珠的，能上头点的最好 https://t.co/TC16hx4wG2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/12866以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 159,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1183
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | #drugtwt #shtwt 非二元/💊🔪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128其他私聊",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9668,
+          "following_count": 881,
+          "like_count": 20577,
+          "listed_count": 10,
+          "media_count": 3243,
+          "tweet_count": 21069
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

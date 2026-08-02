@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1792411880088310181",
+    "created_at": "2024-05-20T04:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T05:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792416151122895248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699944573727064064",
+          "start": 0,
+          "username": "ddd824037192082"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792416151122895248",
+    "in_reply_to_user_id": "1699944573727064064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792415909652636103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddd824037192082 谢谢喵😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1792411880088310181",
+        "created_at": "2024-05-20T04:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T05:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792416151122895248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699944573727064064",
+              "start": 0,
+              "username": "ddd824037192082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792416151122895248",
+        "in_reply_to_user_id": "1699944573727064064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792415909652636103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddd824037192082 谢谢喵😚"
+      },
+      {
+        "attachments": {},
+        "author_id": "1699944573727064064",
+        "conversation_id": "1792411880088310181",
+        "created_at": "2024-05-20T04:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T05:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792415909652636103"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "豪堪",
+              "probability": 0.5321,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792415909652636103",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792415637622710702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 豪堪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 47,
+          "like_count": 334,
+          "listed_count": 0,
+          "tweet_count": 244
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T00:35:55.000Z",
+        "description": "搞黄色",
+        "id": "1699944573727064064",
+        "location": "哈尔滨",
+        "name": "祸福无门",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745044611943514112/Q-Yfb86o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 95,
+          "like_count": 161,
+          "listed_count": 0,
+          "tweet_count": 67
+        },
+        "username": "ddd824037192082",
+        "verified": false
+      }
+    ]
+  }
+}

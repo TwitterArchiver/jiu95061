@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2042459450171351406",
+    "created_at": "2026-04-10T19:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T20:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042689573734748337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1525433973111140353",
+          "start": 0,
+          "username": "10CFreeze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042689573734748337",
+    "in_reply_to_user_id": "1525433973111140353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042459450171351406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10CFreeze 我住院的时候吃的氟西汀＋碳酸锂挺可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2042459450171351406",
+        "created_at": "2026-04-10T19:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042689573734748337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1525433973111140353",
+              "start": 0,
+              "username": "10CFreeze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042689573734748337",
+        "in_reply_to_user_id": "1525433973111140353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042459450171351406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10CFreeze 我住院的时候吃的氟西汀＋碳酸锂挺可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525433973111140353",
+        "conversation_id": "2042459450171351406",
+        "created_at": "2026-04-10T04:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042459450171351406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042459450171351406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每个人！给我指推荐一款你们觉得最夯的抗抑郁药！（od用药除外）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 210,
+          "like_count": 1243,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 1849
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T11:13:35.000Z",
+        "description": "舟批 澄厨\nArknights player，Goldenglow lover\n\n——————以上为原版简介——————\n\n把推特当推推空间用 / 不爱鉴证 / 想到什么会随便说说/想骂我就是你赢了 / 每天活在焦虑抑郁之中 / 屈服于无药的苦痛而重拾od/ 被bpd搞砸一切 / 不害怕bpd欢迎互关 / 已打工失败",
+        "id": "1525433973111140353",
+        "name": "10CFREEZE/テンフリーズ",
+        "pinned_tweet_id": "2038534772578975862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645932489544957952/d7Aovv6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 212,
+          "like_count": 2980,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2026
+        },
+        "username": "10CFreeze",
+        "verified": false
+      }
+    ]
+  }
+}

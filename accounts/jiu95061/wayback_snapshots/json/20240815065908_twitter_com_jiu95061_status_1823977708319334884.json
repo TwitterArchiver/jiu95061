@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1823977609778380800"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1823977708319334884",
+    "created_at": "2024-08-15T06:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T07:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823977708319334884"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "门槛哥"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xzzbvhen2s",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jiu95061/status/1823977708319334884/video/1",
+          "media_key": "7_1823977609778380800",
+          "start": 5,
+          "url": "https://t.co/XzZBvhEN2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823977708319334884",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "＃门槛哥 https://t.co/XzZBvhEN2S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6710,
+        "height": 1280,
+        "media_key": "7_1823977609778380800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1823977609778380800/pu/img/l13qHrjG3aapu2C_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823977609778380800/pu/vid/avc1/320x568/uRcJ1El4i3WfMf0G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823977609778380800/pu/vid/avc1/480x852/665xPUFoxs-LF9Sn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823977609778380800/pu/vid/avc1/720x1280/TnZ-RzVPZThbl_7m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1823977609778380800/pu/pl/MpGGUOEjFM3nZ2lN.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1823977609778380800"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1823977708319334884",
+        "created_at": "2024-08-15T06:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T07:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823977708319334884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzzbvhen2s",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jiu95061/status/1823977708319334884/video/1",
+              "media_key": "7_1823977609778380800",
+              "start": 5,
+              "url": "https://t.co/XzZBvhEN2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823977708319334884",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃门槛哥 https://t.co/XzZBvhEN2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 96,
+          "like_count": 544,
+          "listed_count": 0,
+          "tweet_count": 656
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

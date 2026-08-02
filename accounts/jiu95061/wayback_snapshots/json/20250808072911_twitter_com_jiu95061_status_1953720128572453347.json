@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1953685364134359289",
+    "created_at": "2025-08-08T07:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T08:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953720128572453347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1933212338674675714",
+          "start": 0,
+          "username": "0v0cc44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953720128572453347",
+    "in_reply_to_user_id": "1933212338674675714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953685882260926933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0v0cc44 有品"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2004,
+        "media_key": "3_1953685859850760192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxzi8D8bsAASb0x.jpg",
+        "width": 2004
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953685859880116224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxzi8EDboAAph9N.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1953685364134359289",
+        "created_at": "2025-08-08T07:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953720128572453347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1933212338674675714",
+              "start": 0,
+              "username": "0v0cc44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953720128572453347",
+        "in_reply_to_user_id": "1933212338674675714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953685882260926933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0v0cc44 有品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953685859850760192",
+            "3_1953685859880116224"
+          ]
+        },
+        "author_id": "1933212338674675714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953685364134359289",
+        "created_at": "2025-08-08T05:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T06:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953685882260926933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKojHrizlt",
+              "end": 33,
+              "expanded_url": "https://x.com/0v0cc44/status/1953685882260926933/photo/1",
+              "media_key": "3_1953685859850760192",
+              "start": 10,
+              "url": "https://t.co/CKojHrizlt"
+            },
+            {
+              "display_url": "pic.x.com/CKojHrizlt",
+              "end": 33,
+              "expanded_url": "https://x.com/0v0cc44/status/1953685882260926933/photo/1",
+              "media_key": "3_1953685859880116224",
+              "start": 10,
+              "url": "https://t.co/CKojHrizlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953685882260926933",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953685364134359289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 https://t.co/CKojHrizlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/12866以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 139,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1138
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜摄影｜流浪｜…",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 102,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 557
+        },
+        "username": "0v0cc44",
+        "verified": true
+      }
+    ]
+  }
+}

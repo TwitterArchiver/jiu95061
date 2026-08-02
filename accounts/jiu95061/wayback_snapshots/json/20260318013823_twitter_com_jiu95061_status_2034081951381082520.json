@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034081947480477696"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "2034081951381082520",
+    "created_at": "2026-03-18T01:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T02:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034081951381082520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+          "display_url": "infinitetweet.me/dumb-ways-to-d…",
+          "end": 39,
+          "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "start": 16,
+          "status": 200,
+          "title": "Dumb Ways to Die • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "url": "https://t.co/yokIz0mzWL"
+        },
+        {
+          "display_url": "pic.x.com/gAZV734pqP",
+          "end": 63,
+          "expanded_url": "https://x.com/jiu95061/status/2034081951381082520/photo/1",
+          "media_key": "3_2034081947480477696",
+          "start": 40,
+          "url": "https://t.co/gAZV734pqP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034081951381082520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/yokIz0mzWL https://t.co/gAZV734pqP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2034081947480477696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDqCwROb0AAX8i6.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034081947480477696"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "2034081951381082520",
+        "created_at": "2026-03-18T01:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034081951381082520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+              "display_url": "infinitetweet.me/dumb-ways-to-d…",
+              "end": 39,
+              "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "start": 16,
+              "status": 200,
+              "title": "Dumb Ways to Die • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "url": "https://t.co/yokIz0mzWL"
+            },
+            {
+              "display_url": "pic.x.com/gAZV734pqP",
+              "end": 63,
+              "expanded_url": "https://x.com/jiu95061/status/2034081951381082520/photo/1",
+              "media_key": "3_2034081947480477696",
+              "start": 40,
+              "url": "https://t.co/gAZV734pqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034081951381082520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/yokIz0mzWL https://t.co/gAZV734pqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 219,
+          "like_count": 1215,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 1740
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

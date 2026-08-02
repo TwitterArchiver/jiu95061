@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1817207978921279602",
+    "created_at": "2024-07-27T14:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T15:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817207978921279602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513909585672736769",
+          "start": 3,
+          "username": "tianmei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817207978921279602",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817056556187549941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianmei001: 谁多爱我多理我一点我就会迅速爱上对方依赖对方…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1817207978921279602",
+        "created_at": "2024-07-27T14:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T15:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817207978921279602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513909585672736769",
+              "start": 3,
+              "username": "tianmei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817207978921279602",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817056556187549941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianmei001: 谁多爱我多理我一点我就会迅速爱上对方依赖对方…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1513909585672736769",
+        "conversation_id": "1817056556187549941",
+        "created_at": "2024-07-27T04:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T05:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817056556187549941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817056556187549941",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4345,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "谁多爱我多理我一点我就会迅速爱上对方依赖对方…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 79,
+          "like_count": 527,
+          "listed_count": 0,
+          "tweet_count": 627
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:59:16.000Z",
+        "description": "世界是假的 爱是真的",
+        "id": "1513909585672736769",
+        "name": "黯淡星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757795319704961024/VYVDFtb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14713,
+          "following_count": 258,
+          "like_count": 22902,
+          "listed_count": 42,
+          "tweet_count": 20230
+        },
+        "username": "tianmei001",
+        "verified": false
+      }
+    ]
+  }
+}

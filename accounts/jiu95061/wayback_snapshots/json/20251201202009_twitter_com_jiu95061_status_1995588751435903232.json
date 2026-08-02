@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1995573806136787259",
+    "created_at": "2025-12-01T20:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T21:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995588751435903232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826281483675299840",
+          "start": 0,
+          "username": "ci_shang85157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995588751435903232",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995573806136787259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ci_shang85157 有事可以讲 我都在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1995573806136787259",
+        "created_at": "2025-12-01T20:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T21:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995588751435903232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995588751435903232",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995573806136787259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 有事可以讲 我都在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1995573806136787259",
+        "created_at": "2025-12-01T19:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T20:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995573806136787259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995573806136787259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开始思考家庭的关系 心理问题和精神疾病的人大部分都因为亲人的关系而遭受困扰 我现在想我的家庭对蛮不错的 我又是因为什么生病？因为自责吗。好像家里人都盼着我好但是我却也做不了什么 貌似我就是这样一个人 自暴自弃我也做不到底 努力的想法也不过是三分钟热度 总有人说你还年轻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 192,
+          "like_count": 958,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 1373
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 结义兄弟@wuyan_sleeeepy @SoSleepy4wy还有穹璃 求求你们了找我聊天好不好https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "wuyan_sleeeepy"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "SoSleepy4wy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 94,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 71,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 655,
+          "like_count": 19394,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 7104
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

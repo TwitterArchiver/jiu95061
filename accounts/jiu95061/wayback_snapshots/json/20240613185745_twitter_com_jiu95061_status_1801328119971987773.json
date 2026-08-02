@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1801243924155281501",
+    "created_at": "2024-06-13T18:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T19:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801328119971987773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1722277435033657345",
+          "start": 0,
+          "username": "Amay1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801328119971987773",
+    "in_reply_to_user_id": "1722277435033657345",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801243924155281501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amay1022 晚安是婊子不如美金刚，，\n你小心吐两天吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1801243924155281501",
+        "created_at": "2024-06-13T18:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T19:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801328119971987773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1722277435033657345",
+              "start": 0,
+              "username": "Amay1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801328119971987773",
+        "in_reply_to_user_id": "1722277435033657345",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801243924155281501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amay1022 晚安是婊子不如美金刚，，\n你小心吐两天吧"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801243909114478592"
+          ]
+        },
+        "author_id": "1722277435033657345",
+        "conversation_id": "1801243924155281501",
+        "created_at": "2024-06-13T13:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T14:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801243924155281501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/QxVUMKCkfk",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Amay1022/status/1801243924155281501/photo/1",
+              "media_key": "3_1801243909114478592",
+              "start": 11,
+              "url": "https://t.co/QxVUMKCkfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801243924155281501",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 284,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金刚烷胺12t初尝试 https://t.co/QxVUMKCkfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 55,
+          "like_count": 521,
+          "listed_count": 0,
+          "tweet_count": 507
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T15:38:41.000Z",
+        "description": "05｜自傷｜od｜追星｜精神疾病",
+        "id": "1722277435033657345",
+        "name": "Amay麦子",
+        "pinned_tweet_id": "1794013640166961499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793566150246473728/5oIbFBEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 186,
+          "like_count": 606,
+          "listed_count": 1,
+          "tweet_count": 280
+        },
+        "username": "Amay1022",
+        "verified": false
+      }
+    ]
+  }
+}

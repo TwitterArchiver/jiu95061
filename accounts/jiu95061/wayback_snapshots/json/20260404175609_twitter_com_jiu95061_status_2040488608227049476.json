@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2040488608227049476",
+    "created_at": "2026-04-04T17:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040488608227049476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717890872518524928",
+          "start": 3,
+          "username": "Yuuu2333320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040488608227049476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040384213363662889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuuu2333320: 现在看不了一点侮辱凌虐的片，尤其是男的看着很普通的。虽然我喜欢被掐脖子扇耳光，或者说一些辱骂我的话，但打完之后必须帮我擦眼泪问我痛不痛，骂我的语气必须是调笑的而不是认真的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2040488608227049476",
+        "created_at": "2026-04-04T17:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040488608227049476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717890872518524928",
+              "start": 3,
+              "username": "Yuuu2333320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040488608227049476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040384213363662889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuuu2333320: 现在看不了一点侮辱凌虐的片，尤其是男的看着很普通的。虽然我喜欢被掐脖子扇耳光，或者说一些辱骂我的话，但打完之后必须帮我擦眼泪问我痛不痛，骂我的语气必须是调笑的而不是认真的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717890872518524928",
+        "conversation_id": "2040384213363662889",
+        "created_at": "2026-04-04T11:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040384213363662889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040384213363662889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22468,
+          "like_count": 257,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "现在看不了一点侮辱凌虐的片，尤其是男的看着很普通的。虽然我喜欢被掐脖子扇耳光，或者说一些辱骂我的话，但打完之后必须帮我擦眼泪问我痛不痛，骂我的语气必须是调笑的而不是认真的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 220,
+          "like_count": 1218,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 1782
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:08:07.000Z",
+        "description": "每天冲一次，不冲多了。",
+        "id": "1717890872518524928",
+        "name": "Yuuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895345854845984769/8sXQ3WKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 81,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 195
+        },
+        "username": "Yuuu2333320",
+        "verified": false
+      }
+    ]
+  }
+}

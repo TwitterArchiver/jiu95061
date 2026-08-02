@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1854161261338230993",
+    "created_at": "2024-11-06T13:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T14:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854161261338230993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1615868989355479040",
+          "start": 3,
+          "username": "xanaxxnxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854161261338230993",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837008598200627510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xanaxxnxx: 我是05的莓莓🍓\n\n有没有女宝愿意和我做朋友(˘̩̩̩ε˘̩ƪ)\n我人非常好 除了偶尔会发疯以外其他都很正常（不是 \n\n您可以把我当做情绪垃圾桶 树洞♡\n我爱女孩纸 请和我做朋友！请多多爱我！orz\n求女宝们与我互fo互转♡我爱你༾( ˊ ˅ ˋ…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1854161261338230993].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1854161261338230993",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1854161261338230993"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837008589560713216"
+          ]
+        },
+        "author_id": "1615868989355479040",
+        "conversation_id": "1837008598200627510",
+        "created_at": "2024-09-20T05:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T06:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837008598200627510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "扩列"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "二次元"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRAOCvHCuH",
+              "end": 171,
+              "expanded_url": "https://x.com/xanaxxnxx/status/1837008598200627510/photo/1",
+              "media_key": "3_1837008589560713216",
+              "start": 148,
+              "url": "https://t.co/pRAOCvHCuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837008598200627510",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 84333,
+          "like_count": 212,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "我是05的莓莓🍓\n\n有没有女宝愿意和我做朋友(˘̩̩̩ε˘̩ƪ)\n我人非常好 除了偶尔会发疯以外其他都很正常（不是 \n\n您可以把我当做情绪垃圾桶 树洞♡\n我爱女孩纸 请和我做朋友！请多多爱我！orz\n求女宝们与我互fo互转♡我爱你༾( ˊ ˅ ˋ )༿♡( ˊ ˅ ˋ )༿\n\n#扩列 #二次元 https://t.co/pRAOCvHCuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 106,
+          "like_count": 589,
+          "listed_count": 0,
+          "tweet_count": 866
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T00:29:33.000Z",
+        "description": "会努力变得更可爱",
+        "id": "1615868989355479040",
+        "location": "しくしく泣くT T",
+        "name": "莓發霉",
+        "pinned_tweet_id": "1837008598200627510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834662290152734724/wBEGsbi0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 124,
+          "like_count": 594,
+          "listed_count": 2,
+          "tweet_count": 317
+        },
+        "username": "xanaxxnxx",
+        "verified": false
+      }
+    ]
+  }
+}

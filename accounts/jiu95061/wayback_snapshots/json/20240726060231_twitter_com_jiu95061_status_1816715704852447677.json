@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1816714221297762304",
+        "3_1816714346795532288",
+        "3_1816714369646145536"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1816715704852447677",
+    "created_at": "2024-07-26T06:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T07:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816715704852447677"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 156,
+          "start": 152,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 162,
+          "start": 157,
+          "tag": "地雷女子"
+        },
+        {
+          "end": 167,
+          "start": 163,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 171,
+          "start": 168,
+          "tag": "少萝"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/tpWhGi800b",
+          "end": 195,
+          "expanded_url": "https://twitter.com/jiu95061/status/1816715704852447677/photo/1",
+          "media_key": "3_1816714221297762304",
+          "start": 172,
+          "url": "https://t.co/tpWhGi800b"
+        },
+        {
+          "display_url": "pic.twitter.com/tpWhGi800b",
+          "end": 195,
+          "expanded_url": "https://twitter.com/jiu95061/status/1816715704852447677/photo/1",
+          "media_key": "3_1816714346795532288",
+          "start": 172,
+          "url": "https://t.co/tpWhGi800b"
+        },
+        {
+          "display_url": "pic.twitter.com/tpWhGi800b",
+          "end": 195,
+          "expanded_url": "https://twitter.com/jiu95061/status/1816715704852447677/photo/1",
+          "media_key": "3_1816714369646145536",
+          "start": 172,
+          "url": "https://t.co/tpWhGi800b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816715704852447677",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👁️这里是千花瞳 ￼\n🚪52：仅有图包 后续更新无 \n     66：图包￼视频 开放朋友圈但有分组 消息偶尔回 \n     88：以上￼更新抢先看 消息看到会回 \n     120：以上 会主动找你聊天 \n     188/520：您是我主人 \n欢迎女生互fo🥺￼ \n家里不给生活费只能收门槛活着 😖\n#门槛妹 #地雷女子 #门槛姐 ＃少萝 https://t.co/tpWhGi800b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1816714221297762304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTZD9XragAAK1Y7.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1816714346795532288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTZEErMagAAuOAS.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1816714369646145536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTZEGAUbMAA8RMp.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816714221297762304",
+            "3_1816714346795532288",
+            "3_1816714369646145536"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1816715704852447677",
+        "created_at": "2024-07-26T06:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T07:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816715704852447677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 156,
+              "start": 152,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 162,
+              "start": 157,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 167,
+              "start": 163,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 171,
+              "start": 168,
+              "tag": "少萝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tpWhGi800b",
+              "end": 195,
+              "expanded_url": "https://twitter.com/jiu95061/status/1816715704852447677/photo/1",
+              "media_key": "3_1816714221297762304",
+              "start": 172,
+              "url": "https://t.co/tpWhGi800b"
+            },
+            {
+              "display_url": "pic.twitter.com/tpWhGi800b",
+              "end": 195,
+              "expanded_url": "https://twitter.com/jiu95061/status/1816715704852447677/photo/1",
+              "media_key": "3_1816714346795532288",
+              "start": 172,
+              "url": "https://t.co/tpWhGi800b"
+            },
+            {
+              "display_url": "pic.twitter.com/tpWhGi800b",
+              "end": 195,
+              "expanded_url": "https://twitter.com/jiu95061/status/1816715704852447677/photo/1",
+              "media_key": "3_1816714369646145536",
+              "start": 172,
+              "url": "https://t.co/tpWhGi800b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816715704852447677",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👁️这里是千花瞳 ￼\n🚪52：仅有图包 后续更新无 \n     66：图包￼视频 开放朋友圈但有分组 消息偶尔回 \n     88：以上￼更新抢先看 消息看到会回 \n     120：以上 会主动找你聊天 \n     188/520：您是我主人 \n欢迎女生互fo🥺￼ \n家里不给生活费只能收门槛活着 😖\n#门槛妹 #地雷女子 #门槛姐 ＃少萝 https://t.co/tpWhGi800b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816680495515672929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 71,
+          "like_count": 520,
+          "listed_count": 0,
+          "tweet_count": 620
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

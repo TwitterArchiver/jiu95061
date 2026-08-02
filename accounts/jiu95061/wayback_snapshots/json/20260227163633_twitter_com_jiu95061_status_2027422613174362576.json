@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2027422348530589696"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "2027422613174362576",
+    "created_at": "2026-02-27T16:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027422613174362576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RdYHL4L0vG",
+          "end": 26,
+          "expanded_url": "https://x.com/jiu95061/status/2027422613174362576/video/1",
+          "media_key": "7_2027422348530589696",
+          "start": 3,
+          "url": "https://t.co/RdYHL4L0vG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027422613174362576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃！ https://t.co/RdYHL4L0vG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14375,
+        "height": 1280,
+        "media_key": "7_2027422348530589696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027422348530589696/pu/img/J8PSJ6dZz8abMFKf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027422348530589696/pu/vid/avc1/320x568/cnhtiv4oxR7sDsWY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027422348530589696/pu/vid/avc1/480x852/_EU1dkv8JsTW0QVi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027422348530589696/pu/vid/avc1/720x1280/tgmsHN2DDsvI6Iw5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027422348530589696/pu/pl/FtupLP5XX3Oa4LXP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027422348530589696"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "2027422613174362576",
+        "created_at": "2026-02-27T16:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027422613174362576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdYHL4L0vG",
+              "end": 26,
+              "expanded_url": "https://x.com/jiu95061/status/2027422613174362576/video/1",
+              "media_key": "7_2027422348530589696",
+              "start": 3,
+              "url": "https://t.co/RdYHL4L0vG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027422613174362576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃！ https://t.co/RdYHL4L0vG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 205,
+          "like_count": 1176,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 1681
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

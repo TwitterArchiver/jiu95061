@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1957819628035653632"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1957819688605589599",
+    "created_at": "2025-08-19T14:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T15:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957819688605589599"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "门槛妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lW44k5dZFa",
+          "end": 34,
+          "expanded_url": "https://x.com/jiu95061/status/1957819688605589599/video/1",
+          "media_key": "7_1957819628035653632",
+          "start": 11,
+          "url": "https://t.co/lW44k5dZFa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957819688605589599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#门槛妹 真的很丑吗 https://t.co/lW44k5dZFa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4457,
+        "height": 1280,
+        "media_key": "7_1957819628035653632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957819628035653632/pu/img/RFAIXN2JVIxp6a7S.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957819628035653632/pu/vid/avc1/320x568/F5EFHU0CspFaH-aQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957819628035653632/pu/vid/avc1/480x852/JZODKvoJGRZcdwHb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957819628035653632/pu/vid/avc1/720x1280/JWAnfSTY89s_pglN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957819628035653632/pu/pl/DaMlQBzyi8wI9fMK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957819628035653632"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1957819688605589599",
+        "created_at": "2025-08-19T14:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T15:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957819688605589599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lW44k5dZFa",
+              "end": 34,
+              "expanded_url": "https://x.com/jiu95061/status/1957819688605589599/video/1",
+              "media_key": "7_1957819628035653632",
+              "start": 11,
+              "url": "https://t.co/lW44k5dZFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957819688605589599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛妹 真的很丑吗 https://t.co/lW44k5dZFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/12866以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 173,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1208
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

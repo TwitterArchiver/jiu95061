@@ -1,0 +1,336 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1817195164789887127",
+    "created_at": "2024-07-27T13:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T14:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817195164789887127"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "门槛"
+        },
+        {
+          "end": 117,
+          "start": 113,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "门哥"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "陪聊"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 135,
+          "start": 131,
+          "tag": "求包养"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "包养"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1802925052461248512",
+          "start": 3,
+          "username": "i72SbZTHeF52715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817195164789887127",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803408604814516608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i72SbZTHeF52715: 这里米汤！05女大，m/brat\n很会搞抽象会聊天，能够提供情绪价值！喜欢画涩涩，cos和打游戏\n小女孩们来互fo转！转关抽52*1 13.14*2，1000fo开\n#门槛姐 #门槛 #门槛哥 #门哥 #陪聊 #爸爸活 #求包养 #包养…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1817195164789887127].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1817195164789887127",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1817195164789887127"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803408583180308480",
+            "3_1803408583687806978",
+            "3_1803408596790812674",
+            "3_1803408583687806976"
+          ]
+        },
+        "author_id": "1802925052461248512",
+        "conversation_id": "1803408604814516608",
+        "created_at": "2024-06-19T12:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T13:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803408604814516608"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "门槛"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "门哥"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "陪聊"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "求包养"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "包养"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "擦边"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "福利"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "sm"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "女大学生"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "金主"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "原味"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "金主定制"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "线上"
+            },
+            {
+              "end": 163,
+              "start": 160,
+              "tag": "线下"
+            },
+            {
+              "end": 167,
+              "start": 164,
+              "tag": "半绿"
+            },
+            {
+              "end": 171,
+              "start": 168,
+              "tag": "纯绿"
+            },
+            {
+              "end": 175,
+              "start": 172,
+              "tag": "萝莉"
+            },
+            {
+              "end": 179,
+              "start": 176,
+              "tag": "圆角"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eNxYAO3TdQ",
+              "end": 203,
+              "expanded_url": "https://twitter.com/i72SbZTHeF52715/status/1803408604814516608/photo/1",
+              "media_key": "3_1803408583180308480",
+              "start": 180,
+              "url": "https://t.co/eNxYAO3TdQ"
+            },
+            {
+              "display_url": "pic.twitter.com/eNxYAO3TdQ",
+              "end": 203,
+              "expanded_url": "https://twitter.com/i72SbZTHeF52715/status/1803408604814516608/photo/1",
+              "media_key": "3_1803408583687806978",
+              "start": 180,
+              "url": "https://t.co/eNxYAO3TdQ"
+            },
+            {
+              "display_url": "pic.twitter.com/eNxYAO3TdQ",
+              "end": 203,
+              "expanded_url": "https://twitter.com/i72SbZTHeF52715/status/1803408604814516608/photo/1",
+              "media_key": "3_1803408596790812674",
+              "start": 180,
+              "url": "https://t.co/eNxYAO3TdQ"
+            },
+            {
+              "display_url": "pic.twitter.com/eNxYAO3TdQ",
+              "end": 203,
+              "expanded_url": "https://twitter.com/i72SbZTHeF52715/status/1803408604814516608/photo/1",
+              "media_key": "3_1803408583687806976",
+              "start": 180,
+              "url": "https://t.co/eNxYAO3TdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803408604814516608",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 77785,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "这里米汤！05女大，m/brat\n很会搞抽象会聊天，能够提供情绪价值！喜欢画涩涩，cos和打游戏\n小女孩们来互fo转！转关抽52*1 13.14*2，1000fo开\n#门槛姐 #门槛 #门槛哥 #门哥 #陪聊 #爸爸活 #求包养 #包养 #爸爸活 #擦边 #福利 #sm #女大学生 #金主 #原味 #金主定制 #线上 #线下 #半绿 #纯绿 #萝莉 #圆角 https://t.co/eNxYAO3TdQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 79,
+          "like_count": 526,
+          "listed_count": 0,
+          "tweet_count": 622
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T04:43:45.000Z",
+        "description": "防走丢 @xianshuilene\n05年女大 m/brat\n不接线下！小女孩互fo转大欢迎\n问坐标15r/次",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "xianshuilene"
+              }
+            ]
+          }
+        },
+        "id": "1802925052461248512",
+        "name": "米汤米汤米汤米汤米汤",
+        "pinned_tweet_id": "1803408604814516608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803406052282843136/nTajlwDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 243,
+          "like_count": 45,
+          "listed_count": 1,
+          "tweet_count": 143
+        },
+        "username": "i72SbZTHeF52715",
+        "verified": false
+      }
+    ]
+  }
+}

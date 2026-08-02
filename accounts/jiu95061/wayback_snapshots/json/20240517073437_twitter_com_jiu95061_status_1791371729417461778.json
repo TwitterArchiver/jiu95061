@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1791371729417461778",
+    "created_at": "2024-05-17T07:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T08:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791371729417461778"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1791371729417461778",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢处男 ，有同城的 处男来找我呀。 给你破处 \n先给你口 在用脚 用胸 最后用逼逼 夹你 \n让你体验 最完美的第一次哦 来找我吧🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1791371729417461778",
+        "created_at": "2024-05-17T07:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T08:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791371729417461778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791371729417461778",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢处男 ，有同城的 处男来找我呀。 给你破处 \n先给你口 在用脚 用胸 最后用逼逼 夹你 \n让你体验 最完美的第一次哦 来找我吧🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 49,
+          "like_count": 253,
+          "listed_count": 0,
+          "tweet_count": 140
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2026040747137642765",
+    "created_at": "2026-02-24T12:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026267659827130520"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026267659827130520",
+    "in_reply_to_user_id": "1749512000340942848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026040747137642765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实则睡了12h 抑制剂加阿片貌似安眠效果很好（bushi）深刻感受到了呼吸抑制呼吸变得特别慢和浅 弱阿片＋抑制剂就这样了强阿片真的会呼吸抑制致死的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2026040747137642765",
+        "created_at": "2026-02-24T12:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026267659827130520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026267659827130520",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026040747137642765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实则睡了12h 抑制剂加阿片貌似安眠效果很好（bushi）深刻感受到了呼吸抑制呼吸变得特别慢和浅 弱阿片＋抑制剂就这样了强阿片真的会呼吸抑制致死的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2026040747137642765",
+        "created_at": "2026-02-23T21:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T22:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026040747137642765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026040747137642765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃了1mg劳拉28t白兔born750mg普瑞10mg巴氯芬2mg替扎尼定\n刚才呼吸抑制很严重现在好了又吃了粒劳拉（期待劳拉兴奋）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 205,
+          "like_count": 1157,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1653
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

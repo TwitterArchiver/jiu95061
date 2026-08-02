@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1851903811557953536"
+      ],
+      "media_source_tweet_id": [
+        "1851903859331080316"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1851921477576331516",
+    "created_at": "2024-10-31T09:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T10:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851921477576331516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2914603186",
+          "start": 3,
+          "username": "xolovedayxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m4bAMaxOJk",
+          "end": 55,
+          "expanded_url": "https://x.com/xolovedayxo/status/1851903859331080316/video/1",
+          "media_key": "7_1851903811557953536",
+          "start": 32,
+          "url": "https://t.co/m4bAMaxOJk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851921477576331516",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851903859331080316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xolovedayxo: 去见门槛哥٩( 'ω' )و https://t.co/m4bAMaxOJk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11300,
+        "height": 1280,
+        "media_key": "7_1851903811557953536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1851903811557953536/pu/img/uJ6bm4bZNn_pqdW3.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851903811557953536/pu/vid/avc1/320x568/7irfTwgOKhTR5GvM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851903811557953536/pu/vid/avc1/480x852/Q5wTuIkreJJohyXz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851903811557953536/pu/vid/avc1/720x1280/KgLGHdVv8Z-d5NaQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1851903811557953536/pu/pl/nDGGluivCKKji6k3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1851903811557953536"
+          ],
+          "media_source_tweet_id": [
+            "1851903859331080316"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1851921477576331516",
+        "created_at": "2024-10-31T09:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T10:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851921477576331516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2914603186",
+              "start": 3,
+              "username": "xolovedayxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4bAMaxOJk",
+              "end": 55,
+              "expanded_url": "https://x.com/xolovedayxo/status/1851903859331080316/video/1",
+              "media_key": "7_1851903811557953536",
+              "start": 32,
+              "url": "https://t.co/m4bAMaxOJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851921477576331516",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851903859331080316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xolovedayxo: 去见门槛哥٩( 'ω' )و https://t.co/m4bAMaxOJk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1851903811557953536"
+          ]
+        },
+        "author_id": "2914603186",
+        "conversation_id": "1851903859331080316",
+        "created_at": "2024-10-31T08:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T09:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851903859331080316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4bAMaxOJk",
+              "end": 38,
+              "expanded_url": "https://x.com/xolovedayxo/status/1851903859331080316/video/1",
+              "media_key": "7_1851903811557953536",
+              "start": 15,
+              "url": "https://t.co/m4bAMaxOJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851903859331080316",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "去见门槛哥٩( 'ω' )و https://t.co/m4bAMaxOJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 105,
+          "like_count": 585,
+          "listed_count": 0,
+          "tweet_count": 786
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-10T22:39:19.000Z",
+        "description": "大号@xioqngtngx99899 （已过日理万机认证）🚪128 线下入门回复！！！ （问其他不回复并拉黑）奇葩太多口嗨下头男听不懂人话的三全家。全国可✈️（坐标江浙沪）！好评很多可发评价！163cm 45kg冷白皮 现实萝莉感十足！目前舞蹈生喜欢有礼貌有素质的本人性格很好相处盗图的替我挡灾全家三妈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "xioqngtngx99899"
+              }
+            ]
+          }
+        },
+        "id": "2914603186",
+        "name": "小晴同学（接线下）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851809259950149632/syz4P60Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5276,
+          "following_count": 11,
+          "like_count": 14,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "xolovedayxo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1992565411943174552",
+    "created_at": "2025-11-24T17:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T18:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993016339368493566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933212338674675714",
+          "start": 0,
+          "username": "R1k0xo_33w"
+        },
+        {
+          "end": 25,
+          "id": "1700512333100126208",
+          "start": 12,
+          "username": "5pr1ng6rIdge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993016339368493566",
+    "in_reply_to_user_id": "1933212338674675714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993014788600086929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1k0xo_33w @5pr1ng6rIdge 行吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1992565411943174552",
+        "created_at": "2025-11-24T17:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993016339368493566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933212338674675714",
+              "start": 0,
+              "username": "R1k0xo_33w"
+            },
+            {
+              "end": 25,
+              "id": "1700512333100126208",
+              "start": 12,
+              "username": "5pr1ng6rIdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993016339368493566",
+        "in_reply_to_user_id": "1933212338674675714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993014788600086929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo_33w @5pr1ng6rIdge 行吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933212338674675714",
+        "conversation_id": "1992565411943174552",
+        "created_at": "2025-11-24T17:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993014788600086929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            },
+            {
+              "end": 23,
+              "id": "1700512333100126208",
+              "start": 10,
+              "username": "5pr1ng6rIdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993014788600086929",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993011464207302874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 @5pr1ng6rIdge 酒精煤油之类的不然点不着呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 192,
+          "like_count": 945,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1349
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜流浪｜我是混乱的孩子｜@jiu95061 是我的小宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jiu95061"
+              }
+            ]
+          }
+        },
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "pinned_tweet_id": "1955374082704413136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 148,
+          "like_count": 1392,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1323
+        },
+        "username": "R1k0xo_33w",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-09T14:12:46.000Z",
+        "description": "My thoughts will follow you into your dreams ｜🪼🩷🍥 🟨⬜️🟪⬛️ 🚩🏴Ⓐ☂️🏳️‍⚧️ enby (it||she) ｜@4SakennSpiral ALL=(ALL) NOPASSWD: ALL *←Sudoers File（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "4SakennSpiral"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.pronouns.page/@5Pr1ng6ridge",
+                "end": 23,
+                "expanded_url": "https://zh.pronouns.page/@5Pr1ng6ridge",
+                "start": 0,
+                "url": "https://t.co/NGZweumJ2O"
+              }
+            ]
+          }
+        },
+        "id": "1700512333100126208",
+        "location": "fwarinben",
+        "name": "_idge//_r1ng_.🐱🍥☂️🏴",
+        "pinned_tweet_id": "1962891589501726893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950793842590187520/bdOblZxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 704,
+          "like_count": 10551,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/NGZweumJ2O",
+        "username": "5pr1ng6rIdge",
+        "verified": false
+      }
+    ]
+  }
+}

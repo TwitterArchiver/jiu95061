@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026407110213525504"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026407114705612974",
+    "created_at": "2026-02-24T21:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T22:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026407114705612974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TM9og9tlx1",
+          "end": 43,
+          "expanded_url": "https://x.com/jiu95061/status/2026407114705612974/photo/1",
+          "media_key": "3_2026407110213525504",
+          "start": 20,
+          "url": "https://t.co/TM9og9tlx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026407114705612974",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最高的一次 跳一跳给我干（bushi） https://t.co/TM9og9tlx1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026407110213525504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB8-h8aaYAALuPO.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026407110213525504"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026407114705612974",
+        "created_at": "2026-02-24T21:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T22:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026407114705612974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TM9og9tlx1",
+              "end": 43,
+              "expanded_url": "https://x.com/jiu95061/status/2026407114705612974/photo/1",
+              "media_key": "3_2026407110213525504",
+              "start": 20,
+              "url": "https://t.co/TM9og9tlx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026407114705612974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最高的一次 跳一跳给我干（bushi） https://t.co/TM9og9tlx1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 205,
+          "like_count": 1165,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1660
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

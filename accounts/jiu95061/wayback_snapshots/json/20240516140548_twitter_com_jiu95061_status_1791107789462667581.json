@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1791045482741113329",
+    "created_at": "2024-05-16T14:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T15:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791107789462667581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791107789462667581",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791045482741113329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 求前任被车撞教程。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1791045482741113329",
+        "created_at": "2024-05-16T14:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T15:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791107789462667581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791107789462667581",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791045482741113329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 求前任被车撞教程。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1791045482741113329",
+        "created_at": "2024-05-16T09:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T10:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791045482741113329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791045482741113329",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1994,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨前任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 47,
+          "like_count": 247,
+          "listed_count": 0,
+          "tweet_count": 129
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12822,
+          "following_count": 2235,
+          "like_count": 52013,
+          "listed_count": 18,
+          "tweet_count": 17382
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

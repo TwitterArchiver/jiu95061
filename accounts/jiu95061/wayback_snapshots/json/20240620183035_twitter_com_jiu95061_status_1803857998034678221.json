@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1803850044489240980",
+    "created_at": "2024-06-20T18:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T19:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803857998034678221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770504315888877568",
+          "start": 0,
+          "username": "Yuuuki1739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803857998034678221",
+    "in_reply_to_user_id": "1770504315888877568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803850044489240980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuuki1739 ？不是你们恋爱这么谈的？%？？+啊？我都是视奸前任死没死……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1803850044489240980",
+        "created_at": "2024-06-20T18:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T19:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803857998034678221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770504315888877568",
+              "start": 0,
+              "username": "Yuuuki1739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803857998034678221",
+        "in_reply_to_user_id": "1770504315888877568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803850044489240980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuuki1739 ？不是你们恋爱这么谈的？%？？+啊？我都是视奸前任死没死……"
+      },
+      {
+        "attachments": {},
+        "author_id": "1770504315888877568",
+        "conversation_id": "1803850044489240980",
+        "created_at": "2024-06-20T17:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T18:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803850044489240980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803850044489240980",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前和前女友说好了要相互变好w 虽然现在分了但是看他有在好好努力也有自己的奋斗爱好 也算是有点开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1801584641486557225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 56,
+          "like_count": 485,
+          "listed_count": 0,
+          "tweet_count": 553
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T17:35:07.000Z",
+        "description": "日本語English中文 裏アカ/因为承認欲求导致的男喘号/INFJ/不是4i。/不是男同。纯喜欢女生/私信看到都会回的最好夸夸我/好想死。/在破烂的地方一个人烂掉",
+        "id": "1770504315888877568",
+        "location": "東京下水道",
+        "name": "宮城いずみMiyagi",
+        "pinned_tweet_id": "1791850295158575478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791847435431821313/XzrdcT1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 121,
+          "like_count": 3241,
+          "listed_count": 0,
+          "tweet_count": 1042
+        },
+        "username": "Yuuuki1739",
+        "verified": true
+      }
+    ]
+  }
+}

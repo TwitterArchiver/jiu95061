@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1792229728008667587",
+    "created_at": "2024-05-19T16:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T17:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792231034295304582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770504315888877568",
+          "start": 0,
+          "username": "Yuuuki1739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792231034295304582",
+    "in_reply_to_user_id": "1770504315888877568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792230482106884099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuuki1739 一直想怎么像 那就萎了咋办呀你教教我呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1792229728008667587",
+        "created_at": "2024-05-19T16:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T17:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792231034295304582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770504315888877568",
+              "start": 0,
+              "username": "Yuuuki1739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792231034295304582",
+        "in_reply_to_user_id": "1770504315888877568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792230482106884099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuuki1739 一直想怎么像 那就萎了咋办呀你教教我呢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1770504315888877568",
+        "conversation_id": "1792229728008667587",
+        "created_at": "2024-05-19T16:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T17:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792230482106884099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792230482106884099",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792230102526550307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 这学呢 您得像啊 咱也不是天生就会操逼的 \n那肯定要学啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 46,
+          "like_count": 316,
+          "listed_count": 0,
+          "tweet_count": 218
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T17:35:07.000Z",
+        "description": "日本語English中文 裏アカ/因为承認欲求导致的男喘号/INFJ/不是4i。/私信看到都会回的最好夸夸我/好想死。/在破烂的地方一个人烂掉",
+        "id": "1770504315888877568",
+        "location": "一个人孤独发臭腐烂的地方",
+        "name": "宮城いずみMiyagi",
+        "pinned_tweet_id": "1791850295158575478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791847435431821313/XzrdcT1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 27,
+          "like_count": 105,
+          "listed_count": 0,
+          "tweet_count": 68
+        },
+        "username": "Yuuuki1739",
+        "verified": false
+      }
+    ]
+  }
+}

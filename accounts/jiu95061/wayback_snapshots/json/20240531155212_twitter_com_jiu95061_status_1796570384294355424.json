@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1796570384294355424",
+    "created_at": "2024-05-31T15:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T16:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796570384294355424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AiitaColli6719…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/AiitaColli67190/status/1796562724790698177",
+          "start": 25,
+          "url": "https://t.co/juiGrzfGIB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796570384294355424",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796562724790698177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起。。我才知道…🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡 https://t.co/juiGrzfGIB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1796570384294355424",
+        "created_at": "2024-05-31T15:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T16:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796570384294355424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AiitaColli6719…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/AiitaColli67190/status/1796562724790698177",
+              "start": 25,
+              "url": "https://t.co/juiGrzfGIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796570384294355424",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796562724790698177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起。。我才知道…🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡 https://t.co/juiGrzfGIB"
+      },
+      {
+        "attachments": {},
+        "author_id": "1722968498844979200",
+        "conversation_id": "1796562724790698177",
+        "created_at": "2024-05-31T15:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T16:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796562724790698177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796562724790698177",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不回信息就是讨厌你知道不？妹子别当舔狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 59,
+          "like_count": 464,
+          "listed_count": 0,
+          "tweet_count": 408
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T13:24:58.000Z",
+        "description": "天天都好困(ฅ≧へ≦)ฅ",
+        "id": "1722968498844979200",
+        "location": "天国",
+        "name": "Sheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792461802812649473/LlXFnJ1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 45,
+          "like_count": 546,
+          "listed_count": 0,
+          "tweet_count": 272
+        },
+        "username": "AiitaColli67190",
+        "verified": false
+      }
+    ]
+  }
+}

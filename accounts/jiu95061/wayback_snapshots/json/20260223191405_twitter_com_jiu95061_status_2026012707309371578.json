@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2026012707309371578",
+    "created_at": "2026-02-23T19:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T20:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026012707309371578"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026012707309371578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真是烦死了抖音一个傻逼上来就说我去找他教唆他健全人嗑药非说我忘了真是死妈了啊我从来没有教唆过别人吃药我能劝一个是一个上来就给我扣帽子问细节也说不上来我找的朋友也就那几个从来没有跟我同省份的我素质还是太高了我应该第一时间骂他死妈的气死了气死我了气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2026012707309371578",
+        "created_at": "2026-02-23T19:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026012707309371578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026012707309371578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真是烦死了抖音一个傻逼上来就说我去找他教唆他健全人嗑药非说我忘了真是死妈了啊我从来没有教唆过别人吃药我能劝一个是一个上来就给我扣帽子问细节也说不上来我找的朋友也就那几个从来没有跟我同省份的我素质还是太高了我应该第一时间骂他死妈的气死了气死我了气死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 203,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 1647
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1792193908757385336",
+    "created_at": "2024-05-20T04:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T05:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792406064488726846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1725069517011763200",
+          "start": 0,
+          "username": "gou_dan82447"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792406064488726846",
+    "in_reply_to_user_id": "1725069517011763200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792193908757385336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gou_dan82447 是这样的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1792193908757385336",
+        "created_at": "2024-05-20T04:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T05:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792406064488726846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1725069517011763200",
+              "start": 0,
+              "username": "gou_dan82447"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792406064488726846",
+        "in_reply_to_user_id": "1725069517011763200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792193908757385336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gou_dan82447 是这样的。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792193906287038464"
+          ]
+        },
+        "author_id": "1725069517011763200",
+        "conversation_id": "1792193908757385336",
+        "created_at": "2024-05-19T14:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T15:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792193908757385336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TML6ye6dPc",
+              "end": 27,
+              "expanded_url": "https://twitter.com/gou_dan82447/status/1792193908757385336/photo/1",
+              "media_key": "3_1792193906287038464",
+              "start": 4,
+              "url": "https://t.co/TML6ye6dPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792193908757385336",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2091,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逼样的 https://t.co/TML6ye6dPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 47,
+          "like_count": 330,
+          "listed_count": 0,
+          "tweet_count": 241
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T08:35:18.000Z",
+        "description": "狗蛋就好｜爱我关注我丨 有趣就过门 丨\n日常在 @quan81725｜大好き^ᐜ^@ZzZzfor79",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "quan81725"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ZzZzfor79"
+              }
+            ]
+          }
+        },
+        "id": "1725069517011763200",
+        "location": "25/55/88🚪",
+        "name": "𝒈𝒖𝒖𝒅𝒏",
+        "pinned_tweet_id": "1786472423564656721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726100549505048576/VLkjPLqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7790,
+          "following_count": 767,
+          "like_count": 5892,
+          "listed_count": 12,
+          "tweet_count": 4076
+        },
+        "username": "gou_dan82447",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938535173311836376",
+    "created_at": "2025-06-27T14:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938610637720137961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1791797904946163713",
+          "start": 0,
+          "username": "Kklssovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938610637720137961",
+    "in_reply_to_user_id": "1791797904946163713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938535173311836376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kklssovo 骚货欠操了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938535159923617792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucPdQfaMAATnpS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938535161093918720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucPdU2bkAAMQ6S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1938535160401821696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucPdSRbAAAvPlH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938535173311836376",
+        "created_at": "2025-06-27T14:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938610637720137961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1791797904946163713",
+              "start": 0,
+              "username": "Kklssovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938610637720137961",
+        "in_reply_to_user_id": "1791797904946163713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938535173311836376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kklssovo 骚货欠操了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938535159923617792",
+            "3_1938535161093918720",
+            "3_1938535160401821696"
+          ]
+        },
+        "author_id": "1791797904946163713",
+        "conversation_id": "1938535173311836376",
+        "created_at": "2025-06-27T09:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938535173311836376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v54zQvS3Ig",
+              "end": 30,
+              "expanded_url": "https://x.com/Kklssovo/status/1938535173311836376/photo/1",
+              "media_key": "3_1938535159923617792",
+              "start": 7,
+              "url": "https://t.co/v54zQvS3Ig"
+            },
+            {
+              "display_url": "pic.x.com/v54zQvS3Ig",
+              "end": 30,
+              "expanded_url": "https://x.com/Kklssovo/status/1938535173311836376/photo/1",
+              "media_key": "3_1938535161093918720",
+              "start": 7,
+              "url": "https://t.co/v54zQvS3Ig"
+            },
+            {
+              "display_url": "pic.x.com/v54zQvS3Ig",
+              "end": 30,
+              "expanded_url": "https://x.com/Kklssovo/status/1938535173311836376/photo/1",
+              "media_key": "3_1938535160401821696",
+              "start": 7,
+              "url": "https://t.co/v54zQvS3Ig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938535173311836376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能骂我两句 https://t.co/v54zQvS3Ig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 127,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1061
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T11:48:16.000Z",
+        "description": "给我钱（纯恶意）",
+        "id": "1791797904946163713",
+        "name": "yyyyyyy",
+        "pinned_tweet_id": "1918337531025997920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933608925984854016/kWNVh4UK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 179,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 839
+        },
+        "username": "Kklssovo",
+        "verified": false
+      }
+    ]
+  }
+}

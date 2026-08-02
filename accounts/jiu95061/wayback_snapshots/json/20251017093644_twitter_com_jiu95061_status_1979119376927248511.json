@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1978728841951465563",
+    "created_at": "2025-10-17T09:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T10:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979119376927248511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1069580662020034562",
+          "start": 0,
+          "username": "Chaa0920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979119376927248511",
+    "in_reply_to_user_id": "1069580662020034562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978728841951465563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chaa0920 郑州dd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1978728841951465563",
+        "created_at": "2025-10-17T09:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979119376927248511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1069580662020034562",
+              "start": 0,
+              "username": "Chaa0920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979119376927248511",
+        "in_reply_to_user_id": "1069580662020034562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978728841951465563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chaa0920 郑州dd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069580662020034562",
+        "conversation_id": "1978728841951465563",
+        "created_at": "2025-10-16T07:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978728841951465563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978728841951465563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 234185,
+          "like_count": 1028,
+          "quote_count": 0,
+          "reply_count": 997,
+          "retweet_count": 364
+        },
+        "reply_settings": "everyone",
+        "text": "快乐周四\n\n城市+性别+年龄+兴趣爱好\n\n评论区认真说说想找怎样的搭子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 181,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1231
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T13:14:36.000Z",
+        "description": "【 原创黄推知心奶妈·记录网友发骚日常·解答各类黄推问题】Web3·被套小白菜一枚【 #GBDS｜ #BTC｜ #ETH｜ #每日交友｜#每日大赛｜#日理万姬】#隔壁大叔 希望大家能在X上开心快乐的冲浪·每晚一定要大头控制小头！不要上当受骗！！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "GBDS"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "BTC"
+              },
+              {
+                "end": 60,
+                "start": 56,
+                "tag": "ETH"
+              },
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "每日交友"
+              },
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "每日大赛"
+              },
+              {
+                "end": 79,
+                "start": 74,
+                "tag": "日理万姬"
+              },
+              {
+                "end": 85,
+                "start": 80,
+                "tag": "隔壁大叔"
+              }
+            ]
+          }
+        },
+        "id": "1069580662020034562",
+        "name": "隔壁大叔",
+        "pinned_tweet_id": "1979113131260444964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969085343606378496/iPr2tDXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80772,
+          "following_count": 607,
+          "like_count": 21889,
+          "listed_count": 129,
+          "media_count": 1351,
+          "tweet_count": 44008
+        },
+        "username": "Chaa0920",
+        "verified": true
+      }
+    ]
+  }
+}

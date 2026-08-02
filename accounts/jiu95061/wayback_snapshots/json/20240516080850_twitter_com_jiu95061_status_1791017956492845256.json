@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1791017956492845256",
+    "created_at": "2024-05-16T08:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T09:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791017956492845256"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1791017956492845256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一想到攒了好久的钱买的十盒普瑞被扔了 这感觉比杀了我还难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1791017956492845256",
+        "created_at": "2024-05-16T08:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T09:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791017956492845256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791017956492845256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到攒了好久的钱买的十盒普瑞被扔了 这感觉比杀了我还难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 47,
+          "like_count": 243,
+          "listed_count": 0,
+          "tweet_count": 118
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1791142859384709612",
+    "created_at": "2024-05-16T16:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T17:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791142859384709612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiu95061/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/jiu95061/status/1791088654917710282",
+          "start": 27,
+          "url": "https://t.co/hMy6YWC49f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791142859384709612",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791088654917710282",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "联用之后普瑞的药效特大加上安坦的散瞳幻视爽死了。。。 https://t.co/hMy6YWC49f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1791142859384709612",
+        "created_at": "2024-05-16T16:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T17:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791142859384709612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiu95061/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/jiu95061/status/1791088654917710282",
+              "start": 27,
+              "url": "https://t.co/hMy6YWC49f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791142859384709612",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791088654917710282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "联用之后普瑞的药效特大加上安坦的散瞳幻视爽死了。。。 https://t.co/hMy6YWC49f"
+      },
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1791088654917710282",
+        "created_at": "2024-05-16T12:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T13:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791088654917710282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791088654917710282",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安坦+普瑞😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 48,
+          "like_count": 247,
+          "listed_count": 0,
+          "tweet_count": 130
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

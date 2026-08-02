@@ -1,0 +1,227 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1792033449983049835",
+    "created_at": "2024-05-19T16:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T17:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792228107019235422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770504315888877568",
+          "start": 0,
+          "username": "Yuuuki1739"
+        },
+        {
+          "end": 18,
+          "id": "1445256817613815808",
+          "start": 12,
+          "username": "K0hUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792228107019235422",
+    "in_reply_to_user_id": "1770504315888877568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792227790097711126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuuki1739 @K0hUp 汪汪汪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1792033449983049835",
+        "created_at": "2024-05-19T16:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T17:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792228107019235422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770504315888877568",
+              "start": 0,
+              "username": "Yuuuki1739"
+            },
+            {
+              "end": 18,
+              "id": "1445256817613815808",
+              "start": 12,
+              "username": "K0hUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792228107019235422",
+        "in_reply_to_user_id": "1770504315888877568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792227790097711126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuuki1739 @K0hUp 汪汪汪"
+      },
+      {
+        "attachments": {},
+        "author_id": "1770504315888877568",
+        "conversation_id": "1792033449983049835",
+        "created_at": "2024-05-19T16:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T17:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792227790097711126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            },
+            {
+              "end": 16,
+              "id": "1445256817613815808",
+              "start": 10,
+              "username": "K0hUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792227790097711126",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792227002038342006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 @K0hUp 扫墓狗怎么出来了👿👿我可是极品s 你不想要别人还排队呢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 46,
+          "like_count": 316,
+          "listed_count": 0,
+          "tweet_count": 212
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T17:35:07.000Z",
+        "description": "日本語English中文 裏アカ/因为承認欲求导致的男喘号/INFJ/不是4i。/私信看到都会回的最好夸夸我/好想死。/在破烂的地方一个人烂掉",
+        "id": "1770504315888877568",
+        "location": "一个人孤独发臭腐烂的地方",
+        "name": "宮城いずみMiyagi",
+        "pinned_tweet_id": "1791850295158575478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791847435431821313/XzrdcT1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 27,
+          "like_count": 100,
+          "listed_count": 0,
+          "tweet_count": 63
+        },
+        "username": "Yuuuki1739",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T05:17:55.000Z",
+        "description": "1｜S｜xp日記簿📓｜随便写写⚠️不搞黄｜@k1110709",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "k1110709"
+              }
+            ]
+          }
+        },
+        "id": "1445256817613815808",
+        "name": "尺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773155510583508993/7zadmpF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10451,
+          "following_count": 86,
+          "like_count": 3372,
+          "listed_count": 15,
+          "tweet_count": 854
+        },
+        "username": "K0hUp",
+        "verified": false
+      }
+    ]
+  }
+}

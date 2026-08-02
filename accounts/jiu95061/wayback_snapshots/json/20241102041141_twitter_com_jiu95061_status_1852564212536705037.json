@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1852564212536705037",
+    "created_at": "2024-11-02T04:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T05:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852564212536705037"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830883179080851456",
+          "start": 3,
+          "username": "nini191340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852564212536705037",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831375503292305508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nini191340: 这里是捏捏\n\n割手od穿孔\n🚪好友位52/88\n      解锁朋友圈100r有图\n      同上主动聊天聊骚200r发部分私密照\n      可指定位置私密照另买\n      520r有二选一项目\n\n欢迎宝宝跟我互fo/转呀～\n#门槛 #门槛…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852564212536705037].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852564212536705037",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852564212536705037"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831375427220213760",
+            "3_1831375427186708480",
+            "3_1831375428272959488"
+          ]
+        },
+        "author_id": "1830883179080851456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1831375503292305508",
+        "created_at": "2024-09-04T16:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T17:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831375503292305508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "门槛"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1PicclEC9",
+              "end": 153,
+              "expanded_url": "https://x.com/nini191340/status/1831375503292305508/photo/1",
+              "media_key": "3_1831375427220213760",
+              "start": 130,
+              "url": "https://t.co/S1PicclEC9"
+            },
+            {
+              "display_url": "pic.x.com/S1PicclEC9",
+              "end": 153,
+              "expanded_url": "https://x.com/nini191340/status/1831375503292305508/photo/1",
+              "media_key": "3_1831375427186708480",
+              "start": 130,
+              "url": "https://t.co/S1PicclEC9"
+            },
+            {
+              "display_url": "pic.x.com/S1PicclEC9",
+              "end": 153,
+              "expanded_url": "https://x.com/nini191340/status/1831375503292305508/photo/1",
+              "media_key": "3_1831375428272959488",
+              "start": 130,
+              "url": "https://t.co/S1PicclEC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831375503292305508",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 31544,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "这里是捏捏\n\n割手od穿孔\n🚪好友位52/88\n      解锁朋友圈100r有图\n      同上主动聊天聊骚200r发部分私密照\n      可指定位置私密照另买\n      520r有二选一项目\n\n欢迎宝宝跟我互fo/转呀～\n#门槛 #门槛妹 #爸爸活 https://t.co/S1PicclEC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 103,
+          "like_count": 586,
+          "listed_count": 0,
+          "tweet_count": 816
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T08:19:30.000Z",
+        "description": "🚪52/100/200/520/1314 口令或赞赏",
+        "id": "1830883179080851456",
+        "location": "武汉",
+        "name": "捏捏",
+        "pinned_tweet_id": "1831375503292305508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830883973553422336/gPxwF8CR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 43,
+          "like_count": 34,
+          "listed_count": 2,
+          "tweet_count": 172
+        },
+        "username": "nini191340",
+        "verified": false
+      }
+    ]
+  }
+}

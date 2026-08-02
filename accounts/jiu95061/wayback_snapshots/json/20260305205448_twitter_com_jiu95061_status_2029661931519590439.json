@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2029661931519590439",
+    "created_at": "2026-03-05T20:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T21:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029661931519590439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pyke2076/statu…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/pyke2076/status/2029465671755813154",
+          "start": 44,
+          "url": "https://t.co/txtCwdeaTu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029661931519590439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029465671755813154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自从n55说自己吃了两万毫克普瑞开始一堆人争先模仿以为吃得多就是牛逼了一群浪费药的傻子 https://t.co/txtCwdeaTu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2029661931519590439",
+        "created_at": "2026-03-05T20:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T21:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029661931519590439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pyke2076/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/pyke2076/status/2029465671755813154",
+              "start": 44,
+              "url": "https://t.co/txtCwdeaTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029661931519590439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029465671755813154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自从n55说自己吃了两万毫克普瑞开始一堆人争先模仿以为吃得多就是牛逼了一群浪费药的傻子 https://t.co/txtCwdeaTu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2029465671755813154",
+        "created_at": "2026-03-05T07:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029465671755813154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029465671755813154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7530,
+          "like_count": 150,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "提醒一下，不管你吃多少毫克的普瑞巴林，都不会成为所谓的“药神”，拿动辄几十克的普瑞巴林来自寻短见，在别人眼里，无论是是在圈内还是圈外，都看起来像个傻子👎🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 208,
+          "like_count": 1186,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1700
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bunny2076",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bunny2076",
+                "start": 0,
+                "url": "https://t.co/ea8GmOUClU"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8348,
+          "following_count": 1231,
+          "like_count": 64443,
+          "listed_count": 8,
+          "media_count": 2998,
+          "tweet_count": 18041
+        },
+        "url": "https://t.co/ea8GmOUClU",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

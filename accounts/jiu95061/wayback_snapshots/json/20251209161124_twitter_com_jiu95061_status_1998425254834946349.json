@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998425246672830465"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1998425254834946349",
+    "created_at": "2025-12-09T16:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T17:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998425254834946349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PrM45P2r2z",
+          "end": 78,
+          "expanded_url": "https://x.com/jiu95061/status/1998425254834946349/photo/1",
+          "media_key": "3_1998425246672830465",
+          "start": 55,
+          "url": "https://t.co/PrM45P2r2z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998425254834946349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以后呢，清明节头像上放个死人，端午节头像上放个粽子，国庆节上面放国旗，圣诞节放圣诞帽。情人节头像上放个避孕套 https://t.co/PrM45P2r2z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1998425246672830465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7vVLHobQAEhV3_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998425246672830465"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1998425254834946349",
+        "created_at": "2025-12-09T16:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T17:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998425254834946349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrM45P2r2z",
+              "end": 78,
+              "expanded_url": "https://x.com/jiu95061/status/1998425254834946349/photo/1",
+              "media_key": "3_1998425246672830465",
+              "start": 55,
+              "url": "https://t.co/PrM45P2r2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998425254834946349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后呢，清明节头像上放个死人，端午节头像上放个粽子，国庆节上面放国旗，圣诞节放圣诞帽。情人节头像上放个避孕套 https://t.co/PrM45P2r2z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 190,
+          "like_count": 968,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 1395
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1857065090157048289",
+    "created_at": "2024-11-14T14:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T15:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857065090157048289"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "门槛"
+        },
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 111,
+          "start": 106,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 117,
+          "start": 113,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 128,
+          "start": 123,
+          "tag": "女高中生"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "陪聊"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "包养"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1832193044311109632",
+          "start": 3,
+          "username": "Ccqaq77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857065090157048289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854911129447022976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Ccqaq77: hi 我又重生啦 前世2k粉\n05女大小狗 接爸爸活 非绿 \n过🚪仔细看p1 欢迎金主爸爸们过🚪\n关注转发评论点赞 抽88x1 52x1 \n🈵1000fo开 #门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪聊 #包养 #妈…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1857065090157048289",
+        "created_at": "2024-11-14T14:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T15:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857065090157048289"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "门槛"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "女高中生"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "陪聊"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "包养"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1832193044311109632",
+              "start": 3,
+              "username": "Ccqaq77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857065090157048289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854911129447022976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Ccqaq77: hi 我又重生啦 前世2k粉\n05女大小狗 接爸爸活 非绿 \n过🚪仔细看p1 欢迎金主爸爸们过🚪\n关注转发评论点赞 抽88x1 52x1 \n🈵1000fo开 #门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪聊 #包养 #妈…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854911114913759240",
+            "3_1854911114926342144"
+          ]
+        },
+        "author_id": "1832193044311109632",
+        "conversation_id": "1854911129447022976",
+        "created_at": "2024-11-08T15:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T16:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854911129447022976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "门槛"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "女高中生"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "陪聊"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "包养"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 136,
+              "start": 129,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EpKzA0Koii",
+              "end": 165,
+              "expanded_url": "https://x.com/Ccqaq77/status/1854911129447022976/photo/1",
+              "media_key": "3_1854911114913759240",
+              "start": 142,
+              "url": "https://t.co/EpKzA0Koii"
+            },
+            {
+              "display_url": "pic.x.com/EpKzA0Koii",
+              "end": 165,
+              "expanded_url": "https://x.com/Ccqaq77/status/1854911129447022976/photo/1",
+              "media_key": "3_1854911114926342144",
+              "start": 142,
+              "url": "https://t.co/EpKzA0Koii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854911129447022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 26949,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 87
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "hi 我又重生啦 前世2k粉\n05女大小狗 接爸爸活 非绿 \n过🚪仔细看p1 欢迎金主爸爸们过🚪\n关注转发评论点赞 抽88x1 52x1 \n🈵1000fo开 #门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪聊 #包养 #妈妈活 #ATM打钱奴  #金主 https://t.co/EpKzA0Koii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 107,
+          "like_count": 588,
+          "listed_count": 0,
+          "tweet_count": 888
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T23:04:10.000Z",
+        "description": "好想你",
+        "id": "1832193044311109632",
+        "location": "只回入🚪",
+        "name": "Cc",
+        "pinned_tweet_id": "1854911129447022976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854203370883706880/cpRTCUpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 12,
+          "like_count": 48,
+          "listed_count": 0,
+          "tweet_count": 65
+        },
+        "username": "Ccqaq77",
+        "verified": false
+      }
+    ]
+  }
+}

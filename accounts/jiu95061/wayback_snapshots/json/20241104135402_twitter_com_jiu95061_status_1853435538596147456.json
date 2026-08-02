@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1853435538596147456",
+    "created_at": "2024-11-04T13:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T14:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853435538596147456"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1853435538596147456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我哭了谁知道？我也是人，如果不是走头无路我不可能选择来当门槛妹一天天被骂被催更被删我不想这样可我没有选择 全都是我咎由自取"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1853435538596147456",
+        "created_at": "2024-11-04T13:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T14:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853435538596147456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853435538596147456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我哭了谁知道？我也是人，如果不是走头无路我不可能选择来当门槛妹一天天被骂被催更被删我不想这样可我没有选择 全都是我咎由自取"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 103,
+          "like_count": 585,
+          "listed_count": 0,
+          "tweet_count": 846
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

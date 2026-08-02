@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1853474194186719243",
+    "created_at": "2024-11-04T16:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T17:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853474194186719243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839870155129765888",
+          "start": 3,
+          "username": "rang81764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853474194186719243",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853303834485063994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rang81764: ☆₊⁺🦴🐾₊⁺★ ☆₊⁺🦴🐾₊⁺★\n\nhi这是一条新置顶🥰🤲\n\n叫我徐元就行 欢迎女孩子来互fo互转 \n🈶精神病 看不惯我请打钱🫰\n🚪52/88/128/520… 支持验证～\n\n✍🏻接爸爸活/妈妈活/陪聊/陪玩\n求天降心软哥哥姐姐🥹\n过🚪不退\n\n祝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1853474194186719243].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1853474194186719243",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1853474194186719243"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853303816411836416",
+            "7_1853303816420286464",
+            "7_1853303816424476673",
+            "3_1853303816571260928"
+          ]
+        },
+        "author_id": "1839870155129765888",
+        "conversation_id": "1853303834485063994",
+        "created_at": "2024-11-04T05:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T06:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853303834485063994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u03EgznKRx",
+              "end": 185,
+              "expanded_url": "https://x.com/rang81764/status/1853303834485063994/video/1",
+              "media_key": "3_1853303816411836416",
+              "start": 162,
+              "url": "https://t.co/u03EgznKRx"
+            },
+            {
+              "display_url": "pic.x.com/u03EgznKRx",
+              "end": 185,
+              "expanded_url": "https://x.com/rang81764/status/1853303834485063994/video/1",
+              "media_key": "7_1853303816420286464",
+              "start": 162,
+              "url": "https://t.co/u03EgznKRx"
+            },
+            {
+              "display_url": "pic.x.com/u03EgznKRx",
+              "end": 185,
+              "expanded_url": "https://x.com/rang81764/status/1853303834485063994/video/1",
+              "media_key": "7_1853303816424476673",
+              "start": 162,
+              "url": "https://t.co/u03EgznKRx"
+            },
+            {
+              "display_url": "pic.x.com/u03EgznKRx",
+              "end": 185,
+              "expanded_url": "https://x.com/rang81764/status/1853303834485063994/video/1",
+              "media_key": "3_1853303816571260928",
+              "start": 162,
+              "url": "https://t.co/u03EgznKRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853303834485063994",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2370,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "☆₊⁺🦴🐾₊⁺★ ☆₊⁺🦴🐾₊⁺★\n\nhi这是一条新置顶🥰🤲\n\n叫我徐元就行 欢迎女孩子来互fo互转 \n🈶精神病 看不惯我请打钱🫰\n🚪52/88/128/520… 支持验证～\n\n✍🏻接爸爸活/妈妈活/陪聊/陪玩\n求天降心软哥哥姐姐🥹\n过🚪不退\n\n祝大家天天开心 做爱不缺人 做人不缺爱\n#门槛哥 #爸爸活 #妈妈活 #金主 https://t.co/u03EgznKRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 103,
+          "like_count": 585,
+          "listed_count": 0,
+          "tweet_count": 849
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T03:30:57.000Z",
+        "description": "求天降心软门哥姐 重焦重抑 请假在家 支持验证 十一月对我好一点 女孩子可以找我互转捏",
+        "id": "1839870155129765888",
+        "location": "🚪52/88/128/520",
+        "name": "呜呜让我躺（过🚪再加v",
+        "pinned_tweet_id": "1853303834485063994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853305780893851648/viLxR01M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 51,
+          "like_count": 43,
+          "listed_count": 0,
+          "tweet_count": 80
+        },
+        "username": "rang81764",
+        "verified": false
+      }
+    ]
+  }
+}

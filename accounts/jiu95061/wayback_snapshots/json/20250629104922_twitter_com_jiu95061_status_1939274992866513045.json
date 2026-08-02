@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938798652060742101",
+    "created_at": "2025-06-29T10:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T11:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939274992866513045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4787351618",
+          "start": 0,
+          "username": "zyRGT32VRAnrkf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939274992866513045",
+    "in_reply_to_user_id": "4787351618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938798652060742101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyRGT32VRAnrkf4 我坐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2866,
+        "height": 720,
+        "media_key": "13_1938798545668059136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938798545668059136/img/dwV9hWMxsA4-42Re.jpg",
+        "public_metrics": {
+          "view_count": 657
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938798545668059136/vid/avc1/320x320/G6n2_efMUouNYU25.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938798545668059136/vid/avc1/540x540/OU9jJFkD6FjU_RO0.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938798545668059136/vid/avc1/720x720/0jt5hXBS5aitIJi2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938798545668059136/pl/lUsNiSephPBWmBii.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3700,
+        "height": 720,
+        "media_key": "13_1938798545668018176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938798545668018176/img/k8LyvuBPywOuXOru.jpg",
+        "public_metrics": {
+          "view_count": 94
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938798545668018176/vid/avc1/274x270/bkomdUzQf-3vOg2P.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938798545668018176/vid/avc1/366x360/Tl2fdwj53mIsirru.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938798545668018176/vid/avc1/734x720/7XeOwRuKsMY538Or.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938798545668018176/pl/QIWcOOpXKCorey_M.m3u8"
+          }
+        ],
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938798652060742101",
+        "created_at": "2025-06-29T10:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939274992866513045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4787351618",
+              "start": 0,
+              "username": "zyRGT32VRAnrkf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939274992866513045",
+        "in_reply_to_user_id": "4787351618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938798652060742101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyRGT32VRAnrkf4 我坐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938798545668059136",
+            "13_1938798545668018176"
+          ]
+        },
+        "author_id": "4787351618",
+        "conversation_id": "1938798652060742101",
+        "created_at": "2025-06-28T03:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T04:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938798652060742101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "le"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VySMkHXhsH",
+              "end": 35,
+              "expanded_url": "https://x.com/zyRGT32VRAnrkf4/status/1938798652060742101/video/1",
+              "media_key": "13_1938798545668059136",
+              "start": 12,
+              "url": "https://t.co/VySMkHXhsH"
+            },
+            {
+              "display_url": "pic.x.com/VySMkHXhsH",
+              "end": 35,
+              "expanded_url": "https://x.com/zyRGT32VRAnrkf4/status/1938798652060742101/video/1",
+              "media_key": "13_1938798545668018176",
+              "start": 12,
+              "url": "https://t.co/VySMkHXhsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938798652060742101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2247,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请坐，#le #wlw https://t.co/VySMkHXhsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 137,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1101
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-20T06:10:07.000Z",
+        "description": "女孩子可以找我聊天，看到会回，男的别来",
+        "id": "4787351618",
+        "name": "小y",
+        "pinned_tweet_id": "1491291501540036611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592201419024609281/9nla1hwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 9,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 125
+        },
+        "username": "zyRGT32VRAnrkf4",
+        "verified": false
+      }
+    ]
+  }
+}

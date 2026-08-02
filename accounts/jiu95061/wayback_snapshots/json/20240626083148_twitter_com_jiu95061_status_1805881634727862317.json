@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1805766384347234554",
+    "created_at": "2024-06-26T08:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T09:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805881634727862317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1586309506648399872",
+          "start": 0,
+          "username": "s05684366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805881634727862317",
+    "in_reply_to_user_id": "1586309506648399872",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805766384347234554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s05684366 咋了这是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1805766384347234554",
+        "created_at": "2024-06-26T08:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T09:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805881634727862317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1586309506648399872",
+              "start": 0,
+              "username": "s05684366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805881634727862317",
+        "in_reply_to_user_id": "1586309506648399872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805766384347234554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s05684366 咋了这是"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805766373643272192"
+          ]
+        },
+        "author_id": "1586309506648399872",
+        "conversation_id": "1805766384347234554",
+        "created_at": "2024-06-26T00:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T01:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805766384347234554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bDU5QwcREF",
+              "end": 23,
+              "expanded_url": "https://twitter.com/s05684366/status/1805766384347234554/photo/1",
+              "media_key": "3_1805766373643272192",
+              "start": 0,
+              "url": "https://t.co/bDU5QwcREF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805766384347234554",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bDU5QwcREF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1801584641486557225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 63,
+          "like_count": 489,
+          "listed_count": 0,
+          "tweet_count": 575
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T10:50:39.000Z",
+        "description": "我永远不会背叛您/06/重抑/致力于寻找互fo/想要交很多朋友✨/纯绿❇️/我很可爱请给我打💰/@lys0623001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "lys0623001"
+              }
+            ]
+          }
+        },
+        "id": "1586309506648399872",
+        "name": "OK绷（流量超拉版",
+        "pinned_tweet_id": "1796255552374456749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805747735867670530/DulzBSBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 299,
+          "like_count": 368,
+          "listed_count": 0,
+          "tweet_count": 887
+        },
+        "username": "s05684366",
+        "verified": false
+      }
+    ]
+  }
+}

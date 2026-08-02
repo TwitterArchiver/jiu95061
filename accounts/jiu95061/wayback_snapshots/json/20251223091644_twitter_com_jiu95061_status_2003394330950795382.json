@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2003120215710998780",
+    "created_at": "2025-12-23T09:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003394330950795382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003394330950795382",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003120215710998780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 傻逼干脆直接全绝育得了😃情侣聊骚呢直接进局子了 傻逼老钟到底要干啥？狗屁改革开放 改成文革了改成朝鲜了 怪不得那么多人恨国"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6801,
+        "height": 1920,
+        "media_key": "13_2003119587509108736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003119587509108736/img/fbwEmFeAhr0Tk-_B.jpg",
+        "public_metrics": {
+          "view_count": 100974
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003119587509108736/vid/avc1/480x852/uQHmHTBMPgVTdfPy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003119587509108736/pl/i2VvNrk5ARp31Hic.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003119587509108736/vid/avc1/320x568/Rs2h3qlz7EHQi9Kc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003119587509108736/vid/avc1/720x1280/VYoHQQbEh7Xoak23.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003119587509108736/vid/avc1/1080x1920/8yu9aZt7SsJ9gcu4.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2003120215710998780",
+        "created_at": "2025-12-23T09:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003394330950795382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003394330950795382",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003120215710998780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 傻逼干脆直接全绝育得了😃情侣聊骚呢直接进局子了 傻逼老钟到底要干啥？狗屁改革开放 改成文革了改成朝鲜了 怪不得那么多人恨国"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003119587509108736"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2003120215710998780",
+        "created_at": "2025-12-22T15:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003120215710998780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbVeIK12kR",
+              "end": 70,
+              "expanded_url": "https://x.com/igeekbb/status/2003120215710998780/video/1",
+              "media_key": "13_2003119587509108736",
+              "start": 47,
+              "url": "https://t.co/JbVeIK12kR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003120215710998780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 296967,
+          "like_count": 236,
+          "quote_count": 12,
+          "reply_count": 128,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "2026年1月1日起向好友发不雅照片或视频违法\n\n那么问题来了  微信私人聊天会被网警看到吗 https://t.co/JbVeIK12kR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 191,
+          "like_count": 995,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1442
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60898,
+          "following_count": 1,
+          "like_count": 8975,
+          "listed_count": 247,
+          "media_count": 5921,
+          "tweet_count": 8960
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938328588727816418",
+    "created_at": "2025-06-27T14:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938598712194003109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818678630824001538",
+          "start": 0,
+          "username": "Misako_25ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938598712194003109",
+    "in_reply_to_user_id": "1818678630824001538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938328588727816418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misako_25ji 过两天就好了 慢慢恢复手抖精神分裂都会没了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938328573552586752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuZTkWSXcAAUcEv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938328588727816418",
+        "created_at": "2025-06-27T14:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938598712194003109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818678630824001538",
+              "start": 0,
+              "username": "Misako_25ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938598712194003109",
+        "in_reply_to_user_id": "1818678630824001538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938328588727816418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misako_25ji 过两天就好了 慢慢恢复手抖精神分裂都会没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938328573552586752"
+          ]
+        },
+        "author_id": "1818678630824001538",
+        "conversation_id": "1938328588727816418",
+        "created_at": "2025-06-26T20:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T21:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938328588727816418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2k2VtF36oi",
+              "end": 117,
+              "expanded_url": "https://x.com/Misako_25ji/status/1938328588727816418/photo/1",
+              "media_key": "3_1938328573552586752",
+              "start": 94,
+              "url": "https://t.co/2k2VtF36oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938328588727816418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3238,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "80t苯海索我没死？？\n甚至没有洗胃 也没有催吐\n就是昏迷过去了 我还以为真的结束了。\n结果我一睁开眼睛发现是熟悉的天花板…\n我现在几乎失去一切行动能力（认知严重受损和手抖）还有全身无力 https://t.co/2k2VtF36oi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 127,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1060
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "翻车顺男.avi｜小狗：@Silicium_28 好き@Cano_3118 @zqtlovekris99｜常驻杭州｜全国可飞｜链接可以投喂哦!｜美沙的流浪生活｜🚪50 （可加微信/QQ） 推特私信免费～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Silicium_28"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Cano_3118"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
+                "end": 23,
+                "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
+                "start": 0,
+                "url": "https://t.co/YlSr2fYWzY"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "Inkar-usi.",
+        "name": "Misako～美沙子喵🏳️‍⚧️",
+        "pinned_tweet_id": "1911389216899989608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 948,
+          "like_count": 1135,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/YlSr2fYWzY",
+        "username": "Misako_25ji",
+        "verified": true
+      }
+    ]
+  }
+}

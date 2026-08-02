@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938657738256515146",
+    "created_at": "2025-06-28T05:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938836068415275230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818678630824001538",
+          "start": 0,
+          "username": "Misako_25ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938836068415275230",
+    "in_reply_to_user_id": "1818678630824001538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938657738256515146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misako_25ji 吃的太多了 肌肉僵直抽搐无力 72h差不多代谢完"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4396,
+        "height": 1560,
+        "media_key": "13_1938657667137822720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938657667137822720/img/LrmmN658V9mm1XU8.jpg",
+        "public_metrics": {
+          "view_count": 1992
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938657667137822720/vid/avc1/320x692/qRKrzyQXGixLFyBF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938657667137822720/vid/avc1/480x1040/LbbUstXW29Zr5tvQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938657667137822720/vid/avc1/720x1560/84mKAgO_X6J9twdS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938657667137822720/pl/hBqgtiykKxx-1TWS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938657738256515146",
+        "created_at": "2025-06-28T05:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938836068415275230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818678630824001538",
+              "start": 0,
+              "username": "Misako_25ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938836068415275230",
+        "in_reply_to_user_id": "1818678630824001538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938657738256515146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misako_25ji 吃的太多了 肌肉僵直抽搐无力 72h差不多代谢完"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938657667137822720"
+          ]
+        },
+        "author_id": "1818678630824001538",
+        "conversation_id": "1938657738256515146",
+        "created_at": "2025-06-27T17:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938657738256515146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHSXYkJJdn",
+              "end": 62,
+              "expanded_url": "https://x.com/Misako_25ji/status/1938657738256515146/video/1",
+              "media_key": "13_1938657667137822720",
+              "start": 39,
+              "url": "https://t.co/LHSXYkJJdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938657738256515146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4227,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Aftermath.\n估计是永久性的肌肉抽动 距离服用苯海索已经过去36h… https://t.co/LHSXYkJJdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 131,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1064
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "翻车顺男.avi｜小狗：@Silicium_28 好き@Cano_3118 @zqtlovekris99｜常驻杭州｜全国可飞｜链接可以投喂哦!｜美沙的流浪生活｜🚪50 （可加微信/QQ） 推特私信免费～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Silicium_28"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Cano_3118"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
+                "end": 23,
+                "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
+                "start": 0,
+                "url": "https://t.co/YlSr2fYWzY"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "Inkar-usi.",
+        "name": "Misako～美沙子喵🏳️‍⚧️",
+        "pinned_tweet_id": "1911389216899989608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 947,
+          "like_count": 1140,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/YlSr2fYWzY",
+        "username": "Misako_25ji",
+        "verified": true
+      }
+    ]
+  }
+}

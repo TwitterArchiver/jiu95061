@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1823087380938801440",
+    "created_at": "2024-08-13T11:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T12:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823324643736105124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1586309506648399872",
+          "start": 0,
+          "username": "s05684366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823324643736105124",
+    "in_reply_to_user_id": "1586309506648399872",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823087380938801440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s05684366 美莎时代已过去，普瑞巴林我得继续。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1823087380938801440",
+        "created_at": "2024-08-13T11:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T12:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823324643736105124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1586309506648399872",
+              "start": 0,
+              "username": "s05684366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823324643736105124",
+        "in_reply_to_user_id": "1586309506648399872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823087380938801440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s05684366 美莎时代已过去，普瑞巴林我得继续。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586309506648399872",
+        "conversation_id": "1823087380938801440",
+        "created_at": "2024-08-12T20:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T21:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823087380938801440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823087380938801440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们墙内再发od 我要自杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 96,
+          "like_count": 544,
+          "listed_count": 0,
+          "tweet_count": 656
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T10:50:39.000Z",
+        "description": "我永远不会背叛您/06/重抑/致力于寻找互fo/想要交很多朋友✨/纯绿❇️/不线下哦/我很可爱请给我打💰/@lys0623001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "lys0623001"
+              }
+            ]
+          }
+        },
+        "id": "1586309506648399872",
+        "location": "绷之天堂",
+        "name": "OK绷（流量超拉版",
+        "pinned_tweet_id": "1796255552374456749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816533201504108544/qMcvHOLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 328,
+          "like_count": 522,
+          "listed_count": 0,
+          "tweet_count": 1226
+        },
+        "username": "s05684366",
+        "verified": false
+      }
+    ]
+  }
+}

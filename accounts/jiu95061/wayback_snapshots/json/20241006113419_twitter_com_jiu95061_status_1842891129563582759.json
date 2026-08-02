@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1842618177500684373",
+    "created_at": "2024-10-06T11:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T12:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842891129563582759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807127445239365632",
+          "start": 0,
+          "username": "Miyagi3179yuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842891129563582759",
+    "in_reply_to_user_id": "1807127445239365632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842618177500684373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyagi3179yuuki 日语感觉会像乙女抓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1842618177500684373",
+        "created_at": "2024-10-06T11:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T12:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842891129563582759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807127445239365632",
+              "start": 0,
+              "username": "Miyagi3179yuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842891129563582759",
+        "in_reply_to_user_id": "1807127445239365632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842618177500684373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyagi3179yuuki 日语感觉会像乙女抓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1842618176397627392"
+          ]
+        },
+        "author_id": "1807127445239365632",
+        "conversation_id": "1842618177500684373",
+        "created_at": "2024-10-05T17:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T18:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842618177500684373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842618177500684373",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 954,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下一个音声用日语还是中文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 98,
+          "like_count": 565,
+          "listed_count": 1,
+          "tweet_count": 681
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:02:45.000Z",
+        "description": "承認欲求　男喘ぎ　🇨🇳",
+        "id": "1807127445239365632",
+        "location": "東京下水道",
+        "name": "宮城いずみMiyagi",
+        "pinned_tweet_id": "1840431818547630350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835638732269277184/pKMCGlwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5357,
+          "following_count": 143,
+          "like_count": 4064,
+          "listed_count": 12,
+          "tweet_count": 1311
+        },
+        "username": "Miyagi3179yuuki",
+        "verified": false
+      }
+    ]
+  }
+}

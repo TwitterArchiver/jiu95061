@@ -1,0 +1,153 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792431848037208064"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1792431923811524937",
+    "created_at": "2024-05-20T05:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T06:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792431923811524937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/bOQD1CCzEl",
+          "end": 27,
+          "expanded_url": "https://twitter.com/jiu95061/status/1792431923811524937/photo/1",
+          "media_key": "3_1792431848037208064",
+          "start": 4,
+          "url": "https://t.co/bOQD1CCzEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792431923811524937",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "站街， https://t.co/bOQD1CCzEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1792431848037208064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GN__ROJa0AA59jS.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792431848037208064"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1792431923811524937",
+        "created_at": "2024-05-20T05:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T06:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792431923811524937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bOQD1CCzEl",
+              "end": 27,
+              "expanded_url": "https://twitter.com/jiu95061/status/1792431923811524937/photo/1",
+              "media_key": "3_1792431848037208064",
+              "start": 4,
+              "url": "https://t.co/bOQD1CCzEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792431923811524937",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "站街， https://t.co/bOQD1CCzEl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/心脏有点问题/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。\n🖤不入🚪的话 不闲聊 我不是客服。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 47,
+          "like_count": 342,
+          "listed_count": 0,
+          "tweet_count": 252
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

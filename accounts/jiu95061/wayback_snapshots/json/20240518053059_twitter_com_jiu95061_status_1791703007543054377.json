@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1791703007543054377",
+    "created_at": "2024-05-18T05:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T06:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791703007543054377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiu95061/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/jiu95061/status/1791537706134360253",
+          "start": 31,
+          "url": "https://t.co/81n7fN249l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791703007543054377",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791537706134360253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来这个时候因为没穿内裤单是丝袜磨蹭到那里就流了好多水。。 https://t.co/81n7fN249l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1791703007543054377",
+        "created_at": "2024-05-18T05:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T06:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791703007543054377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiu95061/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/jiu95061/status/1791537706134360253",
+              "start": 31,
+              "url": "https://t.co/81n7fN249l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791703007543054377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791537706134360253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来这个时候因为没穿内裤单是丝袜磨蹭到那里就流了好多水。。 https://t.co/81n7fN249l"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791537703085109248"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1791537706134360253",
+        "created_at": "2024-05-17T18:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T19:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791537706134360253"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "门槛"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "缺钱"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "求金主爸爸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CQZwry4Vbu",
+              "end": 48,
+              "expanded_url": "https://twitter.com/jiu95061/status/1791537706134360253/photo/1",
+              "media_key": "3_1791537703085109248",
+              "start": 25,
+              "url": "https://t.co/CQZwry4Vbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791537706134360253",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛 #缺钱 #求金主爸爸 谁能施舍我点钱啊。 https://t.co/CQZwry4Vbu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 45,
+          "like_count": 264,
+          "listed_count": 0,
+          "tweet_count": 157
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

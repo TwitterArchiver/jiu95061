@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938959714462900256",
+    "created_at": "2025-06-28T16:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T17:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938990948480069657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740188738469367808",
+          "start": 0,
+          "username": "HJS_2403_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938990948480069657",
+    "in_reply_to_user_id": "1740188738469367808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938959714462900256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_0 急性焦虑可以试试劳拉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938959714462900256",
+        "created_at": "2025-06-28T16:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T17:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938990948480069657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740188738469367808",
+              "start": 0,
+              "username": "HJS_2403_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938990948480069657",
+        "in_reply_to_user_id": "1740188738469367808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938959714462900256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_0 急性焦虑可以试试劳拉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740188738469367808",
+        "conversation_id": "1938959714462900256",
+        "created_at": "2025-06-28T13:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938959714462900256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938959714462900256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "急性焦虑及复杂性障碍发病\n触发  三型应急预案\n准许药物过量，准许阿普，独处，深呼吸，吹风，专注于数事物，注意力转移，远离人群，抗加剧发病，抗自伤自自尽，拥抱，反思考\n\n修善计划；普瑞巴林列入情绪稳定剂\n防滥用，维持稳定治疗\n\n讨厌急性焦虑，讨厌惊恐，讨厌复杂性创伤后应急障碍…好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 134,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1087
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "我是一些些 / 荒景肆（Arakei Shi）\n|⚠️| | 文學向 @HJS_2403_2 |碎碎念| LGBTQ\n虛無主義者|理想主義者|灰天使| INFP-A |🩵🩶心裏建設供給\n无政治立场 无参与圈子\n-EOTS-程式 寫作 繪畫 願你幸福\n🏳️‍🌈  🏳️‍⚧️ 🦋 🦴 ❤️ ‍🩹 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "HJS_2403_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/AraiShi",
+                "end": 23,
+                "expanded_url": "https://bio.site/AraiShi",
+                "start": 0,
+                "url": "https://t.co/Z3lsqQxLtB"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "꒰ঌ♫*'✟:｡-願你退此苦海以至願山-｡.:*♡'*♪໒꒱",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些",
+        "pinned_tweet_id": "1857305945015296224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794656575375978497/ModXRhcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 278,
+          "like_count": 28496,
+          "listed_count": 5,
+          "media_count": 751,
+          "tweet_count": 3102
+        },
+        "url": "https://t.co/Z3lsqQxLtB",
+        "username": "HJS_2403_0",
+        "verified": true
+      }
+    ]
+  }
+}

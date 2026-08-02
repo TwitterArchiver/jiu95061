@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2042282981860262106",
+    "created_at": "2026-04-09T16:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042282981860262106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036654418221993984",
+          "start": 3,
+          "username": "uu_obito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042282981860262106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042228673353551906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uu_obito: 我的xp——平时要被爱，做爱时要被当飞机杯插"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2042282981860262106",
+        "created_at": "2026-04-09T16:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042282981860262106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036654418221993984",
+              "start": 3,
+              "username": "uu_obito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042282981860262106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042228673353551906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uu_obito: 我的xp——平时要被爱，做爱时要被当飞机杯插"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036654418221993984",
+        "conversation_id": "2042228673353551906",
+        "created_at": "2026-04-09T13:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042228673353551906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042228673353551906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 12148,
+          "like_count": 366,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "我的xp——平时要被爱，做爱时要被当飞机杯插"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040498795298074624/o44fWiWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 218,
+          "like_count": 1234,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 1826
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T04:01:26.000Z",
+        "description": "我想要变得坚强",
+        "id": "2036654418221993984",
+        "location": "🚪88(露脸)",
+        "name": "uu",
+        "pinned_tweet_id": "2040016466750448063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039341352232845312/qT1nNXeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 47,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 144
+        },
+        "username": "uu_obito",
+        "verified": false
+      }
+    ]
+  }
+}

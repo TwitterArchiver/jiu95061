@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938149170013212740",
+    "created_at": "2025-06-26T10:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T11:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938190477658099889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "DKRMarble"
+        },
+        {
+          "end": 23,
+          "id": "1882936483662663680",
+          "start": 11,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938190477658099889",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938180085548519848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKRMarble @jngyn298282 不过真的爽诶嘿嘿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938149170013212740",
+        "created_at": "2025-06-26T10:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T11:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938190477658099889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "DKRMarble"
+            },
+            {
+              "end": 23,
+              "id": "1882936483662663680",
+              "start": 11,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938190477658099889",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938180085548519848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKRMarble @jngyn298282 不过真的爽诶嘿嘿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115809099482980353",
+        "conversation_id": "1938149170013212740",
+        "created_at": "2025-06-26T10:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T11:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938180085548519848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            },
+            {
+              "end": 22,
+              "id": "1882936483662663680",
+              "start": 10,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938180085548519848",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938179643942805529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 @jngyn298282 太壞了pr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 116,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1032
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "我是革委會主席とり（Tori）。歡迎加入「大東亞躁郁革命委員會」。\n◎極端預警‖互fo大歡迎「看不到請私訊」‖🚪20「形同虛設」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noelle48025",
+                "end": 23,
+                "expanded_url": "https://ngl.link/noelle48025",
+                "start": 0,
+                "url": "https://t.co/jbjBsdM8Hv"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "回頭看👁️👁️👁️👁️",
+        "name": "𓆩東亞躁鬱革委會𓆪",
+        "pinned_tweet_id": "1932413655498494220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935687546891014144/Bl4AXHzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 552,
+          "like_count": 17058,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 3448
+        },
+        "url": "https://t.co/jbjBsdM8Hv",
+        "username": "DKRMarble",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882937483756765184/OocuXoje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 169,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 249
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

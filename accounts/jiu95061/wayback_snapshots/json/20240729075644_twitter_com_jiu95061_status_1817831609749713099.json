@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1817831609749713099",
+    "created_at": "2024-07-29T07:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T08:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817831609749713099"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "金主"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "求包养"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 102,
+          "start": 100,
+          "tag": "m"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "atm"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "陪玩"
+        },
+        {
+          "end": 115,
+          "start": 113,
+          "tag": "m"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "sub"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "门槛"
+        },
+        {
+          "end": 130,
+          "start": 125,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "电子女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790140323643179008",
+          "start": 3,
+          "username": "yu7517770880238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817831609749713099",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817543989954056661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu7517770880238: 置顶🔝\n我是小幼 \n09 双相 休学 \n不怎么会聊天\n　欢迎女孩子互fo互转！\n52/好友位  88/开放朋友圈  188陪聊\n\n#金主 ＃求包养 #爸爸活 #m #atm  #陪玩 #m #sub #门槛 #金主爸爸 #电子女友 #a…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1817831609749713099].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1817831609749713099",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1817831609749713099"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817543958920318976",
+            "3_1817543958920409088",
+            "3_1817543958937157632",
+            "3_1817543958911954944"
+          ]
+        },
+        "author_id": "1790140323643179008",
+        "conversation_id": "1817543989954056661",
+        "created_at": "2024-07-28T12:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T13:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817543989954056661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "金主"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "求包养"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 81,
+              "start": 79,
+              "tag": "m"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "atm"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "陪玩"
+            },
+            {
+              "end": 94,
+              "start": 92,
+              "tag": "m"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "sub"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "门槛"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "电子女友"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "atm奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4Oq5t7mD6a",
+              "end": 145,
+              "expanded_url": "https://twitter.com/yu7517770880238/status/1817543989954056661/photo/1",
+              "media_key": "3_1817543958920318976",
+              "start": 122,
+              "url": "https://t.co/4Oq5t7mD6a"
+            },
+            {
+              "display_url": "pic.twitter.com/4Oq5t7mD6a",
+              "end": 145,
+              "expanded_url": "https://twitter.com/yu7517770880238/status/1817543989954056661/photo/1",
+              "media_key": "3_1817543958920409088",
+              "start": 122,
+              "url": "https://t.co/4Oq5t7mD6a"
+            },
+            {
+              "display_url": "pic.twitter.com/4Oq5t7mD6a",
+              "end": 145,
+              "expanded_url": "https://twitter.com/yu7517770880238/status/1817543989954056661/photo/1",
+              "media_key": "3_1817543958937157632",
+              "start": 122,
+              "url": "https://t.co/4Oq5t7mD6a"
+            },
+            {
+              "display_url": "pic.twitter.com/4Oq5t7mD6a",
+              "end": 145,
+              "expanded_url": "https://twitter.com/yu7517770880238/status/1817543989954056661/photo/1",
+              "media_key": "3_1817543958911954944",
+              "start": 122,
+              "url": "https://t.co/4Oq5t7mD6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817543989954056661",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3231,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n我是小幼 \n09 双相 休学 \n不怎么会聊天\n　欢迎女孩子互fo互转！\n52/好友位  88/开放朋友圈  188陪聊\n\n#金主 ＃求包养 #爸爸活 #m #atm  #陪玩 #m #sub #门槛 #金主爸爸 #电子女友 #atm奴 https://t.co/4Oq5t7mD6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 86,
+          "like_count": 530,
+          "listed_count": 0,
+          "tweet_count": 641
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T22:01:54.000Z",
+        "description": "",
+        "id": "1790140323643179008",
+        "name": "小幼🐟",
+        "pinned_tweet_id": "1817543989954056661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790140559774101504/C3T6JA-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 92,
+          "like_count": 12,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "yu7517770880238",
+        "verified": false
+      }
+    ]
+  }
+}

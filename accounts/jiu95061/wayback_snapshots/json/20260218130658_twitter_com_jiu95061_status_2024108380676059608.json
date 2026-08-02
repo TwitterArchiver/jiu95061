@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2024097559917277406",
+    "created_at": "2026-02-18T13:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024108380676059608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024108380676059608",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024097559917277406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 谵妄剂牛逼（bushi）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2024097556213719040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcKANTa4AASFmU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2024097559917277406",
+        "created_at": "2026-02-18T13:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024108380676059608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024108380676059608",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024097559917277406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 谵妄剂牛逼（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024097556213719040"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "2024097559917277406",
+        "created_at": "2026-02-18T12:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024097559917277406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EApvTmvDsQ",
+              "end": 29,
+              "expanded_url": "https://x.com/CleverFf050755/status/2024097559917277406/photo/1",
+              "media_key": "3_2024097556213719040",
+              "start": 6,
+              "url": "https://t.co/EApvTmvDsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024097559917277406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "镇静剂牛逼 https://t.co/EApvTmvDsQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 198,
+          "like_count": 1076,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1577
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。妈妈@Akinoyo_desu  \n提问盒：https://t.co/ZSBub0L9dM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Akinoyo_desu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 74,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 51,
+                "url": "https://t.co/ZSBub0L9dM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hSuwLZ"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 293,
+          "like_count": 225,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 2361
+        },
+        "url": "https://t.co/T0F6hSuwLZ",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

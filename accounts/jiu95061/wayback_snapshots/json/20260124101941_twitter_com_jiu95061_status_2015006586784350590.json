@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2015006586784350590",
+    "created_at": "2026-01-24T10:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T11:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015006586784350590"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015006586784350590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊本来想戒掉喹硫平自主入睡的结果吃了普瑞也是睡不着两天睡眠时间不足六小时好痛苦我彻底放弃了 但是吃喹硫平就会卡体重怎么样都掉不下去😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2015006586784350590",
+        "created_at": "2026-01-24T10:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015006586784350590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015006586784350590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊本来想戒掉喹硫平自主入睡的结果吃了普瑞也是睡不着两天睡眠时间不足六小时好痛苦我彻底放弃了 但是吃喹硫平就会卡体重怎么样都掉不下去😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 192,
+          "like_count": 983,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 1476
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

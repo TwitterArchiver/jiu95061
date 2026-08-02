@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1856973142654423417",
+    "created_at": "2024-11-14T08:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T09:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856973142654423417"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "金主"
+        },
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "线下"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1848273461749415936",
+          "start": 3,
+          "username": "donna2919991012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856973142654423417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856315890385436999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @donna2919991012: 置顶\n大家好我叫小涵  我有很严重的抑郁症 双相\n坐标20r\n接爸爸活 非绿 具体看我的课表 \n过🚪请看图1 \n谢谢投喂 我会用来治病吃饭 \n关注转发评论抽一个88x1 28.8x10\n#金主 #金主爸爸 #线下 #门槛哥 #门槛 #非…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1856973142654423417].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1856973142654423417",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856973142654423417"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856315881816731648",
+            "3_1856315881816764416"
+          ]
+        },
+        "author_id": "1848273461749415936",
+        "conversation_id": "1856315890385436999",
+        "created_at": "2024-11-12T12:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T13:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856315890385436999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "金主"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "线下"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "门槛"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "非绿"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "母狗"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vl1JsVOQgN",
+              "end": 152,
+              "expanded_url": "https://x.com/donna2919991012/status/1856315890385436999/photo/1",
+              "media_key": "3_1856315881816731648",
+              "start": 129,
+              "url": "https://t.co/vl1JsVOQgN"
+            },
+            {
+              "display_url": "pic.x.com/vl1JsVOQgN",
+              "end": 152,
+              "expanded_url": "https://x.com/donna2919991012/status/1856315890385436999/photo/1",
+              "media_key": "3_1856315881816764416",
+              "start": 129,
+              "url": "https://t.co/vl1JsVOQgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856315890385436999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13768,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "置顶\n大家好我叫小涵  我有很严重的抑郁症 双相\n坐标20r\n接爸爸活 非绿 具体看我的课表 \n过🚪请看图1 \n谢谢投喂 我会用来治病吃饭 \n关注转发评论抽一个88x1 28.8x10\n#金主 #金主爸爸 #线下 #门槛哥 #门槛 #非绿 #母狗 #爸爸活 https://t.co/vl1JsVOQgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 108,
+          "like_count": 588,
+          "listed_count": 0,
+          "tweet_count": 885
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T08:02:12.000Z",
+        "description": "门槛请看置顶 问坐标20r 欢迎小女孩找我互fo",
+        "id": "1848273461749415936",
+        "name": "小小涵",
+        "pinned_tweet_id": "1856315890385436999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856312131018526720/EuHmnVc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 94,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 101
+        },
+        "username": "donna2919991012",
+        "verified": false
+      }
+    ]
+  }
+}

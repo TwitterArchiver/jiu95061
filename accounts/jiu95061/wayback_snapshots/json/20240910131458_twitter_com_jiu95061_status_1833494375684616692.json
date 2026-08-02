@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1833390163277549636",
+    "created_at": "2024-09-10T13:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T14:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833494375684616692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725683921763905536",
+          "start": 0,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833494375684616692",
+    "in_reply_to_user_id": "1725683921763905536",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833390163277549636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luonbe69 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1833390163277549636",
+        "created_at": "2024-09-10T13:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T14:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833494375684616692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725683921763905536",
+              "start": 0,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833494375684616692",
+        "in_reply_to_user_id": "1725683921763905536",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833390163277549636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luonbe69 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "1833390163277549636",
+        "created_at": "2024-09-10T06:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T07:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833390163277549636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833390163277549636",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10366,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 77,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见了\n对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 103,
+          "like_count": 565,
+          "listed_count": 0,
+          "tweet_count": 672
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 夕阳 世界 流浪 旅者 列车 白日梦 闪烁 以太 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 绝望 哽咽 徘徊  雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "༗罗伦贝尔༗",
+        "pinned_tweet_id": "1752560514201469253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804516699149889536/QLdZUkpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 5093,
+          "like_count": 35522,
+          "listed_count": 1,
+          "tweet_count": 13548
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

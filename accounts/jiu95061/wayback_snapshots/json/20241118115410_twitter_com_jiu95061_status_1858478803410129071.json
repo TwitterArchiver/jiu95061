@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1858478803410129071",
+    "created_at": "2024-11-18T11:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T12:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858478803410129071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857632577550696448",
+          "start": 3,
+          "username": "kkkk3408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858478803410129071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858031760682135610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkkk3408: ☆₊⁺🦴🐾₊⁺★ ☆₊⁺🦴🐾₊⁺★  \n\nhi这是一条新置顶🥰🤲叫我徐元就行 \n\n欢迎女孩子来互fo互转  \n🈶精神病 看不惯我请打钱🫰\n🚪52/88/128/520… 支持验证～ \n\n ✍🏻接爸爸活/妈妈活/陪聊/陪玩 \n求天降心软哥哥姐姐🥹 \n过…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1858478803410129071].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1858478803410129071",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1858478803410129071"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858031738230026240",
+            "3_1858031738234220544",
+            "7_1858031738221735936",
+            "3_1858031738238414848"
+          ]
+        },
+        "author_id": "1857632577550696448",
+        "conversation_id": "1858031760682135610",
+        "created_at": "2024-11-17T06:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T07:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858031760682135610"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 156,
+              "start": 152,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 161,
+              "start": 157,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 167,
+              "start": 162,
+              "tag": "金主爸爸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXb86XSezm",
+              "end": 191,
+              "expanded_url": "https://x.com/kkkk3408/status/1858031760682135610/video/1",
+              "media_key": "3_1858031738230026240",
+              "start": 168,
+              "url": "https://t.co/mXb86XSezm"
+            },
+            {
+              "display_url": "pic.x.com/mXb86XSezm",
+              "end": 191,
+              "expanded_url": "https://x.com/kkkk3408/status/1858031760682135610/video/1",
+              "media_key": "3_1858031738234220544",
+              "start": 168,
+              "url": "https://t.co/mXb86XSezm"
+            },
+            {
+              "display_url": "pic.x.com/mXb86XSezm",
+              "end": 191,
+              "expanded_url": "https://x.com/kkkk3408/status/1858031760682135610/video/1",
+              "media_key": "7_1858031738221735936",
+              "start": 168,
+              "url": "https://t.co/mXb86XSezm"
+            },
+            {
+              "display_url": "pic.x.com/mXb86XSezm",
+              "end": 191,
+              "expanded_url": "https://x.com/kkkk3408/status/1858031760682135610/video/1",
+              "media_key": "3_1858031738238414848",
+              "start": 168,
+              "url": "https://t.co/mXb86XSezm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858031760682135610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 752,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "☆₊⁺🦴🐾₊⁺★ ☆₊⁺🦴🐾₊⁺★  \n\nhi这是一条新置顶🥰🤲叫我徐元就行 \n\n欢迎女孩子来互fo互转  \n🈶精神病 看不惯我请打钱🫰\n🚪52/88/128/520… 支持验证～ \n\n ✍🏻接爸爸活/妈妈活/陪聊/陪玩 \n求天降心软哥哥姐姐🥹 \n过🚪不退  \n祝大家天天开心 做爱不缺人 做人不缺爱\n #门槛哥 #爸爸活 #金主爸爸 https://t.co/mXb86XSezm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 110,
+          "like_count": 590,
+          "listed_count": 0,
+          "tweet_count": 896
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T03:51:46.000Z",
+        "description": "前世@rang81764/@rang3405 被奸人所害｜求天降心软门哥姐｜重焦重抑 请假在家｜可验证｜一个问题10r｜个人原因暂不接线下和面对面视频～十一月对我好一点｜女孩子可以找我互fo互转捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "rang81764"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "rang3405"
+              }
+            ]
+          }
+        },
+        "id": "1857632577550696448",
+        "location": "🚪88/128 上不封顶",
+        "name": "呜呜让我躺（重生3.0版",
+        "pinned_tweet_id": "1858031760682135610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857632694139801600/kpKgXWRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 21
+        },
+        "username": "kkkk3408",
+        "verified": false
+      }
+    ]
+  }
+}

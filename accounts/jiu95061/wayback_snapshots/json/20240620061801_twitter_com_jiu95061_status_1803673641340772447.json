@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1803673641340772447",
+    "created_at": "2024-06-20T06:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T07:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1803673641340772447"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1803673641340772447",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我穷啊啊啊穷死了没人入门还每天要花钱吃饭 家里又不给生活费  我要死了  想去卖逼赚钱  再过几天真的连买泡面的钱都没有了  想去重庆大桥捡麦当劳吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1803673641340772447",
+        "created_at": "2024-06-20T06:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T07:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803673641340772447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803673641340772447",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我穷啊啊啊穷死了没人入门还每天要花钱吃饭 家里又不给生活费  我要死了  想去卖逼赚钱  再过几天真的连买泡面的钱都没有了  想去重庆大桥捡麦当劳吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1801584641486557225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 56,
+          "like_count": 483,
+          "listed_count": 0,
+          "tweet_count": 549
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2019610933384081822",
+    "created_at": "2026-02-07T18:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T19:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020200678791213230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1701225401404801024",
+          "start": 0,
+          "username": "xhanjd145869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020200678791213230",
+    "in_reply_to_user_id": "1701225401404801024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019610933384081822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhanjd145869 od之城没有活着的传奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2019610933384081822",
+        "created_at": "2026-02-07T18:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T19:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020200678791213230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1701225401404801024",
+              "start": 0,
+              "username": "xhanjd145869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020200678791213230",
+        "in_reply_to_user_id": "1701225401404801024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019610933384081822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhanjd145869 od之城没有活着的传奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701225401404801024",
+        "conversation_id": "2019610933384081822",
+        "created_at": "2026-02-06T03:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T04:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019610933384081822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019610933384081822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 24226,
+          "like_count": 298,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "药圈这几年死了多少人，说实话没人有精确统计，墙内墙外都没官方数字，基本靠圈里人自己数悼念帖但从X上刷到的那些撕逼悼念看，近3-5年至少几十到上百个知名或半知名的账号/人真走了，大多是od翻车、呼吸抑制、坠楼、自残，联用阿片+bzd或右美+其他镇静剂最常见，爱德华那种肺出血+呼吸停就是典型例子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 194,
+          "like_count": 1032,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1517
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T13:25:25.000Z",
+        "description": "09年12月🍥\n不太会社交\n嗯对的 会射胶\n还是找到我了？  边缘",
+        "id": "1701225401404801024",
+        "name": "雨町雨町",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015290118345826305/5kYZV0ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 136,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 408
+        },
+        "username": "xhanjd145869",
+        "verified": false
+      }
+    ]
+  }
+}

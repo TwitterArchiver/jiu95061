@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1842618177500684373",
+    "created_at": "2024-10-06T11:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T12:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842894911013843145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807127445239365632",
+          "start": 0,
+          "username": "Miyagi3179yuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842894911013843145",
+    "in_reply_to_user_id": "1807127445239365632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842892069481955737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyagi3179yuuki 我一直很耐杀的哈 而且我距离上次自杀都是一个月前的事了😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1842618177500684373",
+        "created_at": "2024-10-06T11:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T12:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842894911013843145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807127445239365632",
+              "start": 0,
+              "username": "Miyagi3179yuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842894911013843145",
+        "in_reply_to_user_id": "1807127445239365632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842892069481955737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyagi3179yuuki 我一直很耐杀的哈 而且我距离上次自杀都是一个月前的事了😖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807127445239365632",
+        "conversation_id": "1842618177500684373",
+        "created_at": "2024-10-06T11:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T12:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842892069481955737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842892069481955737",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842891129563582759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 宝宝。你居然打赢复活赛了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 99,
+          "like_count": 566,
+          "listed_count": 1,
+          "tweet_count": 682
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:02:45.000Z",
+        "description": "承認欲求　男喘ぎ　🇨🇳",
+        "id": "1807127445239365632",
+        "location": "東京下水道",
+        "name": "宮城いずみMiyagi",
+        "pinned_tweet_id": "1840431818547630350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835638732269277184/pKMCGlwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5357,
+          "following_count": 143,
+          "like_count": 4065,
+          "listed_count": 12,
+          "tweet_count": 1312
+        },
+        "username": "Miyagi3179yuuki",
+        "verified": false
+      }
+    ]
+  }
+}

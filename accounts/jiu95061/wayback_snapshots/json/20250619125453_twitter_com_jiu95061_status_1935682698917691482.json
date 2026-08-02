@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1935372540307980665",
+    "created_at": "2025-06-19T12:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T13:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935682698917691482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883727989671944192",
+          "start": 0,
+          "username": "linnyii8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935682698917691482",
+    "in_reply_to_user_id": "1883727989671944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935372540307980665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linnyii8964 寒窑彻底废了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49066,
+        "height": 1280,
+        "media_key": "13_1935372405431586816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935372405431586816/img/2Ey68XBdUPR4HFrL.jpg",
+        "public_metrics": {
+          "view_count": 2071
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935372405431586816/vid/avc1/320x568/CbolAfuDoJwGtZxj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935372405431586816/vid/avc1/480x852/Ri6kJY7sLySh42Hb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935372405431586816/vid/avc1/720x1280/J-9sPm2RbmTFv1qx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935372405431586816/pl/DcgOAu_2-cK10Tdv.m3u8?v=1f3"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1935372540307980665",
+        "created_at": "2025-06-19T12:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935682698917691482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "linnyii8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935682698917691482",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935372540307980665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linnyii8964 寒窑彻底废了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935372405431586816"
+          ]
+        },
+        "author_id": "1883727989671944192",
+        "conversation_id": "1935372540307980665",
+        "created_at": "2025-06-18T16:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935372540307980665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YUlrpd1jPg",
+              "end": 35,
+              "expanded_url": "https://x.com/linnyii8964/status/1935372540307980665/video/1",
+              "media_key": "13_1935372405431586816",
+              "start": 12,
+              "url": "https://t.co/YUlrpd1jPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935372540307980665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5428,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寒窑咋有脸八零别人的？ https://t.co/YUlrpd1jPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 109,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 963
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "🚪52/188 我要守护的女孩:@jiangqidawang 另一个我:@nidiemasile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "jiangqidawang"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "nidiemasile"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=XQd8EqLh",
+                "start": 0,
+                "url": "https://t.co/ZxG5Lco8Fc"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "只是爱乱说话",
+        "pinned_tweet_id": "1924039501069856843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 659,
+          "like_count": 8139,
+          "listed_count": 1,
+          "media_count": 584,
+          "tweet_count": 6748
+        },
+        "url": "https://t.co/ZxG5Lco8Fc",
+        "username": "linnyii8964",
+        "verified": false
+      }
+    ]
+  }
+}

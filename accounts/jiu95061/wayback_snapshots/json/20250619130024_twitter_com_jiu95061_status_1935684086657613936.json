@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1935583096138879303",
+    "created_at": "2025-06-19T13:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T14:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935684086657613936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513753182182133762",
+          "start": 0,
+          "username": "wysgdmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935684086657613936",
+    "in_reply_to_user_id": "1513753182182133762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935583096138879303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wysgdmn 不脱到了夏天闷闷的总感觉不干净 脱了就要一直脱 光阴似箭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1935583096138879303",
+        "created_at": "2025-06-19T13:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935684086657613936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513753182182133762",
+              "start": 0,
+              "username": "wysgdmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935684086657613936",
+        "in_reply_to_user_id": "1513753182182133762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935583096138879303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wysgdmn 不脱到了夏天闷闷的总感觉不干净 脱了就要一直脱 光阴似箭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513753182182133762",
+        "conversation_id": "1935583096138879303",
+        "created_at": "2025-06-19T06:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T07:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935583096138879303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935583096138879303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 88860,
+          "like_count": 441,
+          "quote_count": 1,
+          "reply_count": 64,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "无毛b的优点是来月经不会黏糊糊一堆血凝在毛上、更换姨妈巾的时候不会扯得痛很清爽。\n但是！\n缺点是没有导尿毛、每次尿尿都有概率尿液滑到屁屁上，所以每次都要额外多准备一张湿厕纸来擦屁屁😢\n\n（尿尿频率更高，如果不是很讨厌黏糊感的不用非得脱毛，前期会扎会不舒服的。\n追求美观或我这种商用另说）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 109,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 967
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T05:42:34.000Z",
+        "description": "不接骗人推广！从未做过中介！！\n天然奶，没做过更不推荐任何粉嫩手术！\n装b大号: @9_jfm    【🚪1314   全国可✈️过门问价，门槛不退请谨慎考虑】‖\n🍑店铺：doi用品🔍:   丸趣WannaPlay  ‖倒膜：黑科技工程机（进店搜丸崽）‖\ntg：https://t.co/5KhWoNGF7R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 41,
+                "username": "9_jfm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jingpinhaoji",
+                "end": 154,
+                "expanded_url": "https://t.me/jingpinhaoji",
+                "start": 131,
+                "url": "https://t.co/5KhWoNGF7R"
+              }
+            ]
+          }
+        },
+        "id": "1513753182182133762",
+        "location": "不卖视频图包！！谨防假冒被骗！！",
+        "name": "GB2312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916534128687906816/4vD55ziP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440137,
+          "following_count": 1,
+          "like_count": 730,
+          "listed_count": 646,
+          "media_count": 1121,
+          "tweet_count": 4018
+        },
+        "username": "wysgdmn",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

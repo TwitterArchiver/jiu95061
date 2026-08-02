@@ -1,0 +1,239 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793285874500915200"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1793286131884478703",
+    "created_at": "2024-05-22T14:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T15:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1793286131884478703"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "门槛"
+        },
+        {
+          "end": 8,
+          "start": 4,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 15,
+          "start": 10,
+          "tag": "女高中生"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "ATM"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "反差"
+        },
+        {
+          "end": 27,
+          "start": 25,
+          "tag": "m"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "小狗"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "母狗"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "主人"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "爸爸"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "sub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/8vJyynDF0l",
+          "end": 72,
+          "expanded_url": "https://twitter.com/jiu95061/status/1793286131884478703/photo/1",
+          "media_key": "3_1793285874500915200",
+          "start": 49,
+          "url": "https://t.co/8vJyynDF0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793286131884478703",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#门槛 #门槛哥  #女高中生 #ATM #反差 #m #小狗 #母狗 #主人 #爸爸 #sub https://t.co/8vJyynDF0l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1793285874500915200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOMIAGpaUAAr2eY.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793285874500915200"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1793286131884478703",
+        "created_at": "2024-05-22T14:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T15:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793286131884478703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "门槛"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "女高中生"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "ATM"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "反差"
+            },
+            {
+              "end": 27,
+              "start": 25,
+              "tag": "m"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "小狗"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "母狗"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "主人"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "爸爸"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "sub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8vJyynDF0l",
+              "end": 72,
+              "expanded_url": "https://twitter.com/jiu95061/status/1793286131884478703/photo/1",
+              "media_key": "3_1793285874500915200",
+              "start": 49,
+              "url": "https://t.co/8vJyynDF0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793286131884478703",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛 #门槛哥  #女高中生 #ATM #反差 #m #小狗 #母狗 #主人 #爸爸 #sub https://t.co/8vJyynDF0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 58,
+          "like_count": 406,
+          "listed_count": 0,
+          "tweet_count": 308
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

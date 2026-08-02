@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2044299548395229346",
+    "created_at": "2026-04-15T06:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T07:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044299548395229346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Babydoll675482…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Babydoll675482/status/2044060955076899064",
+          "start": 20,
+          "url": "https://t.co/xs1zH3bhN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044299548395229346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044060955076899064",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物过量带来的幸福真的是你想要的吗 ？ https://t.co/xs1zH3bhN5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2044299548395229346",
+        "created_at": "2026-04-15T06:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044299548395229346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Babydoll675482…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Babydoll675482/status/2044060955076899064",
+              "start": 20,
+              "url": "https://t.co/xs1zH3bhN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044299548395229346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044060955076899064",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物过量带来的幸福真的是你想要的吗 ？ https://t.co/xs1zH3bhN5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813393863819587584",
+        "conversation_id": "2044060955076899064",
+        "created_at": "2026-04-14T14:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044060955076899064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/rinii165892/status/2043745493268963440",
+              "start": 20,
+              "url": "https://t.co/lmrgAB3IJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044060955076899064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043745493268963440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物过量带来的幸福真的是你想要的吗 ？ https://t.co/lmrgAB3IJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 206,
+          "like_count": 1246,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1859
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T02:03:02.000Z",
+        "description": "",
+        "id": "1813393863819587584",
+        "location": "🚪88/188/388",
+        "name": "坏狗",
+        "pinned_tweet_id": "1813867672997925198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041874154241343488/4arKGg9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 51,
+          "like_count": 8009,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2027
+        },
+        "username": "Babydoll675482",
+        "verified": false
+      }
+    ]
+  }
+}

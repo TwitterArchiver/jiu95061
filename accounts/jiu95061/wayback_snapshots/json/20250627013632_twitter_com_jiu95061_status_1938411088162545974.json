@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938303451836137824",
+    "created_at": "2025-06-27T01:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T02:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938411088162545974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895551068320514050",
+          "start": 0,
+          "username": "pinkamena030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938411088162545974",
+    "in_reply_to_user_id": "1895551068320514050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938303451836137824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinkamena030 恶臭 好恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938303451836137824",
+        "created_at": "2025-06-27T01:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T02:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938411088162545974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895551068320514050",
+              "start": 0,
+              "username": "pinkamena030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938411088162545974",
+        "in_reply_to_user_id": "1895551068320514050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938303451836137824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinkamena030 恶臭 好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895551068320514050",
+        "conversation_id": "1938303451836137824",
+        "created_at": "2025-06-26T18:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T19:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938303451836137824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938303451836137824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1202,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽巨烦那些在我一堆废话和生活照里精准翻到并且只点赞擦边的。。。\n一般还有难看得要死的主页伴生皮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 121,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1052
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T19:06:29.000Z",
+        "description": "pansexual/switch/1v1\n🎚GAME LOADING......\n日记本，自留地，草稿箱，焚化炉︱单机上网，成分复杂，混沌中立︱https://t.co/qqwixU2FV9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkamenaovo",
+                "end": 95,
+                "expanded_url": "https://ngl.link/pinkamenaovo",
+                "start": 72,
+                "url": "https://t.co/qqwixU2FV9"
+              }
+            ]
+          }
+        },
+        "id": "1895551068320514050",
+        "location": "Ponyville, Equestria",
+        "name": "脆薯饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930621640712617984/JKCascCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 423,
+          "like_count": 15402,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 3377
+        },
+        "username": "pinkamena030",
+        "verified": false
+      }
+    ]
+  }
+}

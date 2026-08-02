@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2024182408606863567",
+    "created_at": "2026-02-18T18:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T19:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024182408606863567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lin_dialog/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/lin_dialog/status/2024113184416907485",
+          "start": 11,
+          "url": "https://t.co/Tl309ZCe4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024182408606863567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024113184416907485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有癫痫 高/低血压 https://t.co/Tl309ZCe4N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2024182408606863567",
+        "created_at": "2026-02-18T18:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T19:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024182408606863567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_dialog/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/lin_dialog/status/2024113184416907485",
+              "start": 11,
+              "url": "https://t.co/Tl309ZCe4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024182408606863567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024113184416907485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有癫痫 高/低血压 https://t.co/Tl309ZCe4N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2024113184416907485",
+        "created_at": "2026-02-18T13:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024113184416907485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fayoubaike000/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/fayoubaike000/status/2024093777980428750",
+              "start": 9,
+              "url": "https://t.co/CWrIDHQi9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024113184416907485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024093777980428750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯对 还有尿潴留 https://t.co/CWrIDHQi9C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 198,
+          "like_count": 1081,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1578
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 195,
+          "like_count": 1107,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2025
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1937559747106124163",
+    "created_at": "2025-06-26T07:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T08:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938130214607065381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678037476068163585",
+          "start": 0,
+          "username": "tamako_0406_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938130214607065381",
+    "in_reply_to_user_id": "1678037476068163585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937901038117507162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako_0406_ 谢谢宝宝嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1937559747106124163",
+        "created_at": "2025-06-26T07:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938130214607065381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678037476068163585",
+              "start": 0,
+              "username": "tamako_0406_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938130214607065381",
+        "in_reply_to_user_id": "1678037476068163585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937901038117507162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako_0406_ 谢谢宝宝嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678037476068163585",
+        "conversation_id": "1937559747106124163",
+        "created_at": "2025-06-25T15:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T16:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937901038117507162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937901038117507162",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937559747106124163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 好美丽！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 114,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1027
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T13:45:01.000Z",
+        "description": "前世@tamako94001201 @tamako_0406 请认真阅读置顶（不退门槛❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "tamako94001201"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tamako_0406"
+              }
+            ]
+          }
+        },
+        "id": "1678037476068163585",
+        "location": "骂我反弹",
+        "name": "tamako（被骗钱还债中",
+        "pinned_tweet_id": "1900113852169068953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844969754655633409/aRDtRO_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 244,
+          "like_count": 1526,
+          "listed_count": 7,
+          "media_count": 408,
+          "tweet_count": 4143
+        },
+        "username": "tamako_0406_",
+        "verified": false
+      }
+    ]
+  }
+}

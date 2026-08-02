@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1953457466731004233",
+    "created_at": "2025-08-07T14:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T15:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953457466731004233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ijubngqln13855…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/ijubngqln13855/status/1849483087572537533",
+          "start": 13,
+          "url": "https://t.co/JBbavB6ttF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953457466731004233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849483087572537533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯大概就是3p你崛起吧。 https://t.co/JBbavB6ttF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1849483087572537533].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1849483087572537533",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1849483087572537533"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1953457466731004233",
+        "created_at": "2025-08-07T14:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953457466731004233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ijubngqln13855…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ijubngqln13855/status/1849483087572537533",
+              "start": 13,
+              "url": "https://t.co/JBbavB6ttF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953457466731004233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849483087572537533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯大概就是3p你崛起吧。 https://t.co/JBbavB6ttF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 138,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1123
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

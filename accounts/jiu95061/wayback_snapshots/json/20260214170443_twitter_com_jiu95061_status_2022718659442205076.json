@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2022501289926562178",
+    "created_at": "2026-02-14T17:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022718659442205076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378164402101182469",
+          "start": 0,
+          "username": "Appraiser008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022718659442205076",
+    "in_reply_to_user_id": "1378164402101182469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022501289926562178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Appraiser008 我奶送的的玉佩碎了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2022501286478819328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFeNFJXMAAc86v.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2022501289926562178",
+        "created_at": "2026-02-14T17:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022718659442205076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378164402101182469",
+              "start": 0,
+              "username": "Appraiser008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022718659442205076",
+        "in_reply_to_user_id": "1378164402101182469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022501289926562178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Appraiser008 我奶送的的玉佩碎了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022501286478819328"
+          ]
+        },
+        "author_id": "1378164402101182469",
+        "conversation_id": "2022501289926562178",
+        "created_at": "2026-02-14T02:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022501289926562178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6IUJE1QzEJ",
+              "end": 34,
+              "expanded_url": "https://x.com/Appraiser008/status/2022501289926562178/photo/1",
+              "media_key": "3_2022501286478819328",
+              "start": 11,
+              "url": "https://t.co/6IUJE1QzEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022501289926562178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6079,
+          "impression_count": 466013,
+          "like_count": 18503,
+          "quote_count": 36,
+          "reply_count": 381,
+          "retweet_count": 899
+        },
+        "reply_settings": "everyone",
+        "text": "廉颇老矣，尚能饭否？ https://t.co/6IUJE1QzEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 195,
+          "like_count": 1054,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1545
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T01:56:26.000Z",
+        "description": "纵有千古，横有八荒；\n前途似海，来日方长。",
+        "id": "1378164402101182469",
+        "location": "Hong Kong",
+        "name": "🇨🇳 大牛🇨🇳",
+        "pinned_tweet_id": "1623214678917750785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922143712928530432/znfFyshI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155649,
+          "following_count": 5772,
+          "like_count": 109954,
+          "listed_count": 377,
+          "media_count": 15967,
+          "tweet_count": 64603
+        },
+        "username": "Appraiser008",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1820043959718359481",
+    "created_at": "2024-08-07T17:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T18:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821243606222696756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811060085252313088",
+          "start": 0,
+          "username": "Selenie0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821243606222696756",
+    "in_reply_to_user_id": "1811060085252313088",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821243109004677590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selenie0 因为想自杀。准备家里没人这样试试的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1820043959718359481",
+        "created_at": "2024-08-07T17:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T18:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821243606222696756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811060085252313088",
+              "start": 0,
+              "username": "Selenie0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821243606222696756",
+        "in_reply_to_user_id": "1811060085252313088",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821243109004677590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selenie0 因为想自杀。准备家里没人这样试试的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811060085252313088",
+        "conversation_id": "1820043959718359481",
+        "created_at": "2024-08-07T17:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T18:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821243109004677590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821243109004677590",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820043959718359481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 应该不会 但是为什么要这样吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 94,
+          "like_count": 537,
+          "listed_count": 0,
+          "tweet_count": 648
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T15:29:23.000Z",
+        "description": "✨我素小简^ ^✨\n重抑重焦♀//高三蛆//药蛆//可以私我互fo虽然我很无聊就是了//拒蠢♂、品客//:)",
+        "id": "1811060085252313088",
+        "name": "莫問嚴冬",
+        "pinned_tweet_id": "1816492177389920398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811197197393752064/aPGQoVoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 48,
+          "like_count": 38,
+          "listed_count": 0,
+          "tweet_count": 45
+        },
+        "username": "Selenie0",
+        "verified": false
+      }
+    ]
+  }
+}

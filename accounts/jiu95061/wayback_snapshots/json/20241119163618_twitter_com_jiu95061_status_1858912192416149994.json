@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831359865551511553",
+        "3_1831359865651904512"
+      ],
+      "media_source_tweet_id": [
+        "1831359889912021381",
+        "1831359889912021381"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1858912192416149994",
+    "created_at": "2024-11-19T16:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T17:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858912192416149994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1758537788063154176",
+          "start": 3,
+          "username": "sn8493980053931"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yy6VBgLHMO",
+          "end": 121,
+          "expanded_url": "https://x.com/sn8493980053931/status/1831359889912021381/photo/1",
+          "media_key": "3_1831359865551511553",
+          "start": 98,
+          "url": "https://t.co/Yy6VBgLHMO"
+        },
+        {
+          "display_url": "pic.x.com/Yy6VBgLHMO",
+          "end": 121,
+          "expanded_url": "https://x.com/sn8493980053931/status/1831359889912021381/photo/1",
+          "media_key": "3_1831359865651904512",
+          "start": 98,
+          "url": "https://t.co/Yy6VBgLHMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858912192416149994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831359889912021381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sn8493980053931: 这里是小怜\n​ 165 86\n​🚪88/188/520\n高中生一枚吖\n女宝宝找我互fo 互推吖\n​转帖抽5个红包 一周后开\n5.2*5\n欢迎小女孩互转吖 https://t.co/Yy6VBgLHMO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1858912192416149994].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1858912192416149994",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1858912192416149994"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1831359865551511553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWpMGEIa4AEdAR_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1831359865651904512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWpMGEgWwAApOQ7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831359865551511553",
+            "3_1831359865651904512"
+          ]
+        },
+        "author_id": "1758537788063154176",
+        "conversation_id": "1831359889912021381",
+        "created_at": "2024-09-04T15:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T16:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831359889912021381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yy6VBgLHMO",
+              "end": 100,
+              "expanded_url": "https://x.com/sn8493980053931/status/1831359889912021381/photo/1",
+              "media_key": "3_1831359865551511553",
+              "start": 77,
+              "url": "https://t.co/Yy6VBgLHMO"
+            },
+            {
+              "display_url": "pic.x.com/Yy6VBgLHMO",
+              "end": 100,
+              "expanded_url": "https://x.com/sn8493980053931/status/1831359889912021381/photo/1",
+              "media_key": "3_1831359865651904512",
+              "start": 77,
+              "url": "https://t.co/Yy6VBgLHMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831359889912021381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 43975,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小怜\n​ 165 86\n​🚪88/188/520\n高中生一枚吖\n女宝宝找我互fo 互推吖\n​转帖抽5个红包 一周后开\n5.2*5\n欢迎小女孩互转吖 https://t.co/Yy6VBgLHMO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 113,
+          "like_count": 591,
+          "listed_count": 0,
+          "tweet_count": 898
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T17:04:25.000Z",
+        "description": "🚪88/288/520",
+        "id": "1758537788063154176",
+        "location": "天国",
+        "name": "溺毙在樱花树下",
+        "pinned_tweet_id": "1831359889912021381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758775088642744320/7IejT-Zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 73,
+          "like_count": 15,
+          "listed_count": 1,
+          "tweet_count": 268
+        },
+        "username": "sn8493980053931",
+        "verified": false
+      }
+    ]
+  }
+}

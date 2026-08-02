@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2047851005686276174",
+    "created_at": "2026-04-25T04:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047890109065040208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724267127031672832",
+          "start": 0,
+          "username": "aliebwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047890109065040208",
+    "in_reply_to_user_id": "1724267127031672832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047851005686276174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliebwa 强力枇杷露 里面有罂粟壳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2047851005686276174",
+        "created_at": "2026-04-25T04:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047890109065040208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724267127031672832",
+              "start": 0,
+              "username": "aliebwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047890109065040208",
+        "in_reply_to_user_id": "1724267127031672832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047851005686276174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliebwa 强力枇杷露 里面有罂粟壳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724267127031672832",
+        "conversation_id": "2047851005686276174",
+        "created_at": "2026-04-25T01:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047851005686276174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047851005686276174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问一下哪个急支糖浆能o呀谢谢大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 220,
+          "like_count": 1267,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 1939
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "",
+        "id": "1724267127031672832",
+        "name": "idi",
+        "pinned_tweet_id": "1853642736207040577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 1071,
+          "like_count": 1184,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 1658
+        },
+        "username": "aliebwa",
+        "verified": false
+      }
+    ]
+  }
+}

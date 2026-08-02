@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2027345630298050781",
+    "created_at": "2026-02-27T15:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027405488577724673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1850453028454768640",
+          "start": 0,
+          "username": "ypeilng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027405488577724673",
+    "in_reply_to_user_id": "1850453028454768640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027345630298050781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ypeilng 愈美垃圾！普瑞牛逼克拉斯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2027345630298050781",
+        "created_at": "2026-02-27T15:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027405488577724673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1850453028454768640",
+              "start": 0,
+              "username": "ypeilng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027405488577724673",
+        "in_reply_to_user_id": "1850453028454768640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027345630298050781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ypeilng 愈美垃圾！普瑞牛逼克拉斯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850453028454768640",
+        "conversation_id": "2027345630298050781",
+        "created_at": "2026-02-27T11:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027345630298050781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027345630298050781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愈美我对你太失望了，为了愈美片我专门买的饮料止吐药还空腹就好像精心准备的婚礼在结婚的前1秒选择了逃婚，我对愈美片真的太失望了，你让我吐好吧，那我没办法，我以后我要加入普瑞教了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 205,
+          "like_count": 1176,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1675
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T08:23:23.000Z",
+        "description": "沛沛 09 infp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "http://overdose.jp",
+                "start": 0,
+                "url": "https://t.co/urlnj0h1zu"
+              }
+            ]
+          }
+        },
+        "id": "1850453028454768640",
+        "location": "距您200m",
+        "name": "奈",
+        "pinned_tweet_id": "1887903255469945027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850453324652257280/RAwX4VeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 313,
+          "like_count": 3288,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/urlnj0h1zu",
+        "username": "ypeilng",
+        "verified": false
+      }
+    ]
+  }
+}

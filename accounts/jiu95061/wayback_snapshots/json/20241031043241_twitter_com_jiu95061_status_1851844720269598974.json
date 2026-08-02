@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1851706519597007202",
+    "created_at": "2024-10-31T04:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T05:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851844720269598974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851844720269598974",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851706519597007202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 我最怕这样 所以干脆退学了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1851706519597007202",
+        "created_at": "2024-10-31T04:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T05:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851844720269598974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851844720269598974",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851706519597007202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 我最怕这样 所以干脆退学了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755765450707709952",
+        "conversation_id": "1851706519597007202",
+        "created_at": "2024-10-30T19:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T20:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851706519597007202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851706519597007202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4583,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问一下休过学的推友\n休学后再复学会很难吗，会不会无法适应学校生活呢.....？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 104,
+          "like_count": 584,
+          "listed_count": 0,
+          "tweet_count": 779
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "请与我互follow吧，想和你做朋友ww () ｜早就不想当两脚兽了…｜10年｜infj｜男｜轻抑中焦｜🏳️‍🌈｜术术人｜furry控｜有事说话不过脑子｜大陆人…｜不是粉红｜超级社恐｜（不定时发癫，推友们给予我的关爱会永远记住的！\\(//∇//)\\🚫政治打咩🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huajuanshiwo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huajuanshiwo1",
+                "start": 0,
+                "url": "https://t.co/fxCEVn0PFC"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号（欢迎qq扩列！！）",
+        "name": "树海（今天得去学校版",
+        "pinned_tweet_id": "1850603607013626207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844722371611226112/ClQToRPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1386,
+          "like_count": 16778,
+          "listed_count": 2,
+          "tweet_count": 3752
+        },
+        "url": "https://t.co/fxCEVn0PFC",
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

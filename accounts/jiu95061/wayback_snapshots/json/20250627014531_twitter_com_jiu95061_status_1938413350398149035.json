@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938037695500157122",
+    "created_at": "2025-06-27T01:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T02:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938413350398149035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1567505290026958848",
+          "start": 0,
+          "username": "woshiami"
+        },
+        {
+          "end": 19,
+          "id": "1918895283234017280",
+          "start": 10,
+          "username": "xiokorrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938413350398149035",
+    "in_reply_to_user_id": "1567505290026958848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938195100192096755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiami @xiokorrr 餐券就是这样 每天朋友圈都有几个发血图鬼图裸照的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938037695500157122",
+        "created_at": "2025-06-27T01:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T02:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938413350398149035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1567505290026958848",
+              "start": 0,
+              "username": "woshiami"
+            },
+            {
+              "end": 19,
+              "id": "1918895283234017280",
+              "start": 10,
+              "username": "xiokorrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938413350398149035",
+        "in_reply_to_user_id": "1567505290026958848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938195100192096755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiami @xiokorrr 餐券就是这样 每天朋友圈都有几个发血图鬼图裸照的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567505290026958848",
+        "conversation_id": "1938037695500157122",
+        "created_at": "2025-06-26T11:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T12:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938195100192096755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918895283234017280",
+              "start": 0,
+              "username": "xiokorrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938195100192096755",
+        "in_reply_to_user_id": "1918895283234017280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938037695500157122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiokorrr 我认识的地雷女微信朋友圈天天发这些😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 122,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1055
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T13:29:57.000Z",
+        "description": "客服小祥,随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/gIDDzD0fPR"
+              }
+            ]
+          }
+        },
+        "id": "1567505290026958848",
+        "location": "距您2.8km",
+        "name": "阿mi",
+        "pinned_tweet_id": "1876099002103746722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887872470319022080/E1KjNWh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11703,
+          "following_count": 2164,
+          "like_count": 77975,
+          "listed_count": 9,
+          "media_count": 1035,
+          "tweet_count": 5875
+        },
+        "url": "https://t.co/gIDDzD0fPR",
+        "username": "woshiami",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T05:07:56.000Z",
+        "description": "🧬🧬三代目重生版｜苦逼准高二生｜可以叫我Kurisu/ののちやん～｜近月者弯｜斯普拉遁🦑/ACG/東方/音游♪/Gal…｜𓆩 永遠に紅い幼き月𓆪 ｜☆@Baiguan_☆最喜欢的小狗勾🥺｜友🏳️‍⚧️｜负能致歉😥｜无🚪赞赏随意喵｜上推观察人类👁️｜互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "Baiguan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiokorrr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiokorrr",
+                "start": 0,
+                "url": "https://t.co/F9JA98XDni"
+              }
+            ]
+          }
+        },
+        "id": "1918895283234017280",
+        "location": "東京桜屋敷",
+        "name": "「桜小路ルナ 」👾8964防盗👿",
+        "pinned_tweet_id": "1926288756971012336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938246880816992259/tgF_IzDa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 427,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/F9JA98XDni",
+        "username": "xiokorrr",
+        "verified": false
+      }
+    ]
+  }
+}

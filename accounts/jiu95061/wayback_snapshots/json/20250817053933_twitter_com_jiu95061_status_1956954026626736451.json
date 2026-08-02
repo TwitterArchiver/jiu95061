@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1956954026626736451",
+    "created_at": "2025-08-17T05:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T06:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956954026626736451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Edward_8964/st…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/Edward_8964/status/1956690071425528308",
+          "start": 46,
+          "url": "https://t.co/roOWpnHsmy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956954026626736451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956690071425528308",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "坚定贯彻落实OD精神，深刻践行药物滥用信念———中国特色社会主义制度下ODer的理论与实践 https://t.co/roOWpnHsmy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1956954026626736451",
+        "created_at": "2025-08-17T05:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T06:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956954026626736451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Edward_8964/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Edward_8964/status/1956690071425528308",
+              "start": 46,
+              "url": "https://t.co/roOWpnHsmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956954026626736451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956690071425528308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坚定贯彻落实OD精神，深刻践行药物滥用信念———中国特色社会主义制度下ODer的理论与实践 https://t.co/roOWpnHsmy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1956690071425528308",
+        "created_at": "2025-08-16T12:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956690071425528308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956690071425528308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坚定贯彻落实OD精神，深刻践行药物滥用信念———中国特色社会主义制度下ODer的理论与实践"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/12866以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 161,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1200
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "od不扩散就是个笑话，要是没扩散的话我tm就不会出现在这里 自由意志主义者 前世：@XuaEdward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XuaEdward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.fandom.com",
+                "end": 23,
+                "expanded_url": "http://nonexistent.fandom.com",
+                "start": 0,
+                "url": "https://t.co/jSvdcBPiBx"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "ZheJiang",
+        "name": "💊爱德华 gen4 转生体",
+        "pinned_tweet_id": "1956034796850962690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950996785687908352/8FndmWCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 380,
+          "like_count": 3536,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/jSvdcBPiBx",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

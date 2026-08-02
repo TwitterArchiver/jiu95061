@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1788825256712351908",
+    "created_at": "2024-05-10T11:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T12:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788898701219598572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531200287733473280",
+          "start": 0,
+          "username": "bubblelightbulb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788898701219598572",
+    "in_reply_to_user_id": "1531200287733473280",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788825256712351908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblelightbulb 汪汪 抽我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1788825256712351908",
+        "created_at": "2024-05-10T11:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T12:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788898701219598572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531200287733473280",
+              "start": 0,
+              "username": "bubblelightbulb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788898701219598572",
+        "in_reply_to_user_id": "1531200287733473280",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788825256712351908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubblelightbulb 汪汪 抽我"
+      },
+      {
+        "attachments": {},
+        "author_id": "1531200287733473280",
+        "conversation_id": "1788825256712351908",
+        "created_at": "2024-05-10T06:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T07:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788825256712351908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788825256712351908",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17255,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "批都被抽烂了还在摸阴蒂呢？\n怎么这么骚啊？没被打够是吧？\n果然还是条只会发情的贱狗呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "爱我请给我钱💕我很穷。",
+        "id": "1749512000340942848",
+        "location": "烂尾楼顶",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 42,
+          "like_count": 225,
+          "listed_count": 0,
+          "tweet_count": 90
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T09:06:23.000Z",
+        "description": "🌈Les／疯批S1／厌男／XP无序的失智Chef／不定时放饭／推文性向为Les Only／投喂定制水聊请直接私信 不加v和其他联系方式所以无门／不能回复的均为推广恰饭自辨",
+        "id": "1531200287733473280",
+        "location": "West Wind Drift",
+        "name": "Bubble Light",
+        "pinned_tweet_id": "1788576174743953567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782513034809966593/9ZUIl-Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35922,
+          "following_count": 242,
+          "like_count": 51,
+          "listed_count": 58,
+          "tweet_count": 466
+        },
+        "username": "bubblelightbulb",
+        "verified": false
+      }
+    ]
+  }
+}

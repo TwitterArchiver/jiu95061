@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2042858336849399952",
+    "created_at": "2026-04-11T19:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T20:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043045435351404560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1148734971911102465",
+          "start": 0,
+          "username": "LongBTC_x125"
+        },
+        {
+          "end": 25,
+          "id": "1952612167343374336",
+          "start": 14,
+          "username": "gugugubobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043045435351404560",
+    "in_reply_to_user_id": "1148734971911102465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042955983027343782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LongBTC_x125 @gugugubobi 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2042858336849399952",
+        "created_at": "2026-04-11T19:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043045435351404560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1148734971911102465",
+              "start": 0,
+              "username": "LongBTC_x125"
+            },
+            {
+              "end": 25,
+              "id": "1952612167343374336",
+              "start": 14,
+              "username": "gugugubobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043045435351404560",
+        "in_reply_to_user_id": "1148734971911102465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042955983027343782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LongBTC_x125 @gugugubobi 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1148734971911102465",
+        "conversation_id": "2042858336849399952",
+        "created_at": "2026-04-11T13:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042955983027343782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952612167343374336",
+              "start": 0,
+              "username": "gugugubobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042955983027343782",
+        "in_reply_to_user_id": "1952612167343374336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18059,
+          "like_count": 308,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042858336849399952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugubobi 你就不能把对方当成自动炮机？偏要把自己当做飞机杯？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 209,
+          "like_count": 1244,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 1849
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-09T23:25:34.000Z",
+        "description": "Hey,l am here waiting fou u",
+        "id": "1148734971911102465",
+        "name": "Wayby_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976328836418777088/x-zVYxrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 255,
+          "like_count": 850,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 2549
+        },
+        "username": "LongBTC_x125",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T06:06:49.000Z",
+        "description": "ed 我想说什么就说什么 没有回复的义务 不加人 非单身但也没谈",
+        "id": "1952612167343374336",
+        "location": "永远的初心不改",
+        "name": "bobi",
+        "pinned_tweet_id": "2002371728643588513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952615390724628480/8sBaOw0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6912,
+          "following_count": 276,
+          "like_count": 2071,
+          "listed_count": 18,
+          "media_count": 724,
+          "tweet_count": 6182
+        },
+        "username": "gugugubobi",
+        "verified": false
+      }
+    ]
+  }
+}

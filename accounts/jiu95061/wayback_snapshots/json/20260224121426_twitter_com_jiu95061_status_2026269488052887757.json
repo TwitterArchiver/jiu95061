@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2026245656109814222",
+    "created_at": "2026-02-24T12:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026269488052887757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026269488052887757",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026245656109814222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 鸡哥又咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026245652276207617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6rr2uaYAE9tG5.jpg",
+        "width": 922
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2026245652439777280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6rr3VaQAAh7QL.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2026245656109814222",
+        "created_at": "2026-02-24T12:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026269488052887757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026269488052887757",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026245656109814222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 鸡哥又咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026245652276207617",
+            "3_2026245652439777280"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "2026245656109814222",
+        "created_at": "2026-02-24T10:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026245656109814222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20226…",
+              "end": 29,
+              "expanded_url": "https://x.com/i/status/2022640200711836066",
+              "start": 6,
+              "url": "https://t.co/wQIiopUHmY"
+            },
+            {
+              "display_url": "pic.x.com/zDwitBuumE",
+              "end": 53,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2026245656109814222/photo/1",
+              "media_key": "3_2026245652276207617",
+              "start": 30,
+              "url": "https://t.co/zDwitBuumE"
+            },
+            {
+              "display_url": "pic.x.com/zDwitBuumE",
+              "end": 53,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2026245656109814222/photo/1",
+              "media_key": "3_2026245652439777280",
+              "start": 30,
+              "url": "https://t.co/zDwitBuumE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026245656109814222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022640200711836066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鸡哥破防了\nhttps://t.co/wQIiopUHmY https://t.co/zDwitBuumE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 205,
+          "like_count": 1158,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 1655
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 61,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 702,
+          "tweet_count": 6903
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

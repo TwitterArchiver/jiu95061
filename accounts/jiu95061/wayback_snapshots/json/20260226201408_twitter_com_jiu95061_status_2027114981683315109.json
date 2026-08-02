@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2026994473608372277",
+    "created_at": "2026-02-26T20:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T21:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027114981683315109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916543476231208960",
+          "start": 0,
+          "username": "fayoubaike001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027114981683315109",
+    "in_reply_to_user_id": "1916543476231208960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026994473608372277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike001 哪个采访"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2026994473608372277",
+        "created_at": "2026-02-26T20:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T21:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027114981683315109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916543476231208960",
+              "start": 0,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027114981683315109",
+        "in_reply_to_user_id": "1916543476231208960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026994473608372277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike001 哪个采访"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916543476231208960",
+        "conversation_id": "2026994473608372277",
+        "created_at": "2026-02-26T12:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026994473608372277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026994473608372277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "后藤把圈子里的一切，包括所有oder都暴露在主流视频社区平台的自媒体面前，然后他们吃猎奇人血流量，后藤拿钱出卖了所有人，然后跑路滚蛋退圈了，小圈子见光死，这样只会加速各种药物的列管，导致大多数人最后无药了磕转而寻求更危险的替代，有些人od金刚烷胺惊恐发作死在了幻觉里，比如彩加？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 206,
+          "like_count": 1175,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 1670
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/MU8VTbdyqD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 64,
+                "expanded_url": "https://fayou.club/",
+                "start": 41,
+                "url": "https://t.co/MU8VTbdyqD"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "法友百科",
+        "pinned_tweet_id": "2026980292263899538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

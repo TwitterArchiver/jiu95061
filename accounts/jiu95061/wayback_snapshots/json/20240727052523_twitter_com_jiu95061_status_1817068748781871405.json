@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1816998531519168967",
+    "created_at": "2024-07-27T05:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T06:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817068748781871405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1586309506648399872",
+          "start": 0,
+          "username": "s05684366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817068748781871405",
+    "in_reply_to_user_id": "1586309506648399872",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816998531519168967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s05684366 我爱你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1816998531519168967",
+        "created_at": "2024-07-27T05:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T06:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817068748781871405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1586309506648399872",
+              "start": 0,
+              "username": "s05684366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817068748781871405",
+        "in_reply_to_user_id": "1586309506648399872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816998531519168967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s05684366 我爱你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586309506648399872",
+        "conversation_id": "1816998531519168967",
+        "created_at": "2024-07-27T00:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T01:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816998531519168967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816998531519168967",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崩溃崩溃 能不能去死去死去死去死去死去死  我双偏女 我真的很需要有人爱我爱我爱我直到死去都不会背叛的 我好痛苦 我喜欢你 你为什么不好好对我 为什么要骂我 你们为什么这样对我 我就是这么蠢…让你们失望了 那我也应该消失了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 76,
+          "like_count": 518,
+          "listed_count": 0,
+          "tweet_count": 620
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T10:50:39.000Z",
+        "description": "我永远不会背叛您/06/重抑/致力于寻找互fo/想要交很多朋友✨/纯绿❇️/不线下哦/我很可爱请给我打💰/@lys0623001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "lys0623001"
+              }
+            ]
+          }
+        },
+        "id": "1586309506648399872",
+        "location": "绷之天堂",
+        "name": "OK绷（流量超拉版",
+        "pinned_tweet_id": "1796255552374456749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816533201504108544/qMcvHOLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 321,
+          "like_count": 484,
+          "listed_count": 0,
+          "tweet_count": 1125
+        },
+        "username": "s05684366",
+        "verified": false
+      }
+    ]
+  }
+}

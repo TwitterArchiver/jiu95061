@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2016537383022567607",
+    "created_at": "2026-01-28T15:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T16:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016537383022567607"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016537383022567607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为啥我吃美金刚现在2h有性欲增长的药效啊 可能是因为吃了普瑞增强了普瑞药效？好奇怪 还有一次吃完美金刚和普瑞然后跟春药一样😧求解答"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2016537383022567607",
+        "created_at": "2026-01-28T15:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016537383022567607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016537383022567607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我吃美金刚现在2h有性欲增长的药效啊 可能是因为吃了普瑞增强了普瑞药效？好奇怪 还有一次吃完美金刚和普瑞然后跟春药一样😧求解答"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 191,
+          "like_count": 986,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 1492
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

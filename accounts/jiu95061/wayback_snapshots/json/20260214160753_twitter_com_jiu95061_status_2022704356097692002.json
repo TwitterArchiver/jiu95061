@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2022594258210115964",
+    "created_at": "2026-02-14T16:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022704356097692002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595700376203771904",
+          "start": 0,
+          "username": "user88881102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022704356097692002",
+    "in_reply_to_user_id": "1595700376203771904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022596942145143120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user88881102 可以慢慢减量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2022594258210115964",
+        "created_at": "2026-02-14T16:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022704356097692002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595700376203771904",
+              "start": 0,
+              "username": "user88881102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022704356097692002",
+        "in_reply_to_user_id": "1595700376203771904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022596942145143120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user88881102 可以慢慢减量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595700376203771904",
+        "conversation_id": "2022594258210115964",
+        "created_at": "2026-02-14T09:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022596942145143120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022596942145143120",
+        "in_reply_to_user_id": "1595700376203771904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 494,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022594928396898691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我对药物的认知里，我把苯二氮卓放在最危险最难戒断的一个位置，但我现在知道我成瘾很严重，大概四五年前开始我从安定转到劳拉西泮，那时还只是在犯病时用药，后来逐渐在睡午觉前固定吃，再到身体有感觉僵硬就吃，可能有一点点不自在就必须吃上几毫克"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 195,
+          "like_count": 1047,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1538
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T08:46:39.000Z",
+        "description": "我写字，我看电影，我听音乐，我在这里，我去那里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/cllKb",
+                "end": 23,
+                "expanded_url": "https://boxd.it/cllKb",
+                "start": 0,
+                "url": "https://t.co/iAm7icHPSY"
+              }
+            ]
+          }
+        },
+        "id": "1595700376203771904",
+        "name": "yangfan666",
+        "pinned_tweet_id": "1595701757954650112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799529203525996544/uZtnEPpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5009,
+          "following_count": 3500,
+          "like_count": 5910,
+          "listed_count": 7,
+          "media_count": 597,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/iAm7icHPSY",
+        "username": "user88881102",
+        "verified": false
+      }
+    ]
+  }
+}

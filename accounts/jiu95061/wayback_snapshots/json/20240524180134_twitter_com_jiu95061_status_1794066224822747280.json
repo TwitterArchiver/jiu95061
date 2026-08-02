@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1794066224822747280",
+    "created_at": "2024-05-24T18:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T19:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794066224822747280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiu95061/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/jiu95061/status/1793716659167084679",
+          "start": 22,
+          "url": "https://t.co/PrtSrYkG9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794066224822747280",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793716659167084679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我服了。。。。啊又胡言乱语了…我草我服了啊 https://t.co/PrtSrYkG9n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1794066224822747280",
+        "created_at": "2024-05-24T18:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T19:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794066224822747280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiu95061/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/jiu95061/status/1793716659167084679",
+              "start": 22,
+              "url": "https://t.co/PrtSrYkG9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794066224822747280",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793716659167084679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我服了。。。。啊又胡言乱语了…我草我服了啊 https://t.co/PrtSrYkG9n"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1793716190076141568"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1793716659167084679",
+        "created_at": "2024-05-23T18:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T19:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793716659167084679"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "反差"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "萝莉"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "女高中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/USM1vsoL7N",
+              "end": 58,
+              "expanded_url": "https://twitter.com/jiu95061/status/1793716659167084679/video/1",
+              "media_key": "7_1793716190076141568",
+              "start": 35,
+              "url": "https://t.co/USM1vsoL7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793716659167084679",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#反差 #门槛哥 #门槛哥  #萝莉  #女高中生 尸体是啊那个摸… https://t.co/USM1vsoL7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 62,
+          "like_count": 420,
+          "listed_count": 0,
+          "tweet_count": 308
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

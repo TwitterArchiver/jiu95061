@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1935026285962817746",
+    "created_at": "2025-06-18T07:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T08:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935242190764306772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868962641089286144",
+          "start": 0,
+          "username": "wangyue722433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935242190764306772",
+    "in_reply_to_user_id": "1868962641089286144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935026285962817746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangyue722433 我也想看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1935026285962817746",
+        "created_at": "2025-06-18T07:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T08:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935242190764306772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868962641089286144",
+              "start": 0,
+              "username": "wangyue722433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935242190764306772",
+        "in_reply_to_user_id": "1868962641089286144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935026285962817746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangyue722433 我也想看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868962641089286144",
+        "conversation_id": "1935026285962817746",
+        "created_at": "2025-06-17T17:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935026285962817746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935026285962817746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12947,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离了黑x哪里还有人给我看20cm的🐔，震撼我一整年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 107,
+          "like_count": 573,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 947
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T10:13:20.000Z",
+        "description": "双/brat/enfp/碎碎念/复读机/内含大量擦边内容/椰青美式忠实拥护者/转我擦边出去直接ban/不接推广",
+        "id": "1868962641089286144",
+        "location": "别问了🚪188纯绿不退",
+        "name": "妄月",
+        "pinned_tweet_id": "1916497714327806089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931917177361448960/qhQx0dYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8153,
+          "following_count": 188,
+          "like_count": 22362,
+          "listed_count": 18,
+          "media_count": 154,
+          "tweet_count": 6281
+        },
+        "username": "wangyue722433",
+        "verified": false
+      }
+    ]
+  }
+}

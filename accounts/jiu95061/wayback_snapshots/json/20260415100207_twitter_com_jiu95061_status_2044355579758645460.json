@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2044046622053761148",
+    "created_at": "2026-04-15T10:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044355579758645460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044355579758645460",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044046622053761148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywxqz_sy 死妈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2044046622053761148",
+        "created_at": "2026-04-15T10:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044355579758645460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044355579758645460",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044046622053761148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywxqz_sy 死妈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635516217200099328",
+        "conversation_id": "2044046622053761148",
+        "created_at": "2026-04-14T13:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044046622053761148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044046622053761148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6215,
+          "like_count": 114,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "为什么健全人如此的傲慢？我又被深深刺痛了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 207,
+          "like_count": 1251,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1864
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "顺女\n纯自恋\n女生和互关欢迎私信\n联系方式看心情给\n没有🚪，什么都不🈷️，不聊骚。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "朔云",
+        "pinned_tweet_id": "2041539499524849975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 614,
+          "like_count": 11642,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": false
+      }
+    ]
+  }
+}

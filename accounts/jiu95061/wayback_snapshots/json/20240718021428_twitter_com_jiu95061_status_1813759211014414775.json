@@ -1,0 +1,149 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1813759141971894272"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1813759211014414775",
+    "created_at": "2024-07-18T02:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T03:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1813759211014414775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/mNAPrOIEGa",
+          "end": 42,
+          "expanded_url": "https://twitter.com/jiu95061/status/1813759211014414775/video/1",
+          "media_key": "7_1813759141971894272",
+          "start": 19,
+          "url": "https://t.co/mNAPrOIEGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813759211014414775",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "千花是地雷系➕od➕吃谷➕蓝索➕少萝 https://t.co/mNAPrOIEGa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13066,
+        "height": 960,
+        "media_key": "7_1813759141971894272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1813759141971894272/pu/img/j9RHCLnelQ8usRoY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813759141971894272/pu/vid/avc1/320x568/bJD0aosy__n0P3VM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813759141971894272/pu/vid/avc1/480x852/9gHTnfiUe180YlLK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813759141971894272/pu/vid/avc1/540x960/R6dQqFtkr1nBbwrJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1813759141971894272/pu/pl/gawi_LWLidw9nR4V.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1813759141971894272"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1813759211014414775",
+        "created_at": "2024-07-18T02:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T03:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813759211014414775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mNAPrOIEGa",
+              "end": 42,
+              "expanded_url": "https://twitter.com/jiu95061/status/1813759211014414775/video/1",
+              "media_key": "7_1813759141971894272",
+              "start": 19,
+              "url": "https://t.co/mNAPrOIEGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813759211014414775",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千花是地雷系➕od➕吃谷➕蓝索➕少萝 https://t.co/mNAPrOIEGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1801584641486557225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 69,
+          "like_count": 505,
+          "listed_count": 0,
+          "tweet_count": 600
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

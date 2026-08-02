@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1792197185125462404",
+    "created_at": "2024-05-19T14:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T15:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792198331546075224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770504315888877568",
+          "start": 0,
+          "username": "Yuuuki1739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792198331546075224",
+    "in_reply_to_user_id": "1770504315888877568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792197185125462404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuuki1739 蹲蹲。。米老鼠梦女有福了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1792197185125462404",
+        "created_at": "2024-05-19T14:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T15:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792198331546075224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770504315888877568",
+              "start": 0,
+              "username": "Yuuuki1739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792198331546075224",
+        "in_reply_to_user_id": "1770504315888877568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792197185125462404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuuki1739 蹲蹲。。米老鼠梦女有福了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1770504315888877568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1792197185125462404",
+        "created_at": "2024-05-19T14:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T15:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792197185125462404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 97,
+              "tag": "推特男喘第一人"
+            },
+            {
+              "end": 112,
+              "start": 106,
+              "tag": "米老鼠男喘"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792197185125462404",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可以说一下\n我其实会米老鼠声线\n等我哪天精神真崩坏了\n你们可以听到米老鼠声线 京都人语气 大小姐口吻的男喘\n我也算推特男喘史留名了 哎\n不能做最厉害的甜点留名青史 那就做最抽象的答辩遗臭万年\n#推特男喘第一人 #米老鼠男喘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 46,
+          "like_count": 305,
+          "listed_count": 0,
+          "tweet_count": 197
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T17:35:07.000Z",
+        "description": "日本語English中文 裏アカ/因为承認欲求导致的男喘号/INFJ/不是4i。/私信看到都会回的最好夸夸我/好想死。/在破烂的地方一个人烂掉",
+        "id": "1770504315888877568",
+        "location": "一个人孤独发臭腐烂的地方",
+        "name": "宮城いずみMiyagi",
+        "pinned_tweet_id": "1791850295158575478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791847435431821313/XzrdcT1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 28,
+          "like_count": 73,
+          "listed_count": 0,
+          "tweet_count": 52
+        },
+        "username": "Yuuuki1739",
+        "verified": false
+      }
+    ]
+  }
+}

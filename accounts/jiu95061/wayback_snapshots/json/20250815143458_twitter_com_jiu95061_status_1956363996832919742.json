@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956363992601165825"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1956363996832919742",
+    "created_at": "2025-08-15T14:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956363996832919742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rVUOHSiARq",
+          "end": 23,
+          "expanded_url": "https://x.com/jiu95061/status/1956363996832919742/photo/1",
+          "media_key": "3_1956363992601165825",
+          "start": 0,
+          "url": "https://t.co/rVUOHSiARq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956363996832919742",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/rVUOHSiARq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1956363992601165825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZmr55bgAERxnG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956363992601165825"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1956363996832919742",
+        "created_at": "2025-08-15T14:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956363996832919742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVUOHSiARq",
+              "end": 23,
+              "expanded_url": "https://x.com/jiu95061/status/1956363996832919742/photo/1",
+              "media_key": "3_1956363992601165825",
+              "start": 0,
+              "url": "https://t.co/rVUOHSiARq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956363996832919742",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rVUOHSiARq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/12866以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 159,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1186
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

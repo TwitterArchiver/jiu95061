@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1937510458409517175",
+    "created_at": "2025-06-24T14:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T15:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937525844928528883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937525844928528883",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937510458409517175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozimin 你已经是clut片主角了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25458,
+        "height": 720,
+        "media_key": "13_1937510375001632768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937510375001632768/img/lGz8uMe81BA5DlIC.jpg",
+        "public_metrics": {
+          "view_count": 197
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937510375001632768/vid/avc1/480x270/MJbDszExIjn34AzH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937510375001632768/vid/avc1/640x360/JqSvT5Y1mBuvz0sv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937510375001632768/vid/avc1/1280x720/v3KX6Dmj6rGXSEdk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937510375001632768/pl/MPhRzy6whIUqLTQs.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1937510458409517175",
+        "created_at": "2025-06-24T14:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T15:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937525844928528883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937525844928528883",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937510458409517175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozimin 你已经是clut片主角了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937510375001632768"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1937510458409517175",
+        "created_at": "2025-06-24T13:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T14:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937510458409517175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1ZYdGruRj",
+              "end": 40,
+              "expanded_url": "https://x.com/loolzaozimin/status/1937510458409517175/video/1",
+              "media_key": "13_1937510375001632768",
+              "start": 17,
+              "url": "https://t.co/H1ZYdGruRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937510458409517175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 458,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想拍电影 我好想拍clut片 https://t.co/H1ZYdGruRj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 111,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1009
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "生活は踏みつけ、蹴り、切斷、飲酒です",
+        "id": "1467368317258248192",
+        "location": "門188 666 接妈妈活",
+        "name": "小藻",
+        "pinned_tweet_id": "1762362069909987403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933018250729709568/DY57ql5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15885,
+          "following_count": 45,
+          "like_count": 771,
+          "listed_count": 22,
+          "media_count": 183,
+          "tweet_count": 414
+        },
+        "username": "loolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

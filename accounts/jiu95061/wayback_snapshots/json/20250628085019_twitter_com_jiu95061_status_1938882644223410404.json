@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938283705199661210",
+    "created_at": "2025-06-28T08:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T09:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938882644223410404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1930827199839711232",
+          "start": 0,
+          "username": "yumewatasora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938882644223410404",
+    "in_reply_to_user_id": "1930827199839711232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938872431491588236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumewatasora 嗯嗯好谢谢 我只是感觉莫沙必利止吐效果挺好的 我肠胃很敏感除了普瑞不吐其他药不吃止吐药全会吐 我也有在吃升血压的药哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938283705199661210",
+        "created_at": "2025-06-28T08:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T09:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938882644223410404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1930827199839711232",
+              "start": 0,
+              "username": "yumewatasora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938882644223410404",
+        "in_reply_to_user_id": "1930827199839711232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938872431491588236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumewatasora 嗯嗯好谢谢 我只是感觉莫沙必利止吐效果挺好的 我肠胃很敏感除了普瑞不吐其他药不吃止吐药全会吐 我也有在吃升血压的药哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930827199839711232",
+        "conversation_id": "1938283705199661210",
+        "created_at": "2025-06-28T08:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T09:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938872431491588236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938872431491588236",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938283705199661210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 为了可以享受更久的快乐，要学一点药理哦，莫沙必利是5ht，会冲突的，苯海索5t还好，但是会和pr80协同记得买血压计，还有升血压的药，但是用之前请完全查清楚禁忌和相互作用哦！~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 131,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1071
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T03:21:17.000Z",
+        "description": "人们只知道一心研究的女孩从未炼出黄金，却无人知道她让意识开出了水银之花",
+        "id": "1930827199839711232",
+        "location": "参宿四（猎户座a） b",
+        "name": "🍥⚧️梦棉澄空🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930884479901646850/C4wrxeRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 257,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 170
+        },
+        "username": "yumewatasora",
+        "verified": false
+      }
+    ]
+  }
+}

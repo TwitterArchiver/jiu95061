@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2000568410162516311",
+    "created_at": "2025-12-17T13:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001289185915978134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1580263959751319554",
+          "start": 0,
+          "username": "kkndjhbh"
+        },
+        {
+          "end": 24,
+          "id": "716085967292080130",
+          "start": 10,
+          "username": "aydine_edward"
+        },
+        {
+          "end": 38,
+          "id": "1965531250447568896",
+          "start": 25,
+          "username": "jingyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001289185915978134",
+    "in_reply_to_user_id": "1580263959751319554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001281014933643304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkndjhbh @aydine_edward @jingyin_8964 我医生给我开了但是未成年用不了我没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2000568410162516311",
+        "created_at": "2025-12-17T13:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001289185915978134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1580263959751319554",
+              "start": 0,
+              "username": "kkndjhbh"
+            },
+            {
+              "end": 24,
+              "id": "716085967292080130",
+              "start": 10,
+              "username": "aydine_edward"
+            },
+            {
+              "end": 38,
+              "id": "1965531250447568896",
+              "start": 25,
+              "username": "jingyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001289185915978134",
+        "in_reply_to_user_id": "1580263959751319554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001281014933643304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkndjhbh @aydine_edward @jingyin_8964 我医生给我开了但是未成年用不了我没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580263959751319554",
+        "conversation_id": "2000568410162516311",
+        "created_at": "2025-12-17T13:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001281014933643304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "716085967292080130",
+              "start": 0,
+              "username": "aydine_edward"
+            },
+            {
+              "end": 28,
+              "id": "1965531250447568896",
+              "start": 15,
+              "username": "jingyin_8964"
+            },
+            {
+              "end": 38,
+              "id": "1749512000340942848",
+              "start": 29,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001281014933643304",
+        "in_reply_to_user_id": "716085967292080130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000872924337652222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aydine_edward @jingyin_8964 @jiu95061 私聊我我教你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 191,
+          "like_count": 972,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 1407
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T18:27:51.000Z",
+        "description": "全网同ID，oder可互fo 业余诗人 瘾君子 双相 轻中度精分 lgbt友好立场 只分享用药经历，不推荐任何人od 可交流一切药物经验",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%89%B6%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%89%B6%E6%A2%AF",
+                "start": 0,
+                "url": "https://t.co/RIPVCzFX2S"
+              }
+            ]
+          }
+        },
+        "id": "1580263959751319554",
+        "location": "The Netherlands",
+        "name": "扶梯",
+        "pinned_tweet_id": "2001288635757343032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998547095981064192/IbNgKkSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 96,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/RIPVCzFX2S",
+        "username": "kkndjhbh",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-02T02:12:53.000Z",
+        "description": "",
+        "id": "716085967292080130",
+        "name": "Aydine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651385695951376386/kmbL6wXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 639,
+          "like_count": 159631,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 1924
+        },
+        "username": "aydine_edward",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/接受药圈新闻投稿\n/接RC测试\n/我宝宝🤗：@Edward_8964\n/请来镜音的提问箱随意骚扰：https://t.co/Ko843XKMQP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 98,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 75,
+                "url": "https://t.co/Ko843XKMQP"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪88/288/520/1314可不固定",
+        "name": "镜音",
+        "pinned_tweet_id": "2000617258809434147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 131,
+          "like_count": 1271,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 615
+        },
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

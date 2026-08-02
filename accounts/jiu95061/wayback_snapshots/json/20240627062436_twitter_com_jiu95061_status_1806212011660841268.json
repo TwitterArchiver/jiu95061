@@ -1,0 +1,168 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1806189792683757845",
+    "created_at": "2024-06-27T06:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T07:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806212011660841268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1571484780050407424",
+          "start": 0,
+          "username": "kwi_cattt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806212011660841268",
+    "in_reply_to_user_id": "1571484780050407424",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806189792683757845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwi_cattt 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1806189792683757845",
+        "created_at": "2024-06-27T06:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T07:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806212011660841268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1571484780050407424",
+              "start": 0,
+              "username": "kwi_cattt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806212011660841268",
+        "in_reply_to_user_id": "1571484780050407424",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806189792683757845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwi_cattt 1"
+      },
+      {
+        "attachments": {
+          "poll_ids": [
+            "1806189791110647808"
+          ]
+        },
+        "author_id": "1571484780050407424",
+        "conversation_id": "1806189792683757845",
+        "created_at": "2024-06-27T04:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T05:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806189792683757845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806189792683757845",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发布投票 支持我从良的请扣1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1801584641486557225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 66,
+          "like_count": 493,
+          "listed_count": 0,
+          "tweet_count": 577
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T13:02:29.000Z",
+        "description": "🚪60/288 接线下 我在仰望天空",
+        "id": "1571484780050407424",
+        "location": "北欧",
+        "name": "Nomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803513885791772672/GdbjBacW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 72,
+          "like_count": 50,
+          "listed_count": 0,
+          "tweet_count": 864
+        },
+        "username": "kwi_cattt",
+        "verified": false
+      }
+    ]
+  }
+}

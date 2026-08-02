@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1937077533390066012",
+    "created_at": "2025-06-23T13:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937145730516562256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2437409155",
+          "start": 0,
+          "username": "Imran19549446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937145730516562256",
+    "in_reply_to_user_id": "2437409155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937077533390066012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Imran19549446 啊？这是奶水吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1695,
+        "media_key": "3_1937077510044291072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHhu3iWkAASPhk.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1937077533390066012",
+        "created_at": "2025-06-23T13:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T14:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937145730516562256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2437409155",
+              "start": 0,
+              "username": "Imran19549446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937145730516562256",
+        "in_reply_to_user_id": "2437409155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937077533390066012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Imran19549446 啊？这是奶水吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937077510044291072"
+          ]
+        },
+        "author_id": "2437409155",
+        "conversation_id": "1937077533390066012",
+        "created_at": "2025-06-23T09:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T10:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937077533390066012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4WSNNz6Gi",
+              "end": 63,
+              "expanded_url": "https://x.com/Imran19549446/status/1937077533390066012/photo/1",
+              "media_key": "3_1937077510044291072",
+              "start": 40,
+              "url": "https://t.co/j4WSNNz6Gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937077533390066012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1933,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然的就湿一大片了…我在想要不要瞒着你们 好猎奇 好神奇 好奇怪的感觉。。！！ https://t.co/j4WSNNz6Gi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 111,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1001
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-10T18:57:18.000Z",
+        "description": "MTF🏳️‍⚧️/INFP/2025.6.2持证含糖🍥/家长不管党🌟/天赋党/轻微焦虑/攒钱srs手术目前进度1/3🔝｜｜不下海不od不键政 /对很多东西感兴趣就会挑一个最猎奇的/要爱自己 永远做个善良可爱的人🧡",
+        "id": "2437409155",
+        "location": "外太空🪐",
+        "name": "桃源^奈奈生🌟🏳️‍⚧️（srs手术规划中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871257582188515328/rm-OY0Hm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 828,
+          "like_count": 207,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 176
+        },
+        "username": "Imran19549446",
+        "verified": false
+      }
+    ]
+  }
+}

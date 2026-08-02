@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2029662679854711072",
+    "created_at": "2026-03-05T20:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T21:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029662679854711072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2029047431749329366",
+          "start": 44,
+          "url": "https://t.co/tmkBMShtTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029662679854711072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029047431749329366",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刷完推特。我这个年纪是不是也要准备一下 吸烟 喝酒 OD 割手 滥交 找金主 收门槛了 https://t.co/tmkBMShtTd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2029662679854711072",
+        "created_at": "2026-03-05T20:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T21:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029662679854711072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2029047431749329366",
+              "start": 44,
+              "url": "https://t.co/tmkBMShtTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029662679854711072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029047431749329366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷完推特。我这个年纪是不是也要准备一下 吸烟 喝酒 OD 割手 滥交 找金主 收门槛了 https://t.co/tmkBMShtTd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2029047431749329366",
+        "created_at": "2026-03-04T04:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029047431749329366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Cbscfe/status/2028738988014809576",
+              "start": 45,
+              "url": "https://t.co/OKPdocQfaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029047431749329366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2676,
+          "like_count": 30,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028738988014809576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷完推特。我这个年纪是不是也要准备一下 吸烟 喝酒 OD 割手 滥交 找金主 收门槛了？ https://t.co/OKPdocQfaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 208,
+          "like_count": 1189,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1701
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 923,
+          "like_count": 20508,
+          "listed_count": 9,
+          "media_count": 337,
+          "tweet_count": 5927
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

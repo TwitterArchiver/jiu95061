@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1801560084570374294",
+    "created_at": "2024-06-14T10:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T11:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1801560084570374294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Raiden9Shogun/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Raiden9Shogun/status/1801449637389418948",
+          "start": 27,
+          "url": "https://t.co/WialA413Mu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801560084570374294",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801449637389418948",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈被窝压死了呀 全压碎了呀~~有好多黑人的精液。呕 https://t.co/WialA413Mu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1801560084570374294",
+        "created_at": "2024-06-14T10:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T11:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801560084570374294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Raiden9Shogun/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Raiden9Shogun/status/1801449637389418948",
+              "start": 27,
+              "url": "https://t.co/WialA413Mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801560084570374294",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801449637389418948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈被窝压死了呀 全压碎了呀~~有好多黑人的精液。呕 https://t.co/WialA413Mu"
+      },
+      {
+        "attachments": {},
+        "author_id": "1269935630949027840",
+        "conversation_id": "1801194189675442555",
+        "created_at": "2024-06-14T03:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T04:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801449637389418948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801449637389418948",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801194189675442555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 乱轮？乱轮是个什么鸡吧玩意儿？乱车轮吗？轧死你啊傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 55,
+          "like_count": 520,
+          "listed_count": 0,
+          "tweet_count": 509
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-08T10:13:53.000Z",
+        "description": "喷子，二次元，半神半魔\n泛性恋，switch，性瘾，擅舔，男喘，四爱，超敏感",
+        "id": "1269935630949027840",
+        "name": "小心烫死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772446167655456768/AodqXubm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 456,
+          "like_count": 584,
+          "listed_count": 0,
+          "tweet_count": 340
+        },
+        "username": "Raiden9Shogun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1854519054704558410",
+    "created_at": "2024-11-07T13:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T14:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854519054704558410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843318225896919040",
+          "start": 3,
+          "username": "ElmiraLing23402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854519054704558410",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854393453402358015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElmiraLing23402: 新置顶(⌯︎¤̴̶̷̀ω¤̴̶̷́)✧︎\nhihi大家好我是小新\n 10/155/100/双性恋｜switch 女初（年纪小介意勿扰）\n有性瘾 xp多杂且变态  钟爱骨科٩(๑ᵒ̴̶̷͈᷄ᗨᵒ̴̶̷͈᷅)و\n欢迎美女姐姐来找我聊天，男生…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1854519054704558410].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1854519054704558410",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1854519054704558410"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854393450487287808",
+            "3_1854393450072096768",
+            "3_1854393450202058752",
+            "3_1854393450541805568"
+          ]
+        },
+        "author_id": "1843318225896919040",
+        "conversation_id": "1854393453402358015",
+        "created_at": "2024-11-07T05:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T06:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854393453402358015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMbvrJyKhv",
+              "end": 169,
+              "expanded_url": "https://x.com/ElmiraLing23402/status/1854393453402358015/photo/1",
+              "media_key": "3_1854393450487287808",
+              "start": 146,
+              "url": "https://t.co/XMbvrJyKhv"
+            },
+            {
+              "display_url": "pic.x.com/XMbvrJyKhv",
+              "end": 169,
+              "expanded_url": "https://x.com/ElmiraLing23402/status/1854393453402358015/photo/1",
+              "media_key": "3_1854393450072096768",
+              "start": 146,
+              "url": "https://t.co/XMbvrJyKhv"
+            },
+            {
+              "display_url": "pic.x.com/XMbvrJyKhv",
+              "end": 169,
+              "expanded_url": "https://x.com/ElmiraLing23402/status/1854393453402358015/photo/1",
+              "media_key": "3_1854393450202058752",
+              "start": 146,
+              "url": "https://t.co/XMbvrJyKhv"
+            },
+            {
+              "display_url": "pic.x.com/XMbvrJyKhv",
+              "end": 169,
+              "expanded_url": "https://x.com/ElmiraLing23402/status/1854393453402358015/photo/1",
+              "media_key": "3_1854393450541805568",
+              "start": 146,
+              "url": "https://t.co/XMbvrJyKhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854393453402358015",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2608,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶(⌯︎¤̴̶̷̀ω¤̴̶̷́)✧︎\nhihi大家好我是小新\n 10/155/100/双性恋｜switch 女初（年纪小介意勿扰）\n有性瘾 xp多杂且变态  钟爱骨科٩(๑ᵒ̴̶̷͈᷄ᗨᵒ̴̶̷͈᷅)و\n欢迎美女姐姐来找我聊天，男生不入门不回噢  女宝们欢迎互fo互转 ୧〃•̀ꇴ•〃૭ https://t.co/XMbvrJyKhv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 107,
+          "like_count": 590,
+          "listed_count": 0,
+          "tweet_count": 871
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T15:51:38.000Z",
+        "description": "10年/155/100  双性恋 欢迎喜欢我的宝宝们投喂 欢迎女宝找我互fo互转 \n美女姐姐请多骚扰我！( ˝ᗢ̈˝ )\n男生私信不回入门直接打口令",
+        "id": "1843318225896919040",
+        "name": "小新(不想上学版",
+        "pinned_tweet_id": "1854393453402358015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854385347456802816/c1AB7dV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 51,
+          "like_count": 3,
+          "listed_count": 1,
+          "tweet_count": 36
+        },
+        "username": "ElmiraLing23402",
+        "verified": false
+      }
+    ]
+  }
+}

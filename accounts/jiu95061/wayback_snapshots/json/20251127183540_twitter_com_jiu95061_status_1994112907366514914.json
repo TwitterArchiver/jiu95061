@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1994032348556320898",
+    "created_at": "2025-11-27T18:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994112907366514914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994112907366514914",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994032348556320898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColesPerson 女生能进吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1994032348556320898",
+        "created_at": "2025-11-27T18:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994112907366514914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994112907366514914",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994032348556320898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColesPerson 女生能进吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "1994032348556320898",
+        "created_at": "2025-11-27T13:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994032348556320898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994032348556320898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6359,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "英雄学院不是辱华了吗？建议国家也出一部动漫叫我的孔子学院辱日本，来吧，强烈的反击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 193,
+          "like_count": 955,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 1368
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "有本事你就来美国杀了我",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "幼女时代",
+        "pinned_tweet_id": "1980605611067756844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1395,
+          "like_count": 26508,
+          "listed_count": 4,
+          "media_count": 891,
+          "tweet_count": 9681
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

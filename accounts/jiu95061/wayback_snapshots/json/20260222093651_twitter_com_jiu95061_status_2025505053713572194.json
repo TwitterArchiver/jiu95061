@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2025367699254325678",
+    "created_at": "2026-02-22T09:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025505053713572194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1831391450283831299",
+          "start": 0,
+          "username": "yi0415_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025505053713572194",
+    "in_reply_to_user_id": "1831391450283831299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025367699254325678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi0415_ 一样，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2025367699254325678",
+        "created_at": "2026-02-22T09:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025505053713572194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831391450283831299",
+              "start": 0,
+              "username": "yi0415_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025505053713572194",
+        "in_reply_to_user_id": "1831391450283831299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025367699254325678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi0415_ 一样，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831391450283831299",
+        "conversation_id": "2025367699254325678",
+        "created_at": "2026-02-22T00:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025367699254325678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025367699254325678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5211,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "越没钱的时候购物欲越强 越有钱的时候反而什么也没买。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 202,
+          "like_count": 1121,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1620
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T17:58:57.000Z",
+        "description": "当朋友圈发别骂我 想发什么发什么 梦到什么发什么",
+        "id": "1831391450283831299",
+        "location": "我来自地狱",
+        "name": "怡",
+        "pinned_tweet_id": "1994332265120174188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015745496049123328/_CzscIKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29037,
+          "following_count": 86,
+          "like_count": 1612,
+          "listed_count": 80,
+          "media_count": 302,
+          "tweet_count": 2209
+        },
+        "username": "yi0415_",
+        "verified": false
+      }
+    ]
+  }
+}

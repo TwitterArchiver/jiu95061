@@ -1,0 +1,217 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1788899825108607369",
+    "created_at": "2024-05-10T12:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T13:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788915917302452333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1495305183030497286",
+          "start": 0,
+          "username": "youdanmeiyouyou"
+        },
+        {
+          "end": 27,
+          "id": "1746131392554266624",
+          "start": 17,
+          "username": "gakuben04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788915917302452333",
+    "in_reply_to_user_id": "1495305183030497286",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788915200307130458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youdanmeiyouyou @gakuben04 爆笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1788899825108607369",
+        "created_at": "2024-05-10T12:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T13:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788915917302452333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1495305183030497286",
+              "start": 0,
+              "username": "youdanmeiyouyou"
+            },
+            {
+              "end": 27,
+              "id": "1746131392554266624",
+              "start": 17,
+              "username": "gakuben04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788915917302452333",
+        "in_reply_to_user_id": "1495305183030497286",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788915200307130458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youdanmeiyouyou @gakuben04 爆笑"
+      },
+      {
+        "attachments": {},
+        "author_id": "1495305183030497286",
+        "conversation_id": "1788899825108607369",
+        "created_at": "2024-05-10T12:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T13:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788915200307130458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1746131392554266624",
+              "start": 0,
+              "username": "gakuben04"
+            },
+            {
+              "end": 20,
+              "id": "1749512000340942848",
+              "start": 11,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788915200307130458",
+        "in_reply_to_user_id": "1746131392554266624",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788914812900245827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gakuben04 @jiu95061 我不是啊（）我就看看而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "爱我请给我钱💕我很穷。",
+        "id": "1749512000340942848",
+        "location": "烂尾楼顶",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 42,
+          "like_count": 225,
+          "listed_count": 0,
+          "tweet_count": 92
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T07:52:04.000Z",
+        "description": "05 INFJ n=1 慶應志望　🚹中国人デス 日常垢 コーラ依存 中国語、日本語、英語全部OK",
+        "id": "1495305183030497286",
+        "location": "Tokyo-to, Japan",
+        "name": "ゆうき　生まれたから慶應推しデス",
+        "pinned_tweet_id": "1774131458275443126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535803583840788480/RoE2In1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 699,
+          "like_count": 13526,
+          "listed_count": 4,
+          "tweet_count": 3651
+        },
+        "username": "youdanmeiyouyou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T11:25:51.000Z",
+        "description": "n=2🚹国立医医 宅浪04 2浪　怠惰",
+        "id": "1746131392554266624",
+        "location": "浪人",
+        "name": "2浪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751976378076151808/AE08UkiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 526,
+          "like_count": 18412,
+          "listed_count": 0,
+          "tweet_count": 1719
+        },
+        "username": "gakuben04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2044410216364880095",
+    "created_at": "2026-04-15T13:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044410216364880095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekoTiao0w0/st…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/nekoTiao0w0/status/2044069041913094547",
+          "start": 41,
+          "url": "https://t.co/J9LSb0cMl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044410216364880095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044069041913094547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "磕三年药了什么时候到斩杀线我活够了我想死 我的死法一定会是致敬牢爱阿片联用抑制剂 https://t.co/J9LSb0cMl4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2044410216364880095",
+        "created_at": "2026-04-15T13:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044410216364880095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekoTiao0w0/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/nekoTiao0w0/status/2044069041913094547",
+              "start": 41,
+              "url": "https://t.co/J9LSb0cMl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044410216364880095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044069041913094547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "磕三年药了什么时候到斩杀线我活够了我想死 我的死法一定会是致敬牢爱阿片联用抑制剂 https://t.co/J9LSb0cMl4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668257047647776770",
+        "conversation_id": "2044069041913094547",
+        "created_at": "2026-04-14T15:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044069041913094547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044069041913094547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1325,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕三年药了什么时候到斩杀线我活够了我想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 207,
+          "like_count": 1253,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1866
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？里账号@kklqaq只通过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "kklqaq"
+              }
+            ]
+          }
+        },
+        "id": "1668257047647776770",
+        "location": "🚪188已从良不线下",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2024841962806010115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 224,
+          "like_count": 7493,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 3513
+        },
+        "username": "nekoTiao0w0",
+        "verified": false
+      }
+    ]
+  }
+}

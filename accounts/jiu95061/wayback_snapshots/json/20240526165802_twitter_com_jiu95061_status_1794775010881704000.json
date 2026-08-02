@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1794560907554775085",
+    "created_at": "2024-05-26T16:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T17:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794775010881704000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1538804799730110464",
+          "start": 0,
+          "username": "Nayir_Ginger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794775010881704000",
+    "in_reply_to_user_id": "1538804799730110464",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794560907554775085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nayir_Ginger 好看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1794560907554775085",
+        "created_at": "2024-05-26T16:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T17:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794775010881704000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538804799730110464",
+              "start": 0,
+              "username": "Nayir_Ginger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794775010881704000",
+        "in_reply_to_user_id": "1538804799730110464",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794560907554775085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nayir_Ginger 好看。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794560904740450304"
+          ]
+        },
+        "author_id": "1538804799730110464",
+        "conversation_id": "1794560907554775085",
+        "created_at": "2024-05-26T02:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T03:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794560907554775085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NYaaGIpWLw",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Nayir_Ginger/status/1794560907554775085/photo/1",
+              "media_key": "3_1794560904740450304",
+              "start": 16,
+              "url": "https://t.co/NYaaGIpWLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794560907554775085",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己的欧派不是很好看QAQ https://t.co/NYaaGIpWLw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 0,
+          "like_count": 428,
+          "listed_count": 0,
+          "tweet_count": 317
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T08:44:11.000Z",
+        "description": "满脑子黄色废料～偶尔写点台本！🚪50 过门＋v 可聊黄～",
+        "id": "1538804799730110464",
+        "name": "易祈喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697707278777147393/PLARF95S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 128,
+          "like_count": 735,
+          "listed_count": 2,
+          "tweet_count": 10
+        },
+        "username": "Nayir_Ginger",
+        "verified": false
+      }
+    ]
+  }
+}

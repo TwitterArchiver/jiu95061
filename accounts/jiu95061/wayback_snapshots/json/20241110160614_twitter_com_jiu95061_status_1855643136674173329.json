@@ -1,0 +1,101 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855643096325009408"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1855643136674173329",
+    "created_at": "2024-11-10T16:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T17:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855643136674173329"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "自伤"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/moCBKqH56j",
+          "end": 27,
+          "expanded_url": "https://x.com/jiu95061/status/1855643136674173329/photo/1",
+          "media_key": "3_1855643096325009408",
+          "start": 4,
+          "url": "https://t.co/moCBKqH56j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855643136674173329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "＃自伤 https://t.co/moCBKqH56j"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1855643136674173329].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1855643136674173329",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1855643136674173329"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1855643096325009408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcCRkIJbsAAD4r2.jpg",
+        "width": 2000
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 107,
+          "like_count": 587,
+          "listed_count": 0,
+          "tweet_count": 878
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

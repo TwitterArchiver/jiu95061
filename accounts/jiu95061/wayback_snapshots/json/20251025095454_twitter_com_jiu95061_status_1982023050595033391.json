@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1982022847552733184"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1982023050595033391",
+    "created_at": "2025-10-25T09:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T10:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982023050595033391"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 10,
+          "start": 5,
+          "tag": "线下非绿"
+        },
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "爸爸活"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tAVxghJ2AC",
+          "end": 43,
+          "expanded_url": "https://x.com/jiu95061/status/1982023050595033391/video/1",
+          "media_key": "7_1982022847552733184",
+          "start": 20,
+          "url": "https://t.co/tAVxghJ2AC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982023050595033391",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#门槛妹 #线下非绿 #爸爸活 中华娘 https://t.co/tAVxghJ2AC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8008,
+        "height": 1280,
+        "media_key": "7_1982022847552733184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982022847552733184/pu/img/bzxrAqCWjEg_IZub.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982022847552733184/pu/vid/avc1/320x568/M5LoKkS_-MJfx-q8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982022847552733184/pu/vid/avc1/480x852/ot5PDiVbM9COp6vd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982022847552733184/pu/vid/avc1/720x1280/d1EhZV1T8zMIBSDx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982022847552733184/pu/pl/I07oqal19xyAhz7h.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982022847552733184"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1982023050595033391",
+        "created_at": "2025-10-25T09:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T10:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982023050595033391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "线下非绿"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAVxghJ2AC",
+              "end": 43,
+              "expanded_url": "https://x.com/jiu95061/status/1982023050595033391/video/1",
+              "media_key": "7_1982022847552733184",
+              "start": 20,
+              "url": "https://t.co/tAVxghJ2AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982023050595033391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛妹 #线下非绿 #爸爸活 中华娘 https://t.co/tAVxghJ2AC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 187,
+          "like_count": 887,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1258
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

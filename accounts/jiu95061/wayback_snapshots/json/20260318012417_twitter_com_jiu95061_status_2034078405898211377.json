@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2034078405898211377",
+    "created_at": "2026-03-18T01:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T02:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034078405898211377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/biu_521/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/biu_521/status/2033567783921856581",
+          "start": 3,
+          "url": "https://t.co/TdkkfQgBA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034078405898211377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033567783921856581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼 https://t.co/TdkkfQgBA7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2033567770646843392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDivHPQWkAAa0cy.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2034078405898211377",
+        "created_at": "2026-03-18T01:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034078405898211377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/biu_521/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/biu_521/status/2033567783921856581",
+              "start": 3,
+              "url": "https://t.co/TdkkfQgBA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034078405898211377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033567783921856581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼 https://t.co/TdkkfQgBA7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033567770646843392"
+          ]
+        },
+        "author_id": "1675175213649235968",
+        "conversation_id": "2033567783921856581",
+        "created_at": "2026-03-16T15:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033567783921856581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jjxzj6plos",
+              "end": 55,
+              "expanded_url": "https://x.com/biu_521/status/2033567783921856581/photo/1",
+              "media_key": "3_2033567770646843392",
+              "start": 32,
+              "url": "https://t.co/Jjxzj6plos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033567783921856581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 185695,
+          "like_count": 236,
+          "quote_count": 46,
+          "reply_count": 295,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "好女孩怎么舍得让老公体验感不好呢？好女孩都是做完吃药让老公爽。 https://t.co/Jjxzj6plos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 213,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 1737
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T16:11:21.000Z",
+        "description": "黄色废料/➕V🚪480",
+        "id": "1675175213649235968",
+        "location": "浙江",
+        "name": "biu",
+        "pinned_tweet_id": "1767930552806752360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746014445464412160/H3F7sXpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58041,
+          "following_count": 22,
+          "like_count": 3385,
+          "listed_count": 219,
+          "media_count": 610,
+          "tweet_count": 1247
+        },
+        "username": "biu_521",
+        "verified": true
+      }
+    ]
+  }
+}

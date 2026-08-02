@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1955636441650020387",
+    "created_at": "2025-08-13T14:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955636441650020387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911828872334831616",
+          "start": 3,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955636441650020387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955630013161849213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edward_8964: 肉體上的創口易於治療\n心靈上的傷口卻無藥可醫\n夢寐以求的健全的生命卻無法得到\n為了讓自己好起來而od\n短暫的好轉後心臟的傷口又擴大了幾分\n於是走向了更加強力的藥物\n遊走於社會規則的邊緣\n用藥物自救\n主觀意志體會到了短暫的好轉得到了健全的體驗\n可…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1955636441650020387",
+        "created_at": "2025-08-13T14:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955636441650020387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911828872334831616",
+              "start": 3,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955636441650020387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955630013161849213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edward_8964: 肉體上的創口易於治療\n心靈上的傷口卻無藥可醫\n夢寐以求的健全的生命卻無法得到\n為了讓自己好起來而od\n短暫的好轉後心臟的傷口又擴大了幾分\n於是走向了更加強力的藥物\n遊走於社會規則的邊緣\n用藥物自救\n主觀意志體會到了短暫的好轉得到了健全的體驗\n可…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1955630013161849213",
+        "created_at": "2025-08-13T13:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955630013161849213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955630013161849213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "肉體上的創口易於治療\n心靈上的傷口卻無藥可醫\n夢寐以求的健全的生命卻無法得到\n為了讓自己好起來而od\n短暫的好轉後心臟的傷口又擴大了幾分\n於是走向了更加強力的藥物\n遊走於社會規則的邊緣\n用藥物自救\n主觀意志體會到了短暫的好轉得到了健全的體驗\n可是一切說到底都无意义\n心臟上的傷口只會越來越扩大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/12866以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 152,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1171
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "od不扩散就是个笑话，要是没扩散的话我tm就不会出现在这里 自由意志主义者 前世：@XuaEdward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XuaEdward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.fandom.com",
+                "end": 23,
+                "expanded_url": "http://nonexistent.fandom.com",
+                "start": 0,
+                "url": "https://t.co/jSvdcBPiBx"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "ZheJiang",
+        "name": "💊爱德华 gen4 转生体",
+        "pinned_tweet_id": "1931446534899740939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950996785687908352/8FndmWCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 375,
+          "like_count": 3489,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/jSvdcBPiBx",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

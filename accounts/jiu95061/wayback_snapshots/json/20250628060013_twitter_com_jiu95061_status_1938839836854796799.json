@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938812172664279067",
+    "created_at": "2025-06-28T06:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T07:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938839836854796799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938839836854796799",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938812172664279067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day 这是个傻逼健全人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28328,
+        "height": 1280,
+        "media_key": "7_1938810823700561920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1938810823700561920/pu/img/zx2naqyGCeASR51q.jpg",
+        "public_metrics": {
+          "view_count": 119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938810823700561920/pu/vid/avc1/320x568/BVdrKYMok3s_mBbq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938810823700561920/pu/vid/avc1/480x852/pv04vLMYxDzIdszH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938810823700561920/pu/vid/avc1/720x1280/V3gWRAoFq4HMHbqI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1938810823700561920/pu/pl/LgZDcHg2Abil_Qza.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938812172664279067",
+        "created_at": "2025-06-28T06:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938839836854796799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938839836854796799",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938812172664279067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day 这是个傻逼健全人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1938810823700561920"
+          ]
+        },
+        "author_id": "1867639848569372672",
+        "conversation_id": "1938812172664279067",
+        "created_at": "2025-06-28T04:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938812172664279067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQBqBYppd1",
+              "end": 23,
+              "expanded_url": "https://x.com/overdose_day/status/1938812172664279067/video/1",
+              "media_key": "7_1938810823700561920",
+              "start": 0,
+              "url": "https://t.co/yQBqBYppd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938812172664279067",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yQBqBYppd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 131,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1068
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "无偿分享精神活性化工原料，欢迎访问:https://t.co/bwfCFLxN8g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 41,
+                "expanded_url": "https://overdose.day",
+                "start": 18,
+                "url": "https://t.co/bwfCFLxN8g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "✝️药物百科✝️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4124,
+          "following_count": 1836,
+          "like_count": 1131,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

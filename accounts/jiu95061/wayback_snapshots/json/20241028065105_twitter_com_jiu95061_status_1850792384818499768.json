@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850037349788549123"
+      ],
+      "media_source_tweet_id": [
+        "1850037359431315803"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1850792384818499768",
+    "created_at": "2024-10-28T06:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T07:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850792384818499768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1798973598163681280",
+          "start": 3,
+          "username": "cc22551002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOlFbRhy1q",
+          "end": 93,
+          "expanded_url": "https://x.com/cc22551002/status/1850037359431315803/photo/1",
+          "media_key": "3_1850037349788549123",
+          "start": 70,
+          "url": "https://t.co/jOlFbRhy1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850792384818499768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850037359431315803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cc22551002: 门槛定价了哦！看简介……之前一直没有写上去…主要是想了解一下粉丝们的消费能力，这是众多门槛哥的推荐价位…… https://t.co/jOlFbRhy1q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1850792384818499768].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1850792384818499768",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1850792384818499768"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_1850037349788549123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaynKu9aAAM_vK8.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850037349788549123"
+          ]
+        },
+        "author_id": "1798973598163681280",
+        "conversation_id": "1850037359431315803",
+        "created_at": "2024-10-26T04:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T05:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850037359431315803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOlFbRhy1q",
+              "end": 77,
+              "expanded_url": "https://x.com/cc22551002/status/1850037359431315803/photo/1",
+              "media_key": "3_1850037349788549123",
+              "start": 54,
+              "url": "https://t.co/jOlFbRhy1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850037359431315803",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2764,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "门槛定价了哦！看简介……之前一直没有写上去…主要是想了解一下粉丝们的消费能力，这是众多门槛哥的推荐价位…… https://t.co/jOlFbRhy1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🍥",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 99,
+          "like_count": 572,
+          "listed_count": 0,
+          "tweet_count": 702
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T07:01:56.000Z",
+        "description": "07年 jk Lolita 俄式女仆……当朋友圈发｜有女友门槛🚪248/888/3888（只看推特的根本想象不到内容有多绝绝子）｜又骚又甜，可以做主人的专属小狗🐶｜完美RBQ (肉便器)，吞jing小狗就是我………｜纯享点媒体",
+        "id": "1798973598163681280",
+        "location": "位置都是骗人的……信的都是大猪头！",
+        "name": "雪糕",
+        "pinned_tweet_id": "1847937689493926193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850756632302825472/CF9qQu94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 242,
+          "like_count": 440,
+          "listed_count": 0,
+          "tweet_count": 200
+        },
+        "username": "cc22551002",
+        "verified": false
+      }
+    ]
+  }
+}

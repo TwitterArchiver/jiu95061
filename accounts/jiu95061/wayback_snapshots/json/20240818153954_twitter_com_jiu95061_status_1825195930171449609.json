@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1825195930171449609",
+    "created_at": "2024-08-18T15:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T16:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825195930171449609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823658262824460288",
+          "start": 3,
+          "username": "Mewokoko33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825195930171449609",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823661208144372080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mewokoko33: 我是电子猫猫求主人入门＞_＜\n🚪支持zfb和口令\n🧧128基础有消息会回\n🧧288半绿聊\n🧧520一个月电子女友服务～和部分福利\n🧧1314你是我主人送全部福利和永久陪玩\n🧧1888以上全部包含并送你额外专属福利视频～且线下免路费\n求爸爸入门吧！…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1825195930171449609].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1825195930171449609",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1825195930171449609"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823661198061211648",
+            "3_1823661198229037058",
+            "3_1823661198065442817",
+            "3_1823661198082183168"
+          ]
+        },
+        "author_id": "1823658262824460288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1823661208144372080",
+        "created_at": "2024-08-14T10:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T11:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823661208144372080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "门槛"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "线下"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xahgymkgmw",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Mewokoko33/status/1823661208144372080/photo/1",
+              "media_key": "3_1823661198061211648",
+              "start": 158,
+              "url": "https://t.co/XAhGYMkGmW"
+            },
+            {
+              "display_url": "pic.x.com/xahgymkgmw",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Mewokoko33/status/1823661208144372080/photo/1",
+              "media_key": "3_1823661198229037058",
+              "start": 158,
+              "url": "https://t.co/XAhGYMkGmW"
+            },
+            {
+              "display_url": "pic.x.com/xahgymkgmw",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Mewokoko33/status/1823661208144372080/photo/1",
+              "media_key": "3_1823661198065442817",
+              "start": 158,
+              "url": "https://t.co/XAhGYMkGmW"
+            },
+            {
+              "display_url": "pic.x.com/xahgymkgmw",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Mewokoko33/status/1823661208144372080/photo/1",
+              "media_key": "3_1823661198082183168",
+              "start": 158,
+              "url": "https://t.co/XAhGYMkGmW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823661208144372080",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16230,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "我是电子猫猫求主人入门＞_＜\n🚪支持zfb和口令\n🧧128基础有消息会回\n🧧288半绿聊\n🧧520一个月电子女友服务～和部分福利\n🧧1314你是我主人送全部福利和永久陪玩\n🧧1888以上全部包含并送你额外专属福利视频～且线下免路费\n求爸爸入门吧！我缺钱，入门不退我会好好服侍你的！\n#门槛 #线下 #爸爸活 #半绿 https://t.co/XAhGYMkGmW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 96,
+          "like_count": 556,
+          "listed_count": 0,
+          "tweet_count": 666
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T09:49:53.000Z",
+        "description": "求爸爸入门我是个可怜小女孩…谁来心疼我…🥹",
+        "id": "1823658262824460288",
+        "location": "问坐标15r",
+        "name": "猫猫（纯看黄别找我谢谢）",
+        "pinned_tweet_id": "1823661208144372080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823658367061254146/wETHJSqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 16,
+          "like_count": 71,
+          "listed_count": 1,
+          "tweet_count": 143
+        },
+        "username": "Mewokoko33",
+        "verified": false
+      }
+    ]
+  }
+}

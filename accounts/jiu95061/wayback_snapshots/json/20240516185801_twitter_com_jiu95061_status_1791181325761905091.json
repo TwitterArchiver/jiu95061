@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1791161894520357243",
+    "created_at": "2024-05-16T18:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T19:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791181325761905091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1495305183030497286",
+          "start": 0,
+          "username": "youdanmeiyouyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791181325761905091",
+    "in_reply_to_user_id": "1495305183030497286",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791176095628394617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youdanmeiyouyou 要成水仙力。🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1791161894520357243",
+        "created_at": "2024-05-16T18:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T19:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791181325761905091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1495305183030497286",
+              "start": 0,
+              "username": "youdanmeiyouyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791181325761905091",
+        "in_reply_to_user_id": "1495305183030497286",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791176095628394617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youdanmeiyouyou 要成水仙力。🤤"
+      },
+      {
+        "attachments": {},
+        "author_id": "1495305183030497286",
+        "conversation_id": "1791161894520357243",
+        "created_at": "2024-05-16T18:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T19:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791176095628394617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791176095628394617",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791161894520357243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 有自信是好事 你说的也是事实。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "求求主人施舍我点钱吧🥺🥺🥺",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 49,
+          "like_count": 251,
+          "listed_count": 0,
+          "tweet_count": 135
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T07:52:04.000Z",
+        "description": "05 INFJ n=1 慶應志望 🚹中国人デス 日常垢 コーラ依存 中国語、日本語、英語全部OK  小説書いてる　喵。",
+        "id": "1495305183030497286",
+        "location": "Tokyo-to, Japan",
+        "name": "ゆうき　生まれたから慶應推しデス",
+        "pinned_tweet_id": "1774131458275443126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535803583840788480/RoE2In1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 738,
+          "like_count": 14043,
+          "listed_count": 4,
+          "tweet_count": 3783
+        },
+        "username": "youdanmeiyouyou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1825554335113322592",
+    "created_at": "2024-08-19T16:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T17:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825564022072361163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1315584442098872320",
+          "start": 0,
+          "username": "craneX010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825564022072361163",
+    "in_reply_to_user_id": "1315584442098872320",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825554335113322592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@craneX010 不要难过啦，我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1825554335113322592",
+        "created_at": "2024-08-19T16:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T17:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825564022072361163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1315584442098872320",
+              "start": 0,
+              "username": "craneX010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825564022072361163",
+        "in_reply_to_user_id": "1315584442098872320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825554335113322592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@craneX010 不要难过啦，我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315584442098872320",
+        "conversation_id": "1825554335113322592",
+        "created_at": "2024-08-19T15:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T16:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825554335113322592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825554335113322592",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，可是我好难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816518411012440066/hrOziecH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 101,
+          "like_count": 557,
+          "listed_count": 0,
+          "tweet_count": 669
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T09:25:58.000Z",
+        "description": "現実から逃げたい   #病み垢   DM大歓迎",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1315584442098872320",
+        "location": "ゴミ捨て場",
+        "name": "奈落ぅ",
+        "pinned_tweet_id": "1417433868139859969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691708892508454913/bPLpcLTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 1795,
+          "like_count": 17149,
+          "listed_count": 27,
+          "tweet_count": 409
+        },
+        "username": "craneX010",
+        "verified": false
+      }
+    ]
+  }
+}

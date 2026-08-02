@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1938743606094758225",
+    "created_at": "2025-06-28T09:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T10:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938896930937229329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886854751377350660",
+          "start": 0,
+          "username": "xia_ye57198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938896930937229329",
+    "in_reply_to_user_id": "1886854751377350660",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938743606094758225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xia_ye57198 我投云初一票"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938743595332444160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GufNBy5aoAA8GuL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1938743606094758225",
+        "created_at": "2025-06-28T09:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938896930937229329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886854751377350660",
+              "start": 0,
+              "username": "xia_ye57198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938896930937229329",
+        "in_reply_to_user_id": "1886854751377350660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938743606094758225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xia_ye57198 我投云初一票"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938743595332444160"
+          ]
+        },
+        "author_id": "1886854751377350660",
+        "conversation_id": "1938743606094758225",
+        "created_at": "2025-06-27T23:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T00:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938743606094758225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lP3C4E222h",
+              "end": 34,
+              "expanded_url": "https://x.com/xia_ye57198/status/1938743606094758225/photo/1",
+              "media_key": "3_1938743595332444160",
+              "start": 11,
+              "url": "https://t.co/lP3C4E222h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938743606094758225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 22752,
+          "like_count": 201,
+          "quote_count": 2,
+          "reply_count": 52,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不是。这是哪个平台啊 https://t.co/lP3C4E222h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图 负能量⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935386681701711876/TtAQvfHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 132,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1074
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T19:10:17.000Z",
+        "description": "ENFP/中二病晚期/碎碎念/多和菇互动好不好🥺💗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xia_ye57198",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xia_ye57198",
+                "start": 0,
+                "url": "https://t.co/GoJXMqf7MH"
+              }
+            ]
+          }
+        },
+        "id": "1886854751377350660",
+        "location": "提问箱在这里",
+        "name": "蘑菇吃不",
+        "pinned_tweet_id": "1938097605906772034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937825165120831489/b7bw1KIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 57,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/GoJXMqf7MH",
+        "username": "xia_ye57198",
+        "verified": false
+      }
+    ]
+  }
+}

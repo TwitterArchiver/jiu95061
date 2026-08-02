@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982359105604911104"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1982359134176706687",
+    "created_at": "2025-10-26T08:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T09:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982359134176706687"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 12,
+          "start": 10,
+          "tag": "m"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "线下"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "骚货"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Axtvx4kcB6",
+          "end": 114,
+          "expanded_url": "https://x.com/jiu95061/status/1982359134176706687/photo/1",
+          "media_key": "3_1982359105604911104",
+          "start": 91,
+          "url": "https://t.co/Axtvx4kcB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982359134176706687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#门槛妹 #爸爸活 #m #线下 #骚货 我需要钱我需要性我需要性我不想别人挤一间挂逼房了连自慰都不方便什么包养包夜什么都行我想回家我想做爱我想自慰性压抑了啊啊随便谁带我走和我做爱 https://t.co/Axtvx4kcB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982359105604911104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LBGoLXgAAkh9L.jpg",
+        "width": 1805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982359105604911104"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1982359134176706687",
+        "created_at": "2025-10-26T08:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982359134176706687"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 12,
+              "start": 10,
+              "tag": "m"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "线下"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "骚货"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Axtvx4kcB6",
+              "end": 114,
+              "expanded_url": "https://x.com/jiu95061/status/1982359134176706687/photo/1",
+              "media_key": "3_1982359105604911104",
+              "start": 91,
+              "url": "https://t.co/Axtvx4kcB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982359134176706687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛妹 #爸爸活 #m #线下 #骚货 我需要钱我需要性我需要性我不想别人挤一间挂逼房了连自慰都不方便什么包养包夜什么都行我想回家我想做爱我想自慰性压抑了啊啊随便谁带我走和我做爱 https://t.co/Axtvx4kcB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 186,
+          "like_count": 887,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1260
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

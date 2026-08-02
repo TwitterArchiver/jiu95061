@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1851467537105736170",
+    "created_at": "2024-10-30T03:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T04:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851467537105736170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845038811732226048",
+          "start": 3,
+          "username": "tuned9090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851467537105736170",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851366887340577220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuned9090: 大家好我是闲着没事 06/163/45/江苏全国飞\n🚪99好友位不聊天 可验证\n🚪199可回复 咨询\n🚪388福利一个➕每天找你聊\n🚪520视频1v1 30分钟\n🚪888视频1v1 一个小时\n🚪1314线上三天女友什么都听你的\n🚪1888线下包夜非…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851467537105736170].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851467537105736170",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851467537105736170"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851366876083077121",
+            "3_1851366876141780992"
+          ]
+        },
+        "author_id": "1845038811732226048",
+        "conversation_id": "1851366887340577220",
+        "created_at": "2024-10-29T20:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T21:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851366887340577220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 169,
+              "start": 166,
+              "tag": "江苏"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "非绿"
+            },
+            {
+              "end": 177,
+              "start": 174,
+              "tag": "陪聊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AK2cSLw1v",
+              "end": 201,
+              "expanded_url": "https://x.com/tuned9090/status/1851366887340577220/photo/1",
+              "media_key": "3_1851366876083077121",
+              "start": 178,
+              "url": "https://t.co/0AK2cSLw1v"
+            },
+            {
+              "display_url": "pic.x.com/0AK2cSLw1v",
+              "end": 201,
+              "expanded_url": "https://x.com/tuned9090/status/1851366887340577220/photo/1",
+              "media_key": "3_1851366876141780992",
+              "start": 178,
+              "url": "https://t.co/0AK2cSLw1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851366887340577220",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1584,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是闲着没事 06/163/45/江苏全国飞\n🚪99好友位不聊天 可验证\n🚪199可回复 咨询\n🚪388福利一个➕每天找你聊\n🚪520视频1v1 30分钟\n🚪888视频1v1 一个小时\n🚪1314线上三天女友什么都听你的\n🚪1888线下包夜非绿\n🚪2600线下三夜\n🚪5200你是我主人线上包月\n🚪20000线下包夜#门槛妹 #江苏 #非绿 #陪聊 https://t.co/0AK2cSLw1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 101,
+          "like_count": 578,
+          "listed_count": 0,
+          "tweet_count": 738
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T09:48:34.000Z",
+        "description": "女孩子可以找我互转 我可验证 只回口令红包备注联系方式和姓的 和赞赏码 联系方式",
+        "id": "1845038811732226048",
+        "location": "线下不支持面付 付一半定金",
+        "name": "闲着没事",
+        "pinned_tweet_id": "1851366887340577220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845038891251933184/1D4L8Z9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 47,
+          "like_count": 27,
+          "listed_count": 3,
+          "tweet_count": 281
+        },
+        "username": "tuned9090",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1802716798367957424",
+    "created_at": "2024-06-18T07:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T08:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802960239861563562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770504315888877568",
+          "start": 0,
+          "username": "Yuuuki1739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802960239861563562",
+    "in_reply_to_user_id": "1770504315888877568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802751592757887283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuuki1739 没有。晚点给你看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1802716798367957424",
+        "created_at": "2024-06-18T07:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T08:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802960239861563562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770504315888877568",
+              "start": 0,
+              "username": "Yuuuki1739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802960239861563562",
+        "in_reply_to_user_id": "1770504315888877568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802751592757887283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuuki1739 没有。晚点给你看看"
+      },
+      {
+        "attachments": {},
+        "author_id": "1770504315888877568",
+        "conversation_id": "1802716798367957424",
+        "created_at": "2024-06-17T17:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T18:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802751592757887283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802751592757887283",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802750447238984178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 有无片段我钻研一下🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1801584641486557225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 56,
+          "like_count": 463,
+          "listed_count": 0,
+          "tweet_count": 522
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T17:35:07.000Z",
+        "description": "日本語English中文 裏アカ/因为承認欲求导致的男喘号/INFJ/不是4i。/不是男同。纯喜欢女生/私信看到都会回的最好夸夸我/好想死。/在破烂的地方一个人烂掉",
+        "id": "1770504315888877568",
+        "location": "一个人孤独发臭腐烂的地方",
+        "name": "宮城いずみMiyagi",
+        "pinned_tweet_id": "1791850295158575478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791847435431821313/XzrdcT1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 108,
+          "like_count": 2769,
+          "listed_count": 0,
+          "tweet_count": 902
+        },
+        "username": "Yuuuki1739",
+        "verified": true
+      }
+    ]
+  }
+}

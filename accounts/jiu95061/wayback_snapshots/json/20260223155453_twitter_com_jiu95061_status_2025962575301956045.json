@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2025877498094108873",
+    "created_at": "2026-02-23T15:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025962575301956045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1373259899145125898",
+          "start": 0,
+          "username": "Zzkusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025962575301956045",
+    "in_reply_to_user_id": "1373259899145125898",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025877498094108873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzkusa ATM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2025877498094108873",
+        "created_at": "2026-02-23T15:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025962575301956045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1373259899145125898",
+              "start": 0,
+              "username": "Zzkusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025962575301956045",
+        "in_reply_to_user_id": "1373259899145125898",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025877498094108873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzkusa ATM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373259899145125898",
+        "conversation_id": "2025877498094108873",
+        "created_at": "2026-02-23T10:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025877498094108873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025877498094108873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3657,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贡圈是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 203,
+          "like_count": 1145,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1640
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-20T13:07:39.000Z",
+        "description": "喜欢小狗 不喜欢没礼貌的家伙 不加v",
+        "id": "1373259899145125898",
+        "name": "小尼",
+        "pinned_tweet_id": "1891698899984720203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458770458963476480/8wWWmcnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 48,
+          "like_count": 978,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 2090
+        },
+        "username": "Zzkusa",
+        "verified": false
+      }
+    ]
+  }
+}

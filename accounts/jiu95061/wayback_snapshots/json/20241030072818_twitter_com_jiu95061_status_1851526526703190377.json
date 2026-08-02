@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1851526526703190377",
+    "created_at": "2024-10-30T07:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T08:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851526526703190377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1473397631024050178",
+          "start": 3,
+          "username": "stc_afsal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851526526703190377",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838221128004669567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stc_afsal: 我是小茜/akane 不知道几点零重生归来\n08丨153丨37kg\n精神病家里蹲自残od妹\n努力攒大专学费生活费中\n🚪88/188/288/520/1314/5200 区别看P2\n过门只收支付宝/支付宝口令红包\n求大人们帮忙转转助我寻回前世互关😢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1851526526703190377",
+        "created_at": "2024-10-30T07:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T08:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851526526703190377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473397631024050178",
+              "start": 3,
+              "username": "stc_afsal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851526526703190377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838221128004669567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stc_afsal: 我是小茜/akane 不知道几点零重生归来\n08丨153丨37kg\n精神病家里蹲自残od妹\n努力攒大专学费生活费中\n🚪88/188/288/520/1314/5200 区别看P2\n过门只收支付宝/支付宝口令红包\n求大人们帮忙转转助我寻回前世互关😢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838221114700333056",
+            "3_1838221114692005888",
+            "3_1838221114692034560"
+          ]
+        },
+        "author_id": "1473397631024050178",
+        "conversation_id": "1838221128004669567",
+        "created_at": "2024-09-23T14:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T15:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838221128004669567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "线上"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "门槛"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "反差"
+            },
+            {
+              "end": 157,
+              "start": 152,
+              "tag": "女高中生"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "陪聊"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "包养"
+            },
+            {
+              "end": 170,
+              "start": 166,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 176,
+              "start": 171,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RLt4t35Z6",
+              "end": 200,
+              "expanded_url": "https://x.com/stc_afsal/status/1838221128004669567/photo/1",
+              "media_key": "3_1838221114700333056",
+              "start": 177,
+              "url": "https://t.co/5RLt4t35Z6"
+            },
+            {
+              "display_url": "pic.x.com/5RLt4t35Z6",
+              "end": 200,
+              "expanded_url": "https://x.com/stc_afsal/status/1838221128004669567/photo/1",
+              "media_key": "3_1838221114692005888",
+              "start": 177,
+              "url": "https://t.co/5RLt4t35Z6"
+            },
+            {
+              "display_url": "pic.x.com/5RLt4t35Z6",
+              "end": 200,
+              "expanded_url": "https://x.com/stc_afsal/status/1838221128004669567/photo/1",
+              "media_key": "3_1838221114692034560",
+              "start": 177,
+              "url": "https://t.co/5RLt4t35Z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838221128004669567",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22693,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "我是小茜/akane 不知道几点零重生归来\n08丨153丨37kg\n精神病家里蹲自残od妹\n努力攒大专学费生活费中\n🚪88/188/288/520/1314/5200 区别看P2\n过门只收支付宝/支付宝口令红包\n求大人们帮忙转转助我寻回前世互关😢\n#线上 #金主爸爸 #门槛妹 #门槛哥 #门槛 #反差 #女高中生 #陪聊 #包养 #爸爸活 #电子女友 https://t.co/5RLt4t35Z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849885897292234752/fOwdzsFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 102,
+          "like_count": 579,
+          "listed_count": 0,
+          "tweet_count": 744
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T20:59:14.000Z",
+        "description": "🚪88/188/288/520/1314/5200 私信没回就是在睡觉",
+        "id": "1473397631024050178",
+        "name": "茜akane",
+        "pinned_tweet_id": "1838221128004669567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838220807564111872/X-jM5plY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 44,
+          "like_count": 10,
+          "listed_count": 0,
+          "tweet_count": 132
+        },
+        "username": "stc_afsal",
+        "verified": false
+      }
+    ]
+  }
+}

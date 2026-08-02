@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979010291997331457"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1979010303003078997",
+    "created_at": "2025-10-17T02:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T03:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979010303003078997"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "少萝"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "骚货"
+        },
+        {
+          "end": 78,
+          "start": 76,
+          "tag": "m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nWjqJuprrW",
+          "end": 102,
+          "expanded_url": "https://x.com/jiu95061/status/1979010303003078997/photo/1",
+          "media_key": "3_1979010291997331457",
+          "start": 79,
+          "url": "https://t.co/nWjqJuprrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979010303003078997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好穷 准备接线下爸爸活了有没有爸爸来操我 半绿可以口吞精哦 非绿可以随便操我想被陌生人操到昏厥 问坐标跟价位10r🥵#门槛妹 #爸爸活 #少萝 #骚货 #m https://t.co/nWjqJuprrW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1979010291997331457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3bbYBVX0AEP4Sj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979010291997331457"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1979010303003078997",
+        "created_at": "2025-10-17T02:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T03:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979010303003078997"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "少萝"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "骚货"
+            },
+            {
+              "end": 78,
+              "start": 76,
+              "tag": "m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWjqJuprrW",
+              "end": 102,
+              "expanded_url": "https://x.com/jiu95061/status/1979010303003078997/photo/1",
+              "media_key": "3_1979010291997331457",
+              "start": 79,
+              "url": "https://t.co/nWjqJuprrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979010303003078997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好穷 准备接线下爸爸活了有没有爸爸来操我 半绿可以口吞精哦 非绿可以随便操我想被陌生人操到昏厥 问坐标跟价位10r🥵#门槛妹 #爸爸活 #少萝 #骚货 #m https://t.co/nWjqJuprrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/12866以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 178,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1223
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

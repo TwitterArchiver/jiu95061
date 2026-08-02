@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1800209041563750902",
+    "created_at": "2024-06-12T08:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T09:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800812979669344746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1532606195214581760",
+          "start": 0,
+          "username": "xijinping1sb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800812979669344746",
+    "in_reply_to_user_id": "1532606195214581760",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800209041563750902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping1sb 24。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1800209041563750902",
+        "created_at": "2024-06-12T08:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T09:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800812979669344746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1532606195214581760",
+              "start": 0,
+              "username": "xijinping1sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800812979669344746",
+        "in_reply_to_user_id": "1532606195214581760",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800209041563750902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping1sb 24。。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1532606195214581760",
+        "conversation_id": "1800209041563750902",
+        "created_at": "2024-06-10T16:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T17:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800209041563750902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800209041563750902",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 44130,
+          "like_count": 192,
+          "quote_count": 7,
+          "reply_count": 321,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们空调开多少度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1785421470275158268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 55,
+          "like_count": 516,
+          "listed_count": 0,
+          "tweet_count": 493
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T06:12:55.000Z",
+        "description": "半岁静/二次元/中文/日本語/English/INFP-T/支持LGBTQ+🏳️‍⚧️🏳️‍🌈/崩三原神铁道玩家/包容所有政治立场/政治立场左下↙，极端形态黑化变支黑/负能量注意/键政注意/o💊/摆烂不登校中/享乐主义/误b致歉/精神状态不好/求同存异/以上排名不分先后",
+        "id": "1532606195214581760",
+        "location": "IP属地：疯狂宇宙",
+        "name": "香蕉皮🍌",
+        "pinned_tweet_id": "1796160688500477964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747686466111827968/N_p0ZG5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5970,
+          "following_count": 2483,
+          "like_count": 190213,
+          "listed_count": 13,
+          "tweet_count": 14861
+        },
+        "username": "xijinping1sb",
+        "verified": false
+      }
+    ]
+  }
+}

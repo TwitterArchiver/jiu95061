@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2025579648638489040",
+    "created_at": "2026-02-23T07:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025833142377218241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752640236138684416",
+          "start": 0,
+          "username": "xiohunggu251015"
+        },
+        {
+          "end": 30,
+          "id": "2011805883937013766",
+          "start": 17,
+          "username": "N552AAN552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025833142377218241",
+    "in_reply_to_user_id": "1752640236138684416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025579648638489040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiohunggu251015 @N552AAN552AA 真有人会找他援交吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_2025579641478823936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxN87KbwAAgnNe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025579642028228609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxN89NbAAEDjuY.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2025579648638489040",
+        "created_at": "2026-02-23T07:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025833142377218241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752640236138684416",
+              "start": 0,
+              "username": "xiohunggu251015"
+            },
+            {
+              "end": 30,
+              "id": "2011805883937013766",
+              "start": 17,
+              "username": "N552AAN552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025833142377218241",
+        "in_reply_to_user_id": "1752640236138684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025579648638489040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiohunggu251015 @N552AAN552AA 真有人会找他援交吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025579641478823936",
+            "3_2025579642028228609"
+          ]
+        },
+        "author_id": "1752640236138684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025579648638489040",
+        "created_at": "2026-02-22T14:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025579648638489040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011805883937013766",
+              "start": 2,
+              "username": "N552AAN552AA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQS92Pihoz",
+              "end": 47,
+              "expanded_url": "https://x.com/xiohunggu251015/status/2025579648638489040/photo/1",
+              "media_key": "3_2025579641478823936",
+              "start": 24,
+              "url": "https://t.co/vQS92Pihoz"
+            },
+            {
+              "display_url": "pic.x.com/vQS92Pihoz",
+              "end": 47,
+              "expanded_url": "https://x.com/xiohunggu251015/status/2025579648638489040/photo/1",
+              "media_key": "3_2025579642028228609",
+              "start": 24,
+              "url": "https://t.co/vQS92Pihoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025579648638489040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 60281,
+          "like_count": 112,
+          "quote_count": 10,
+          "reply_count": 31,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "来帮@N552AAN552AA 宣传下（（\n🥹 https://t.co/vQS92Pihoz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023814358825123840/XIfDdrWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 203,
+          "like_count": 1136,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1636
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:29:40.000Z",
+        "description": "2009/12/24  |  MC玩家  |  台湾药娘王(座标台中)  |  精神状态轻度糟糕(?)  |  不od不割手  |  旧帐号  @omgnowihavefish  |  大社恐  |  妈妈: @HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 118,
+                "start": 105,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1752640236138684416",
+        "name": "黄瓜🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2025023382308487514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015661976337461249/5k_w3tLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 780,
+          "like_count": 6302,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1200
+        },
+        "username": "xiohunggu251015",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T14:21:29.000Z",
+        "description": "08/MTX（f?/ENTP-T/双相/ADHD/BPD/精分/家长抛弃党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/imSQNaN8M8"
+              }
+            ]
+          }
+        },
+        "id": "2011805883937013766",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（五代目）",
+        "pinned_tweet_id": "2025521449994469843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011806091517313029/rq4MKgBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 124,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/imSQNaN8M8",
+        "username": "N552AAN552AA",
+        "verified": false
+      }
+    ]
+  }
+}

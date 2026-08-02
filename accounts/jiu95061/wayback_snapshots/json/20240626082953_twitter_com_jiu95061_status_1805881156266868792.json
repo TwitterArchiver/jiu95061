@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "1795849622885159408",
+    "created_at": "2024-06-26T08:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T09:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805881156266868792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1324267087586422784",
+          "start": 0,
+          "username": "15120906wer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805881156266868792",
+    "in_reply_to_user_id": "1324267087586422784",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805835374108856763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@15120906wer 金刚烷胺啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "1795849622885159408",
+        "created_at": "2024-06-26T08:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T09:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805881156266868792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1324267087586422784",
+              "start": 0,
+              "username": "15120906wer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805881156266868792",
+        "in_reply_to_user_id": "1324267087586422784",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805835374108856763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@15120906wer 金刚烷胺啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1324267087586422784",
+        "conversation_id": "1795849622885159408",
+        "created_at": "2024-06-26T05:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T06:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805835374108856763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749512000340942848",
+              "start": 0,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805835374108856763",
+        "in_reply_to_user_id": "1749512000340942848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795849622885159408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu95061 想问问晚安是啥药😅小白一枚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照更多的是牢骚/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/66以上开朋友圈。\n💕想入的可以私我要赞赏码，谢谢爸爸\n谢谢主人关注。",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳👁️",
+        "pinned_tweet_id": "1801584641486557225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786905684019408897/AiV_FuhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 63,
+          "like_count": 486,
+          "listed_count": 0,
+          "tweet_count": 573
+        },
+        "username": "jiu95061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T08:27:37.000Z",
+        "description": "喜欢无性别穿搭，我是男生，是男生，是男生！爱好男！聊天带照，不闲聊加V有门槛88💰（不喜下滑，别找存在感）",
+        "id": "1324267087586422784",
+        "location": "海口",
+        "name": "苏熊猫 海口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778465711461183490/bGlzLJnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 123,
+          "like_count": 107,
+          "listed_count": 2,
+          "tweet_count": 257
+        },
+        "username": "15120906wer",
+        "verified": false
+      }
+    ]
+  }
+}

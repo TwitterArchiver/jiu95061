@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1974201155980046337"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "1974201186334196206",
+    "created_at": "2025-10-03T19:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T20:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974201186334196206"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "自伤"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aTCFKoD3C0",
+          "end": 27,
+          "expanded_url": "https://x.com/jiu95061/status/1974201186334196206/video/1",
+          "media_key": "7_1974201155980046337",
+          "start": 4,
+          "url": "https://t.co/aTCFKoD3C0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974201186334196206",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自伤 https://t.co/aTCFKoD3C0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7964,
+        "height": 1280,
+        "media_key": "7_1974201155980046337",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974201155980046337/pu/img/0kK0mP_mojhD3Nuz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974201155980046337/pu/vid/avc1/320x568/om3Uuw6uvgm7IlRW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974201155980046337/pu/vid/avc1/480x852/s_yUwdCcFxMzrnU1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974201155980046337/pu/vid/avc1/720x1280/lNnCTLqkCjmw1D1w.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974201155980046337/pu/pl/M9easPlc68NpWR25.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974201155980046337"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "1974201186334196206",
+        "created_at": "2025-10-03T19:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T20:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974201186334196206"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自伤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTCFKoD3C0",
+              "end": 27,
+              "expanded_url": "https://x.com/jiu95061/status/1974201186334196206/video/1",
+              "media_key": "7_1974201155980046337",
+              "start": 4,
+              "url": "https://t.co/aTCFKoD3C0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974201186334196206",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自伤 https://t.co/aTCFKoD3C0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/不线下不视频/家里不给生活费我没饭吃\n🚪：52/66/88/12866以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953459515258744834/eUeHwotP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 178,
+          "like_count": 867,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1218
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}
