@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2103908405765357568"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "2103908435368775685",
+    "created_at": "2026-09-26T18:03:54.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T19:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103908435368775685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q0tEVcHdR2",
+          "end": 31,
+          "expanded_url": "https://x.com/jiu95061/status/2103908435368775685/video/1",
+          "media_key": "7_2103908405765357568",
+          "start": 8,
+          "url": "https://t.co/Q0tEVcHdR2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103908435368775685",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "7_2103908405765357568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喝酒抽烟爽爽爽 https://t.co/Q0tEVcHdR2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17203,
+        "height": 1280,
+        "media_key": "7_2103908405765357568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2103908405765357568/pu/img/7bMYRgf6anb2yJ7M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2103908405765357568/pu/vid/avc1/320x568/0RsWkNRbpd2JDax-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2103908405765357568/pu/vid/avc1/480x852/tCAvMVj35W_IipuL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2103908405765357568/pu/vid/avc1/720x1280/7QpbdoIL-irDUq9J.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2103908405765357568/pu/pl/Z_3EWtmkvdppO4IS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2103908405765357568"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "2103908435368775685",
+        "created_at": "2026-09-26T18:03:54.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T19:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103908435368775685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0tEVcHdR2",
+              "end": 31,
+              "expanded_url": "https://x.com/jiu95061/status/2103908435368775685/video/1",
+              "media_key": "7_2103908405765357568",
+              "start": 8,
+              "url": "https://t.co/Q0tEVcHdR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103908435368775685",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2103908405765357568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝酒抽烟爽爽爽 https://t.co/Q0tEVcHdR2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/双相ii型/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n略懂药理\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "is_identity_verified": false,
+        "location": "在你身边",
+        "most_recent_tweet_id": "2103908435368775685",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749512000340942848/1776887226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 228,
+          "like_count": 1230,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 1969
+        },
+        "url": "",
+        "username": "jiu95061",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

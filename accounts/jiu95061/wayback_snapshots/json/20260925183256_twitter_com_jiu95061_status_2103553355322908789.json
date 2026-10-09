@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2103553355322908789",
+    "created_at": "2026-09-25T18:32:56.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103553355322908789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1655156716965871622",
+          "start": 3,
+          "username": "yanshi2369691"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103553355322908789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103324782691590298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanshi2369691: 15岁的我决定16岁自杀 17岁的我安慰自己说我还年轻 现在马上20岁了依旧是个糖比依旧是个傻逼 我到底还能用青少年的理由痛苦几年？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2103553355322908789",
+        "created_at": "2026-09-25T18:32:56.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103553355322908789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1655156716965871622",
+              "start": 3,
+              "username": "yanshi2369691"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103553355322908789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103324782691590298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanshi2369691: 15岁的我决定16岁自杀 17岁的我安慰自己说我还年轻 现在马上20岁了依旧是个糖比依旧是个傻逼 我到底还能用青少年的理由痛苦几年？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655156716965871622",
+        "conversation_id": "2103324782691590298",
+        "created_at": "2026-09-25T03:24:40.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103324782691590298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103324782691590298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8507,
+          "like_count": 253,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "15岁的我决定16岁自杀 17岁的我安慰自己说我还年轻 现在马上20岁了依旧是个糖比依旧是个傻逼 我到底还能用青少年的理由痛苦几年？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/双相ii型/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n略懂药理\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "is_identity_verified": false,
+        "location": "在你身边",
+        "most_recent_tweet_id": "2103553355322908789",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749512000340942848/1776887226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 230,
+          "like_count": 1230,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 1967
+        },
+        "url": "",
+        "username": "jiu95061",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-07T10:24:57.000Z",
+        "description": "丰盈悲爱。",
+        "id": "1655156716965871622",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103528113120694671",
+        "name": "真理",
+        "pinned_tweet_id": "2090406804677185904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655156716965871622/1787237623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090450616925454337/5jFPvzI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 385,
+          "like_count": 1850,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "yanshi2369691",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

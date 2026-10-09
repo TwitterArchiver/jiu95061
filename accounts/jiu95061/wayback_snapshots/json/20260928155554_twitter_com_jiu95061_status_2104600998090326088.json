@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104243316749746176"
+      ],
+      "media_source_tweet_id": [
+        "2104243321812197858"
+      ]
+    },
+    "author_id": "1749512000340942848",
+    "conversation_id": "2104600998090326088",
+    "created_at": "2026-09-28T15:55:54.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T16:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104600998090326088"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "ヤニねこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775914771440926720",
+          "start": 3,
+          "username": "kohaa__ku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gsURaTWJiT",
+          "end": 47,
+          "expanded_url": "https://x.com/kohaa__ku/status/2104243321812197858/photo/1",
+          "media_key": "3_2104243316749746176",
+          "start": 24,
+          "url": "https://t.co/gsURaTWJiT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104600998090326088",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104243316749746176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1924
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104243321812197858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohaa__ku: #ヤニねこ 春蘭 https://t.co/gsURaTWJiT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104243316749746176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPGJdfbwAAOQ4g.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104243316749746176"
+          ],
+          "media_source_tweet_id": [
+            "2104243321812197858"
+          ]
+        },
+        "author_id": "1749512000340942848",
+        "conversation_id": "2104600998090326088",
+        "created_at": "2026-09-28T15:55:54.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104600998090326088"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775914771440926720",
+              "start": 3,
+              "username": "kohaa__ku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsURaTWJiT",
+              "end": 47,
+              "expanded_url": "https://x.com/kohaa__ku/status/2104243321812197858/photo/1",
+              "media_key": "3_2104243316749746176",
+              "start": 24,
+              "url": "https://t.co/gsURaTWJiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104600998090326088",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104243316749746176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1924
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104243321812197858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohaa__ku: #ヤニねこ 春蘭 https://t.co/gsURaTWJiT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104243316749746176"
+          ]
+        },
+        "author_id": "1775914771440926720",
+        "conversation_id": "2104243321812197858",
+        "created_at": "2026-09-27T16:14:37.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104243321812197858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsURaTWJiT",
+              "end": 32,
+              "expanded_url": "https://x.com/kohaa__ku/status/2104243321812197858/photo/1",
+              "media_key": "3_2104243316749746176",
+              "start": 9,
+              "url": "https://t.co/gsURaTWJiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104243321812197858",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104243316749746176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2427,
+          "impression_count": 132164,
+          "like_count": 23320,
+          "quote_count": 21,
+          "reply_count": 8,
+          "retweet_count": 1924
+        },
+        "reply_settings": "everyone",
+        "text": "#ヤニねこ 春蘭 https://t.co/gsURaTWJiT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/双相ii型/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n略懂药理\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "is_identity_verified": false,
+        "location": "在你身边",
+        "most_recent_tweet_id": "2104600998090326088",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749512000340942848/1776887226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 230,
+          "like_count": 1234,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 1972
+        },
+        "url": "",
+        "username": "jiu95061",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T15:54:59.000Z",
+        "description": "絵を描く┋ご依頼(停止中)➤ https://t.co/WkvwzbvBBT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/kohaaku",
+                "end": 38,
+                "expanded_url": "https://lit.link/kohaaku",
+                "start": 15,
+                "url": "https://t.co/WkvwzbvBBT"
+              }
+            ]
+          }
+        },
+        "id": "1775914771440926720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104243494986670147",
+        "name": "ｺﾊｸ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775914771440926720/1714614475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024619729835741188/RZsdjHN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23520,
+          "following_count": 173,
+          "like_count": 11125,
+          "listed_count": 103,
+          "media_count": 208,
+          "tweet_count": 2018
+        },
+        "url": "",
+        "username": "kohaa__ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

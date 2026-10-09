@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1749512000340942848",
+    "conversation_id": "2106570172333211805",
+    "created_at": "2026-10-04T02:20:41.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T03:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106570172333211805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1070896319886065665",
+          "start": 3,
+          "username": "HPBOND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106570172333211805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106226135793053903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HPBOND: 有种别瞎几把封号。要封把“我的福不黑”全几把封掉。挺简单的事做不到在这里 for everyone ，你 for 你妈呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2106570172333211805",
+        "created_at": "2026-10-04T02:20:41.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106570172333211805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1070896319886065665",
+              "start": 3,
+              "username": "HPBOND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106570172333211805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106226135793053903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HPBOND: 有种别瞎几把封号。要封把“我的福不黑”全几把封掉。挺简单的事做不到在这里 for everyone ，你 for 你妈呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1070896319886065665",
+        "conversation_id": "2106226135793053903",
+        "created_at": "2026-10-03T03:33:37.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106226135793053903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x/status/21060…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/x/status/2106019976381689871",
+              "start": 62,
+              "url": "https://t.co/rF6pI0tLhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106226135793053903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10181,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106019976381689871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有种别瞎几把封号。要封把“我的福不黑”全几把封掉。挺简单的事做不到在这里 for everyone ，你 for 你妈呢。 https://t.co/rF6pI0tLhj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/双相ii型/退学女高/自伤/od/m/顺女友跨/账号会发裸照 血图⚠️//家里不给生活费我没饭吃\n🚪：52/66/88/188/520/1314 66以上开朋友圈。\n略懂药理\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n门槛or普通转账都是不退的！",
+        "id": "1749512000340942848",
+        "is_identity_verified": false,
+        "location": "在你身边",
+        "most_recent_tweet_id": "2106570172333211805",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749512000340942848/1776887226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042292135530283008/WyZhosCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 231,
+          "like_count": 1237,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 1979
+        },
+        "url": "",
+        "username": "jiu95061",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-07T04:22:33.000Z",
+        "description": "皮下老头。请看亮点。请发私信。#快乐手指服务",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "快乐手指服务"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "X.COM/HPBONDCLUB",
+                "end": 23,
+                "expanded_url": "http://X.COM/HPBONDCLUB",
+                "start": 0,
+                "url": "https://t.co/BbbZ4jmvyQ"
+              }
+            ]
+          }
+        },
+        "id": "1070896319886065665",
+        "is_identity_verified": true,
+        "location": "Hangzhou ",
+        "most_recent_tweet_id": "2106560695349518628",
+        "name": "少女快乐棒",
+        "pinned_tweet_id": "2103059905230119386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070896319886065665/1760742096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979111123656839169/7zdIhBIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104585,
+          "following_count": 10499,
+          "like_count": 10129,
+          "listed_count": 194,
+          "media_count": 1897,
+          "tweet_count": 8677
+        },
+        "url": "https://t.co/BbbZ4jmvyQ",
+        "username": "HPBOND",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
